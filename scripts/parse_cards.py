@@ -1,1 +1,56 @@
-import docx\nimport json\n\n# Function to parse the DOCX file\n\ndef parse_docx(file_path):\n    doc = docx.Document(file_path)\n    terms = []\n\n    for paragraph in doc.paragraphs:\n        # Custom logic to extract terms and explanations\n        # This is a placeholder; actual extraction logic will depend on the document structure.\n        if ':' in paragraph.text:\n            term, explanation = paragraph.text.split(':', 1)\n            terms.append({'term': term.strip(), 'explanation': explanation.strip()})\n\n    return terms\n\n\n# Main function\n\ndef main():\n    file_path = 'human_anatomy_study_guide.docx'  # Path to DOCX file\n    cards = parse_docx(file_path)\n\n    # Add standard CPC medical terminology (placeholder)\n    # Example:\n    standard_terms = [{'term': 'CPT Code', 'explanation': 'Current Procedural Terminology'}]\n    cards.extend(standard_terms)\n\n    # Writing output to JSON\n    with open('data/cards.json', 'w') as f:\n        json.dump(cards, f, indent=2)\n\n\nif __name__ == '__main__':\n    main()
+import docx
+import json
+
+# Function to parse the DOCX file
+def parse_docx(file_path):
+    doc = docx.Document(file_path)
+    cards = []
+
+    # Iterate through each section in the document
+    system = None
+    for paragraph in doc.paragraphs:
+        if paragraph.style.name == 'Heading 1':
+            system = paragraph.text.strip()  # Body system name
+        elif ':' in paragraph.text and system:
+            term, explanation = paragraph.text.split(':', 1)
+            term = term.strip()
+            explanation = explanation.strip()
+
+            # Classify terms based on prefixes/suffixes/etc.
+            if term.startswith("Epi-"):
+                category = 'prefix'
+            elif term.endswith("-itis"):
+                category = 'suffix'
+            else:
+                category = 'combined_term'  # Placeholder
+
+            card_id = f"{system.lower()}-{category}-{len(cards)+1:03d}"
+
+            cards.append({
+                'id': card_id,
+                'system': system,
+                'category': category,
+                'term': term,
+                'definition': explanation,
+                'explanation': 'Context and importance in CPC coding.',
+                'example': 'Example of usage here.',
+                'difficulty': 'basic'
+            })
+
+    # Adding additional CPC standard terms
+    standard_terms = [{'term': 'CPT Code', 'definition': 'Current Procedural Terminology', 'category': 'abbreviation'}]
+    cards.extend(standard_terms)
+
+    return cards
+
+# Main function
+def main():
+    file_path = 'human_anatomy_study_guide.docx'  # Path to DOCX file
+    cards = parse_docx(file_path)
+
+    # Write output to JSON
+    with open('data/cards.json', 'w') as f:
+        json.dump(cards, f, indent=2)
+
+if __name__ == '__main__':
+    main()

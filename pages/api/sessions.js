@@ -1,1 +1,27 @@
-import { supabase } from '../../lib/supabase';\n\nexport default async function handler(req, res) {\n  if (req.method === 'POST') {\n    const { sessionId, userId } = req.body;\n    const { data, error } = await supabase\n      .from('sessions')\n      .insert([{ user_id: userId }]);\n    if (error) return res.status(500).json({ error: 'Failed to create session' });\n    return res.status(200).json({ success: true });\n  } else {\n    res.setHeader('Allow', ['POST']);\n    return res.status(405).end();\n  }\n}
+import { createClient } from '@supabase/supabase-js';
+
+const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY);
+
+export default async function handler(req, res) {
+    if (req.method === 'POST') {
+        const { mode, cardCount } = req.body;
+        const { data, error } = await supabase
+            .from('sessions')
+            .insert([{ mode, card_count: cardCount }]);
+
+        if (error) return res.status(500).json({ error });
+        return res.status(201).json(data);
+    } else if (req.method === 'PATCH') {
+        const { id, scorePct } = req.body;
+        const { data, error } = await supabase
+            .from('sessions')
+            .update({ score_pct: scorePct })
+            .eq('id', id);
+
+        if (error) return res.status(500).json({ error });
+        return res.status(200).json(data);
+    } else {
+        res.setHeader('Allow', ['POST', 'PATCH']);
+        return res.status(405).end(`Method ${req.method} Not Allowed`);
+    }
+}

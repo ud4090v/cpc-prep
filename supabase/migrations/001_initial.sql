@@ -1,1 +1,40 @@
--- Supabase Migration --\n\nCREATE TABLE cards (\n    id SERIAL PRIMARY KEY,\n    term VARCHAR(255) NOT NULL,\n    explanation TEXT NOT NULL\n);\n\nCREATE TABLE sessions (\n    id SERIAL PRIMARY KEY,\n    user_id UUID NOT NULL,\n    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP\n);\n\nCREATE TABLE answers (\n    id SERIAL PRIMARY KEY,\n    session_id INT REFERENCES sessions(id),\n    card_id INT REFERENCES cards(id),\n    answer TEXT NOT NULL\n);\n\nCREATE TABLE card_stats (\n    id SERIAL PRIMARY KEY,\n    card_id INT REFERENCES cards(id),\n    mastered BOOLEAN DEFAULT FALSE\n);
+CREATE TABLE cards (
+  id text PRIMARY KEY,
+  system text NOT NULL,
+  category text NOT NULL,
+  term text NOT NULL,
+  definition text NOT NULL,
+  explanation text,
+  example text,
+  difficulty text DEFAULT 'basic'
+);
+
+CREATE TABLE sessions (
+  id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  started_at timestamptz DEFAULT now(),
+  ended_at timestamptz,
+  mode text NOT NULL,
+  card_count int DEFAULT 0,
+  score_pct float,
+  filters jsonb
+);
+
+CREATE TABLE answers (
+  id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  session_id uuid REFERENCES sessions(id),
+  card_id text REFERENCES cards(id),
+  user_answer text,
+  is_correct boolean,
+  time_seconds float,
+  ai_feedback text,
+  answered_at timestamptz DEFAULT now()
+);
+
+CREATE TABLE card_stats (
+  card_id text REFERENCES cards(id),
+  attempts int DEFAULT 0,
+  correct int DEFAULT 0,
+  last_seen timestamptz,
+  avg_time_sec float,
+  PRIMARY KEY (card_id)
+);

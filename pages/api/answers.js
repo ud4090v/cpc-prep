@@ -1,1 +1,18 @@
-import { supabase } from '../../lib/supabase';\n\nexport default async function handler(req, res) {\n  if (req.method === 'POST') {\n    const { answer, cardId, sessionId } = req.body;\n    // Logic to evaluate the answer against the correct answer from database\n    // (Placeholder)\n    const { data, error } = await supabase\n      .from('answers')\n      .insert([{ session_id: sessionId, card_id: cardId, answer }]);\n    if (error) return res.status(500).json({ error: 'Failed to record answer' });\n    return res.status(200).json({ success: true });\n  } else {\n    res.setHeader('Allow', ['POST']);\n    return res.status(405).end();\n  }\n}
+import { createClient } from '@supabase/supabase-js';
+
+const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY);
+
+export default async function handler(req, res) {
+    if (req.method === 'POST') {
+        const { sessionId, cardId, userAnswer, isCorrect } = req.body;
+        const { data, error } = await supabase
+            .from('answers')
+            .insert([{ session_id: sessionId, card_id: cardId, user_answer: userAnswer, is_correct: isCorrect }]);
+
+        if (error) return res.status(500).json({ error });
+        res.status(201).json(data);
+    } else {
+        res.setHeader('Allow', ['POST']);
+        res.status(405).end(`Method ${req.method} Not Allowed`);
+    }
+}

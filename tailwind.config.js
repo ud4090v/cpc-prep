@@ -1,0 +1,1 @@
+// Tailwind CSS Configuration\n// tailwind.config.js\n\n/** @type {import('tailwindcss').Config} */\nmodule.exports = {\n  content: [\n    './pages/**/*.{js,ts,jsx,tsx}',\n    './components/**/*.{js,ts,jsx,tsx}',\n  ],\n  theme: {\n    extend: {\n      colors: {\n        medicalBlue: '#0077B6',\n      },\n    },\n  },\n  plugins: [],\n};

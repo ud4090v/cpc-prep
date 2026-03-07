@@ -1,0 +1,96 @@
+export interface Card {
+  id: string;
+  system: string;
+  category: string;
+  term: string;
+  definition: string;
+  explanation: string;
+  example: string;
+  difficulty: string;
+}
+
+export interface Session {
+  id: string;
+  started_at: string;
+  ended_at?: string;
+  mode: 'study' | 'quiz';
+  card_count: number;
+  score_pct?: number;
+  filters?: Record<string, string>;
+}
+
+export interface Answer {
+  id?: string;
+  session_id: string;
+  card_id: string;
+  user_answer: string;
+  is_correct: boolean;
+  time_seconds: number;
+  ai_feedback?: string;
+  answered_at?: string;
+}
+
+export interface CardStats {
+  card_id: string;
+  attempts: number;
+  correct: number;
+  last_seen: string;
+  avg_time_sec: number;
+}
+
+export interface QuizConfig {
+  questionCount: number;
+  systems: string[];
+  answerMode: 'mc' | 'type';
+  timePerQuestion: number;
+}
+
+export interface QuizQuestion {
+  card: Card;
+  options?: string[];
+  userAnswer?: string;
+  isCorrect?: boolean;
+  timeSeconds?: number;
+}
+
+export interface EvaluateResponse {
+  isCorrect: boolean;
+  confidence: 'exact' | 'close' | 'wrong';
+  feedback: string;
+}
+
+export interface AnalyzeResponse {
+  analysis: string;
+}
+
+export interface UserStats {
+  totalAttempts: number;
+  totalCorrect: number;
+  accuracy: number;
+  cardsStudied: number;
+  studyStreak: number;
+  sessionsToday: number;
+  studiedToday: number;
+  recentSessions: SessionRecord[];
+  systemBreakdown: Record<string, { attempts: number; correct: number }>;
+  weakCards: WeakCard[];
+}
+
+export interface SessionRecord {
+  id: string;
+  date: string;
+  mode: string;
+  score: number;
+  total: number;
+  percentage: number;
+  duration: number;
+}
+
+export interface WeakCard {
+  cardId: string;
+  term: string;
+  system: string;
+  attempts: number;
+  correct: number;
+  accuracy: number;
+}

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #1A1A2E;
+  background: #F8F9FA;
+}
+
+@layer utilities {
+  .card-shadow {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  .card-shadow-lg {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  }
+}

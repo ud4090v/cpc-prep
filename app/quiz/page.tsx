@@ -77,7 +77,9 @@ export default function QuizPage() {
     const qs: QuizQuestion[] = selected.map(card => {
       let options: string[] | undefined;
       if (config.answerMode === 'mc') {
-        options = buildMcOptions(card, allCards);
+        options = card.distractors && card.distractors.length >= 3
+          ? [...card.distractors.slice(0, 3), card.definition].sort(() => Math.random() - 0.5)
+          : buildMcOptions(card, allCards);
       }
       return { card, options };
     });

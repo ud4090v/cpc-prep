@@ -7,6 +7,7 @@ export interface Card {
   explanation: string;
   example: string;
   difficulty: string;
+  distractors?: string[];
 }
 
 export interface Session {

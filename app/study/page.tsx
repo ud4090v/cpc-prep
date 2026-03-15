@@ -73,7 +73,11 @@ export default function StudyPage() {
     const card = cards[currentIndex];
     
     if (answerMode === 'mc') {
-      setOptions(buildMcOptions(card, allCards));
+      setOptions(
+        card.distractors && card.distractors.length >= 3
+          ? [...card.distractors.slice(0, 3), card.definition].sort(() => Math.random() - 0.5)
+          : buildMcOptions(card, allCards)
+      );
     }
   }, [cards, currentIndex, answerMode, allCards]);
 

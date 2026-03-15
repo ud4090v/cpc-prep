@@ -1,17 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body {
-  color: #1A1A2E;
-  background: #F8F9FA;
-}
-
-@layer utilities {
-  .card-shadow {
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  }
-  .card-shadow-lg {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
-  }
-}
+{"data":"QHRhaWx3aW5kIGJhc2U7CkB0YWlsd2luZCBjb21wb25lbnRzOwpAdGFpbHdpbmQgdXRpbGl0aWVzOwoKYm9keSB7CiAgY29sb3I6ICMxQTFBMkU7CiAgYmFja2dyb3VuZDogI0Y4RjlGQTsKfQoKQGxheWVyIHV0aWxpdGllcyB7CiAgLmNhcmQtc2hhZG93IHsKICAgIGJveC1zaGFkb3c6IDAgMnB4IDhweCByZ2JhKDAsIDAsIDAsIDAuMDgpOwogIH0KICAuY2FyZC1zaGFkb3ctbGcgewogICAgYm94LXNoYWRvdzogMCA0cHggMTZweCByZ2JhKDAsIDAsIDAsIDAuMTIpOwogIH0KfQo="}

@@ -1,6 +1,1 @@
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-}
+{"data":"bW9kdWxlLmV4cG9ydHMgPSB7CiAgcGx1Z2luczogewogICAgdGFpbHdpbmRjc3M6IHt9LAogICAgYXV0b3ByZWZpeGVyOiB7fSwKICB9LAp9Cg=="}

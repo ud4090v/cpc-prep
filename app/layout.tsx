@@ -5,6 +5,13 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'CPC Prep - Medical Coding Exam Study',
   description: 'Flash card study app for CPC (Certified Professional Coder) exam preparation',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: '32x32' },
+      { url: '/favicon.png', type: 'image/png', sizes: '32x32' },
+    ],
+    apple: '/apple-touch-icon.png',
+  },
 };
 
 function NavLink({ href, children }: { href: string; children: React.ReactNode }) {

@@ -1,1 +1,59 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgc3VwYWJhc2VBZG1pbiwgaXNTdXBhYmFzZUNvbmZpZ3VyZWQgfSBmcm9tICdAL2xpYi9zdXBhYmFzZSc7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXF1ZXN0OiBOZXh0UmVxdWVzdCkgewogIHRyeSB7CiAgICBjb25zdCBib2R5ID0gYXdhaXQgcmVxdWVzdC5qc29uKCk7CiAgICBjb25zdCB1c2VySWQgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCd4LXVzZXItaWQnKSB8fCAnYW5vbnltb3VzJzsKCiAgICBpZiAoIWlzU3VwYWJhc2VDb25maWd1cmVkKCkpIHsKICAgICAgLy8gUmV0dXJuIGEgbW9jayBzZXNzaW9uIElEIHdoZW4gU3VwYWJhc2UgaXNuJ3QgY29uZmlndXJlZAogICAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oewogICAgICAgIGlkOiBjcnlwdG8ucmFuZG9tVVVJRCgpLAogICAgICAgIHVzZXJfaWQ6IHVzZXJJZCwKICAgICAgICAuLi5ib2R5LAogICAgICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICAgICAgfSk7CiAgICB9CgogICAgY29uc3QgeyBkYXRhLCBlcnJvciB9ID0gYXdhaXQgc3VwYWJhc2VBZG1pbgogICAgICAuZnJvbSgnc2Vzc2lvbnMnKQogICAgICAuaW5zZXJ0KHsKICAgICAgICBtb2RlOiBib2R5Lm1vZGUsCiAgICAgICAgY2FyZF9jb3VudDogYm9keS5jYXJkX2NvdW50IHx8IDAsCiAgICAgICAgc2NvcmVfcGN0OiBib2R5LnNjb3JlX3BjdCwKICAgICAgICBmaWx0ZXJzOiBib2R5LmZpbHRlcnMsCiAgICAgIH0pCiAgICAgIC5zZWxlY3QoKQogICAgICAuc2luZ2xlKCk7CgogICAgaWYgKGVycm9yKSB0aHJvdyBlcnJvcjsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbihkYXRhKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcignU2Vzc2lvbiBjcmVhdGUgZXJyb3I6JywgZXJyb3IpOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdGYWlsZWQgdG8gY3JlYXRlIHNlc3Npb24nIH0sIHsgc3RhdHVzOiA1MDAgfSk7CiAgfQp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgdHJ5IHsKICAgIGNvbnN0IHsgc2VhcmNoUGFyYW1zIH0gPSBuZXcgVVJMKHJlcXVlc3QudXJsKTsKICAgIGNvbnN0IGxpbWl0ID0gcGFyc2VJbnQoc2VhcmNoUGFyYW1zLmdldCgnbGltaXQnKSB8fCAnMTAnKTsKCiAgICBpZiAoIWlzU3VwYWJhc2VDb25maWd1cmVkKCkpIHsKICAgICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgc2Vzc2lvbnM6IFtdIH0pOwogICAgfQoKICAgIGNvbnN0IHsgZGF0YSwgZXJyb3IgfSA9IGF3YWl0IHN1cGFiYXNlQWRtaW4KICAgICAgLmZyb20oJ3Nlc3Npb25zJykKICAgICAgLnNlbGVjdCgnKicpCiAgICAgIC5vcmRlcignc3RhcnRlZF9hdCcsIHsgYXNjZW5kaW5nOiBmYWxzZSB9KQogICAgICAubGltaXQobGltaXQpOwoKICAgIGlmIChlcnJvcikgdGhyb3cgZXJyb3I7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBzZXNzaW9uczogZGF0YSB9KTsKICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcignU2Vzc2lvbiBsaXN0IGVycm9yOicsIGVycm9yKTsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IHNlc3Npb25zOiBbXSB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { supabaseAdmin, isSupabaseConfigured } from '@/lib/supabase';
+
+export async function POST(request: NextRequest) {
+  try {
+    const body = await request.json();
+    const userId = request.headers.get('x-user-id') || 'anonymous';
+
+    if (!isSupabaseConfigured()) {
+      // Return a mock session ID when Supabase isn't configured
+      return NextResponse.json({
+        id: crypto.randomUUID(),
+        user_id: userId,
+        ...body,
+        created_at: new Date().toISOString(),
+      });
+    }
+
+    const { data, error } = await supabaseAdmin
+      .from('sessions')
+      .insert({
+        mode: body.mode,
+        card_count: body.card_count || 0,
+        score_pct: body.score_pct,
+        filters: body.filters,
+      })
+      .select()
+      .single();
+
+    if (error) throw error;
+    return NextResponse.json(data);
+  } catch (error) {
+    console.error('Session create error:', error);
+    return NextResponse.json({ error: 'Failed to create session' }, { status: 500 });
+  }
+}
+
+export async function GET(request: NextRequest) {
+  try {
+    const { searchParams } = new URL(request.url);
+    const limit = parseInt(searchParams.get('limit') || '10');
+
+    if (!isSupabaseConfigured()) {
+      return NextResponse.json({ sessions: [] });
+    }
+
+    const { data, error } = await supabaseAdmin
+      .from('sessions')
+      .select('*')
+      .order('started_at', { ascending: false })
+      .limit(limit);
+
+    if (error) throw error;
+    return NextResponse.json({ sessions: data });
+  } catch (error) {
+    console.error('Session list error:', error);
+    return NextResponse.json({ sessions: [] });
+  }
+}

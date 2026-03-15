@@ -1,1 +1,15 @@
-{"data":"aW1wb3J0IHsgY3JlYXRlQ2xpZW50IH0gZnJvbSAnQHN1cGFiYXNlL3N1cGFiYXNlLWpzJzsKCmNvbnN0IHN1cGFiYXNlVXJsID0gcHJvY2Vzcy5lbnYuTkVYVF9QVUJMSUNfU1VQQUJBU0VfVVJMIHx8ICdodHRwczovL3BsYWNlaG9sZGVyLnN1cGFiYXNlLmNvJzsKY29uc3Qgc3VwYWJhc2VTZXJ2aWNlS2V5ID0gcHJvY2Vzcy5lbnYuU1VQQUJBU0VfU0VSVklDRV9ST0xFX0tFWSB8fCAncGxhY2Vob2xkZXIta2V5JzsKY29uc3Qgc3VwYWJhc2VBbm9uS2V5ID0gcHJvY2Vzcy5lbnYuTkVYVF9QVUJMSUNfU1VQQUJBU0VfQU5PTl9LRVkgfHwgJ3BsYWNlaG9sZGVyLWFub24ta2V5JzsKCi8vIFNlcnZlci1zaWRlIGNsaWVudCB3aXRoIHNlcnZpY2Ugcm9sZSBrZXkKZXhwb3J0IGNvbnN0IHN1cGFiYXNlQWRtaW4gPSBjcmVhdGVDbGllbnQoc3VwYWJhc2VVcmwsIHN1cGFiYXNlU2VydmljZUtleSk7CgovLyBDbGllbnQtc2lkZSBjbGllbnQgd2l0aCBhbm9uIGtleQpleHBvcnQgY29uc3Qgc3VwYWJhc2UgPSBjcmVhdGVDbGllbnQoc3VwYWJhc2VVcmwsIHN1cGFiYXNlQW5vbktleSk7CgpleHBvcnQgZnVuY3Rpb24gaXNTdXBhYmFzZUNvbmZpZ3VyZWQoKTogYm9vbGVhbiB7CiAgcmV0dXJuICFzdXBhYmFzZVVybC5pbmNsdWRlcygncGxhY2Vob2xkZXInKSAmJiAhc3VwYWJhc2VTZXJ2aWNlS2V5LmluY2x1ZGVzKCdwbGFjZWhvbGRlcicpOwp9Cg=="}
+import { createClient } from '@supabase/supabase-js';
+
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://placeholder.supabase.co';
+const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY || 'placeholder-key';
+const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'placeholder-anon-key';
+
+// Server-side client with service role key
+export const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey);
+
+// Client-side client with anon key
+export const supabase = createClient(supabaseUrl, supabaseAnonKey);
+
+export function isSupabaseConfigured(): boolean {
+  return !supabaseUrl.includes('placeholder') && !supabaseServiceKey.includes('placeholder');
+}

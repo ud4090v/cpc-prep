@@ -1,1 +1,34 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW50ZXJmYWNlIFByb2dyZXNzQmFyUHJvcHMgewogIGN1cnJlbnQ6IG51bWJlcjsKICB0b3RhbDogbnVtYmVyOwogIGNvcnJlY3Q/OiBudW1iZXI7CiAgbGFiZWw/OiBzdHJpbmc7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByb2dyZXNzQmFyKHsgY3VycmVudCwgdG90YWwsIGNvcnJlY3QsIGxhYmVsIH06IFByb2dyZXNzQmFyUHJvcHMpIHsKICBjb25zdCBwY3QgPSB0b3RhbCA+IDAgPyAoY3VycmVudCAvIHRvdGFsKSAqIDEwMCA6IDA7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIj4KICAgICAge2xhYmVsICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LWJldHdlZW4gaXRlbXMtY2VudGVyIG1iLTEiPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS01MDAiPntsYWJlbH08L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LXRleHQiPgogICAgICAgICAgICB7Y3VycmVudH0ve3RvdGFsfQogICAgICAgICAgICB7Y29ycmVjdCAhPT0gdW5kZWZpbmVkICYmICgKICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc3VjY2VzcyBtbC0yIj4oe2NvcnJlY3R9IGNvcnJlY3QpPC9zcGFuPgogICAgICAgICAgICApfQogICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIGgtMi41IGJnLWdyYXktMjAwIHJvdW5kZWQtZnVsbCBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0iaC1mdWxsIGJnLXByaW1hcnkgcm91bmRlZC1mdWxsIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTUwMCIKICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiBgJHtwY3R9JWAgfX0KICAgICAgICAvPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+'use client';
+
+interface ProgressBarProps {
+  current: number;
+  total: number;
+  correct?: number;
+  label?: string;
+}
+
+export default function ProgressBar({ current, total, correct, label }: ProgressBarProps) {
+  const pct = total > 0 ? (current / total) * 100 : 0;
+
+  return (
+    <div className="w-full">
+      {label && (
+        <div className="flex justify-between items-center mb-1">
+          <span className="text-sm text-gray-500">{label}</span>
+          <span className="text-sm font-semibold text-text">
+            {current}/{total}
+            {correct !== undefined && (
+              <span className="text-success ml-2">({correct} correct)</span>
+            )}
+          </span>
+        </div>
+      )}
+      <div className="w-full h-2.5 bg-gray-200 rounded-full overflow-hidden">
+        <div
+          className="h-full bg-primary rounded-full transition-all duration-500"
+          style={{ width: `${pct}%` }}
+        />
+      </div>
+    </div>
+  );
+}

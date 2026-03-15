@@ -1,1 +1,44 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gJ25leHQnOwppbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnOwppbXBvcnQgJy4vZ2xvYmFscy5jc3MnOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogJ0NQQyBQcmVwIC0gTWVkaWNhbCBDb2RpbmcgRXhhbSBTdHVkeScsCiAgZGVzY3JpcHRpb246ICdGbGFzaCBjYXJkIHN0dWR5IGFwcCBmb3IgQ1BDIChDZXJ0aWZpZWQgUHJvZmVzc2lvbmFsIENvZGVyKSBleGFtIHByZXBhcmF0aW9uJywKfTsKCmZ1bmN0aW9uIE5hdkxpbmsoeyBocmVmLCBjaGlsZHJlbiB9OiB7IGhyZWY6IHN0cmluZzsgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZSB9KSB7CiAgcmV0dXJuICgKICAgIDxMaW5rCiAgICAgIGhyZWY9e2hyZWZ9CiAgICAgIGNsYXNzTmFtZT0idGV4dC13aGl0ZS84MCBob3Zlcjp0ZXh0LXdoaXRlIGZvbnQtbWVkaXVtIHRyYW5zaXRpb24tY29sb3JzIHB4LTMgcHktMiByb3VuZGVkLWxnIGhvdmVyOmJnLXdoaXRlLzEwIgogICAgPgogICAgICB7Y2hpbGRyZW59CiAgICA8L0xpbms+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUm9vdExheW91dCh7IGNoaWxkcmVuIH06IHsgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZSB9KSB7CiAgcmV0dXJuICgKICAgIDxodG1sIGxhbmc9ImVuIj4KICAgICAgPGJvZHkgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmcgdGV4dC10ZXh0Ij4KICAgICAgICA8bmF2IGNsYXNzTmFtZT0iYmctcHJpbWFyeSBzaGFkb3ctbGciPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTZ4bCBteC1hdXRvIHB4LTQgcHktMyBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICA8TGluayBocmVmPSIvIiBjbGFzc05hbWU9InRleHQtd2hpdGUgdGV4dC14bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC0yeGwiPvCfj6U8L3NwYW4+IENQQyBQcmVwCiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0xIj4KICAgICAgICAgICAgICA8TmF2TGluayBocmVmPSIvc3R1ZHkiPlN0dWR5PC9OYXZMaW5rPgogICAgICAgICAgICAgIDxOYXZMaW5rIGhyZWY9Ii9xdWl6Ij5RdWl6PC9OYXZMaW5rPgogICAgICAgICAgICAgIDxOYXZMaW5rIGhyZWY9Ii9zY2VuYXJpb3MiPlNjZW5hcmlvczwvTmF2TGluaz4KICAgICAgICAgICAgICA8TmF2TGluayBocmVmPSIvcHJvZ3Jlc3MiPlByb2dyZXNzPC9OYXZMaW5rPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbmF2PgogICAgICAgIDxtYWluIGNsYXNzTmFtZT0ibWF4LXctNnhsIG14LWF1dG8gcHgtNCBweS02Ij4KICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICA8L21haW4+CiAgICAgIDwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9Cg=="}
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import './globals.css';
+
+export const metadata: Metadata = {
+  title: 'CPC Prep - Medical Coding Exam Study',
+  description: 'Flash card study app for CPC (Certified Professional Coder) exam preparation',
+};
+
+function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <Link
+      href={href}
+      className="text-white/80 hover:text-white font-medium transition-colors px-3 py-2 rounded-lg hover:bg-white/10"
+    >
+      {children}
+    </Link>
+  );
+}
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <body className="min-h-screen bg-bg text-text">
+        <nav className="bg-primary shadow-lg">
+          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+            <Link href="/" className="text-white text-xl font-bold tracking-tight flex items-center gap-2">
+              <span className="text-2xl">🏥</span> CPC Prep
+            </Link>
+            <div className="flex items-center gap-1">
+              <NavLink href="/study">Study</NavLink>
+              <NavLink href="/quiz">Quiz</NavLink>
+              <NavLink href="/scenarios">Scenarios</NavLink>
+              <NavLink href="/progress">Progress</NavLink>
+            </div>
+          </div>
+        </nav>
+        <main className="max-w-6xl mx-auto px-4 py-6">
+          {children}
+        </main>
+      </body>
+    </html>
+  );
+}

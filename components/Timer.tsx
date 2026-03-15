@@ -1,1 +1,63 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSwgdXNlQ2FsbGJhY2sgfSBmcm9tICdyZWFjdCc7CgppbnRlcmZhY2UgVGltZXJQcm9wcyB7CiAgc2Vjb25kczogbnVtYmVyOwogIG9uRXhwaXJlOiAoKSA9PiB2b2lkOwogIHJ1bm5pbmc6IGJvb2xlYW47CiAgb25UaWNrPzogKHJlbWFpbmluZzogbnVtYmVyKSA9PiB2b2lkOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBUaW1lcih7IHNlY29uZHMsIG9uRXhwaXJlLCBydW5uaW5nLCBvblRpY2sgfTogVGltZXJQcm9wcykgewogIGNvbnN0IFtyZW1haW5pbmcsIHNldFJlbWFpbmluZ10gPSB1c2VTdGF0ZShzZWNvbmRzKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIHNldFJlbWFpbmluZyhzZWNvbmRzKTsKICB9LCBbc2Vjb25kc10pOwoKICBjb25zdCBoYW5kbGVFeHBpcmUgPSB1c2VDYWxsYmFjayhvbkV4cGlyZSwgW29uRXhwaXJlXSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoIXJ1bm5pbmcpIHJldHVybjsKICAgIGlmIChyZW1haW5pbmcgPD0gMCkgewogICAgICBoYW5kbGVFeHBpcmUoKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvbnN0IHRpbWVyID0gc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICBzZXRSZW1haW5pbmcocHJldiA9PiB7CiAgICAgICAgY29uc3QgbmV4dCA9IHByZXYgLSAxOwogICAgICAgIG9uVGljaz8uKG5leHQpOwogICAgICAgIGlmIChuZXh0IDw9IDApIHsKICAgICAgICAgIGNsZWFySW50ZXJ2YWwodGltZXIpOwogICAgICAgICAgaGFuZGxlRXhwaXJlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXh0OwogICAgICB9KTsKICAgIH0sIDEwMDApOwoKICAgIHJldHVybiAoKSA9PiBjbGVhckludGVydmFsKHRpbWVyKTsKICB9LCBbcnVubmluZywgcmVtYWluaW5nLCBoYW5kbGVFeHBpcmUsIG9uVGlja10pOwoKICBjb25zdCBtaW5zID0gTWF0aC5mbG9vcihyZW1haW5pbmcgLyA2MCk7CiAgY29uc3Qgc2VjcyA9IHJlbWFpbmluZyAlIDYwOwogIGNvbnN0IGlzTG93ID0gcmVtYWluaW5nIDw9IDEwOwogIGNvbnN0IHBjdCA9IChyZW1haW5pbmcgLyBzZWNvbmRzKSAqIDEwMDsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB3LWZ1bGwgaC0yIGJnLWdyYXktMjAwIHJvdW5kZWQtZnVsbCBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT17YGFic29sdXRlIGxlZnQtMCB0b3AtMCBoLWZ1bGwgcm91bmRlZC1mdWxsIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTEwMDAgJHsKICAgICAgICAgICAgaXNMb3cgPyAnYmctZXJyb3InIDogJ2JnLXByaW1hcnknCiAgICAgICAgICB9YH0KICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiBgJHtwY3R9JWAgfX0KICAgICAgICAvPgogICAgICA8L2Rpdj4KICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgZm9udC1tb25vIHRleHQtbGcgZm9udC1ib2xkIG1pbi13LVs0cmVtXSB0ZXh0LXJpZ2h0ICR7aXNMb3cgPyAndGV4dC1lcnJvciBhbmltYXRlLXB1bHNlJyA6ICd0ZXh0LXRleHQnfWB9PgogICAgICAgIHttaW5zfTp7c2Vjcy50b1N0cmluZygpLnBhZFN0YXJ0KDIsICcwJyl9CiAgICAgIDwvc3Bhbj4KICAgIDwvZGl2PgogICk7Cn0K"}
+'use client';
+
+import { useEffect, useState, useCallback } from 'react';
+
+interface TimerProps {
+  seconds: number;
+  onExpire: () => void;
+  running: boolean;
+  onTick?: (remaining: number) => void;
+}
+
+export default function Timer({ seconds, onExpire, running, onTick }: TimerProps) {
+  const [remaining, setRemaining] = useState(seconds);
+
+  useEffect(() => {
+    setRemaining(seconds);
+  }, [seconds]);
+
+  const handleExpire = useCallback(onExpire, [onExpire]);
+
+  useEffect(() => {
+    if (!running) return;
+    if (remaining <= 0) {
+      handleExpire();
+      return;
+    }
+
+    const timer = setInterval(() => {
+      setRemaining(prev => {
+        const next = prev - 1;
+        onTick?.(next);
+        if (next <= 0) {
+          clearInterval(timer);
+          handleExpire();
+        }
+        return next;
+      });
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [running, remaining, handleExpire, onTick]);
+
+  const mins = Math.floor(remaining / 60);
+  const secs = remaining % 60;
+  const isLow = remaining <= 10;
+  const pct = (remaining / seconds) * 100;
+
+  return (
+    <div className="flex items-center gap-3">
+      <div className="relative w-full h-2 bg-gray-200 rounded-full overflow-hidden">
+        <div
+          className={`absolute left-0 top-0 h-full rounded-full transition-all duration-1000 ${
+            isLow ? 'bg-error' : 'bg-primary'
+          }`}
+          style={{ width: `${pct}%` }}
+        />
+      </div>
+      <span className={`font-mono text-lg font-bold min-w-[4rem] text-right ${isLow ? 'text-error animate-pulse' : 'text-text'}`}>
+        {mins}:{secs.toString().padStart(2, '0')}
+      </span>
+    </div>
+  );
+}

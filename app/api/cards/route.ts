@@ -1,1 +1,15 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IHsgZ2V0QWxsQ2FyZHMsIGdldEZpbHRlcmVkQ2FyZHMgfSBmcm9tICdAL2xpYi9jYXJkcyc7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gR0VUKHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBzZWFyY2hQYXJhbXMgfSA9IG5ldyBVUkwocmVxdWVzdC51cmwpOwogIGNvbnN0IHN5c3RlbSA9IHNlYXJjaFBhcmFtcy5nZXQoJ3N5c3RlbScpIHx8IHVuZGVmaW5lZDsKICBjb25zdCBjYXRlZ29yeSA9IHNlYXJjaFBhcmFtcy5nZXQoJ2NhdGVnb3J5JykgfHwgdW5kZWZpbmVkOwogIGNvbnN0IGRpZmZpY3VsdHkgPSBzZWFyY2hQYXJhbXMuZ2V0KCdkaWZmaWN1bHR5JykgfHwgdW5kZWZpbmVkOwoKICBjb25zdCBjYXJkcyA9IChzeXN0ZW0gfHwgY2F0ZWdvcnkgfHwgZGlmZmljdWx0eSkKICAgID8gZ2V0RmlsdGVyZWRDYXJkcyh7IHN5c3RlbSwgY2F0ZWdvcnksIGRpZmZpY3VsdHkgfSkKICAgIDogZ2V0QWxsQ2FyZHMoKTsKCiAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgY2FyZHMsIHRvdGFsOiBjYXJkcy5sZW5ndGggfSk7Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import { getAllCards, getFilteredCards } from '@/lib/cards';
+
+export async function GET(request: NextRequest) {
+  const { searchParams } = new URL(request.url);
+  const system = searchParams.get('system') || undefined;
+  const category = searchParams.get('category') || undefined;
+  const difficulty = searchParams.get('difficulty') || undefined;
+
+  const cards = (system || category || difficulty)
+    ? getFilteredCards({ system, category, difficulty })
+    : getAllCards();
+
+  return NextResponse.json({ cards, total: cards.length });
+}

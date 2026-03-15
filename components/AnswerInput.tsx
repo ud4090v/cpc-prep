@@ -1,1 +1,70 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CgppbnRlcmZhY2UgQW5zd2VySW5wdXRQcm9wcyB7CiAgbW9kZTogJ21jJyB8ICd0eXBlJzsKICBvcHRpb25zPzogc3RyaW5nW107CiAgb25TdWJtaXQ6IChhbnN3ZXI6IHN0cmluZykgPT4gdm9pZDsKICBkaXNhYmxlZD86IGJvb2xlYW47Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFuc3dlcklucHV0KHsgbW9kZSwgb3B0aW9ucywgb25TdWJtaXQsIGRpc2FibGVkIH06IEFuc3dlcklucHV0UHJvcHMpIHsKICBjb25zdCBbdGV4dEFuc3dlciwgc2V0VGV4dEFuc3dlcl0gPSB1c2VTdGF0ZSgnJyk7CgogIGlmIChtb2RlID09PSAnbWMnICYmIG9wdGlvbnMpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC02IHNwYWNlLXktMyI+CiAgICAgICAge29wdGlvbnMubWFwKChvcHRpb24sIGkpID0+ICgKICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAga2V5PXtpfQogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiAhZGlzYWJsZWQgJiYgb25TdWJtaXQob3B0aW9uKX0KICAgICAgICAgICAgZGlzYWJsZWQ9e2Rpc2FibGVkfQogICAgICAgICAgICBjbGFzc05hbWU9e2B3LWZ1bGwgdGV4dC1sZWZ0IHAtNCByb3VuZGVkLXhsIGJvcmRlci0yIHRyYW5zaXRpb24tYWxsCiAgICAgICAgICAgICAgJHtkaXNhYmxlZCAKICAgICAgICAgICAgICAgID8gJ29wYWNpdHktNTAgY3Vyc29yLW5vdC1hbGxvd2VkIGJvcmRlci1ncmF5LTIwMCcgCiAgICAgICAgICAgICAgICA6ICdib3JkZXItZ3JheS0yMDAgaG92ZXI6Ym9yZGVyLXByaW1hcnkgaG92ZXI6YmctcHJpbWFyeS81IGN1cnNvci1wb2ludGVyIGFjdGl2ZTpzY2FsZS1bMC45OF0nCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHctNyBoLTcgcm91bmRlZC1mdWxsIGJnLWdyYXktMTAwIHRleHQtc20gZm9udC1ib2xkIHRleHQtZ3JheS01MDAgbXItMyI+CiAgICAgICAgICAgICAge1N0cmluZy5mcm9tQ2hhckNvZGUoNjUgKyBpKX0KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtdGV4dCI+e29wdGlvbn08L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuICgKICAgIDxmb3JtCiAgICAgIG9uU3VibWl0PXsoZSkgPT4gewogICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICBpZiAodGV4dEFuc3dlci50cmltKCkgJiYgIWRpc2FibGVkKSB7CiAgICAgICAgICBvblN1Ym1pdCh0ZXh0QW5zd2VyLnRyaW0oKSk7CiAgICAgICAgICBzZXRUZXh0QW5zd2VyKCcnKTsKICAgICAgICB9CiAgICAgIH19CiAgICAgIGNsYXNzTmFtZT0ibXQtNiIKICAgID4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTMiPgogICAgICAgIDxpbnB1dAogICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgIHZhbHVlPXt0ZXh0QW5zd2VyfQogICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRUZXh0QW5zd2VyKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgIHBsYWNlaG9sZGVyPSJUeXBlIHlvdXIgYW5zd2VyLi4uIgogICAgICAgICAgZGlzYWJsZWQ9e2Rpc2FibGVkfQogICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEgcHgtNCBweS0zIGJvcmRlci0yIGJvcmRlci1ncmF5LTIwMCByb3VuZGVkLXhsIGZvY3VzOmJvcmRlci1wcmltYXJ5IGZvY3VzOm91dGxpbmUtbm9uZSB0cmFuc2l0aW9uLWNvbG9ycyB0ZXh0LWxnIGRpc2FibGVkOm9wYWNpdHktNTAiCiAgICAgICAgICBhdXRvRm9jdXMKICAgICAgICAvPgogICAgICAgIDxidXR0b24KICAgICAgICAgIHR5cGU9InN1Ym1pdCIKICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZCB8fCAhdGV4dEFuc3dlci50cmltKCl9CiAgICAgICAgICBjbGFzc05hbWU9InB4LTYgcHktMyBiZy1wcmltYXJ5IHRleHQtd2hpdGUgZm9udC1zZW1pYm9sZCByb3VuZGVkLXhsIGhvdmVyOmJnLXByaW1hcnktZGFyayB0cmFuc2l0aW9uLWNvbG9ycyBkaXNhYmxlZDpvcGFjaXR5LTUwIGRpc2FibGVkOmN1cnNvci1ub3QtYWxsb3dlZCIKICAgICAgICA+CiAgICAgICAgICBTdWJtaXQKICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICA8L2Zvcm0+CiAgKTsKfQo="}
+'use client';
+
+import { useState } from 'react';
+
+interface AnswerInputProps {
+  mode: 'mc' | 'type';
+  options?: string[];
+  onSubmit: (answer: string) => void;
+  disabled?: boolean;
+}
+
+export default function AnswerInput({ mode, options, onSubmit, disabled }: AnswerInputProps) {
+  const [textAnswer, setTextAnswer] = useState('');
+
+  if (mode === 'mc' && options) {
+    return (
+      <div className="mt-6 space-y-3">
+        {options.map((option, i) => (
+          <button
+            key={i}
+            onClick={() => !disabled && onSubmit(option)}
+            disabled={disabled}
+            className={`w-full text-left p-4 rounded-xl border-2 transition-all
+              ${disabled 
+                ? 'opacity-50 cursor-not-allowed border-gray-200' 
+                : 'border-gray-200 hover:border-primary hover:bg-primary/5 cursor-pointer active:scale-[0.98]'
+              }`}
+          >
+            <span className="inline-flex items-center justify-center w-7 h-7 rounded-full bg-gray-100 text-sm font-bold text-gray-500 mr-3">
+              {String.fromCharCode(65 + i)}
+            </span>
+            <span className="text-text">{option}</span>
+          </button>
+        ))}
+      </div>
+    );
+  }
+
+  return (
+    <form
+      onSubmit={(e) => {
+        e.preventDefault();
+        if (textAnswer.trim() && !disabled) {
+          onSubmit(textAnswer.trim());
+          setTextAnswer('');
+        }
+      }}
+      className="mt-6"
+    >
+      <div className="flex gap-3">
+        <input
+          type="text"
+          value={textAnswer}
+          onChange={(e) => setTextAnswer(e.target.value)}
+          placeholder="Type your answer..."
+          disabled={disabled}
+          className="flex-1 px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-primary focus:outline-none transition-colors text-lg disabled:opacity-50"
+          autoFocus
+        />
+        <button
+          type="submit"
+          disabled={disabled || !textAnswer.trim()}
+          className="px-6 py-3 bg-primary text-white font-semibold rounded-xl hover:bg-primary-dark transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+  );
+}

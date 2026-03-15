@@ -1,1 +1,138 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJzsKaW1wb3J0IHsgU2Vzc2lvblJlY29yZCB9IGZyb20gJ0AvdHlwZXMnOwoKZnVuY3Rpb24gU3RhdENhcmQoeyBsYWJlbCwgdmFsdWUsIGljb24gfTogeyBsYWJlbDogc3RyaW5nOyB2YWx1ZTogc3RyaW5nIHwgbnVtYmVyOyBpY29uOiBzdHJpbmcgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iYmctd2hpdGUgcm91bmRlZC14bCBjYXJkLXNoYWRvdyBwLTUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC0yeGwiPntpY29ufTwvc3Bhbj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQgdGV4dC10ZXh0Ij57dmFsdWV9PC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS01MDAiPntsYWJlbH08L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRGFzaGJvYXJkKCkgewogIGNvbnN0IFtzdGF0cywgc2V0U3RhdHNdID0gdXNlU3RhdGUoewogICAgdG90YWxDYXJkczogNTgzLAogICAgc3R1ZGllZFRvZGF5OiAwLAogICAgYWNjdXJhY3k6IDAsCiAgICBzdHJlYWs6IDAsCiAgfSk7CiAgY29uc3QgW3Nlc3Npb25zLCBzZXRTZXNzaW9uc10gPSB1c2VTdGF0ZTxTZXNzaW9uUmVjb3JkW10+KFtdKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIC8vIExvYWQgZnJvbSBsb2NhbFN0b3JhZ2UKICAgIHRyeSB7CiAgICAgIGNvbnN0IHN0b3JlZCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdjcGNfc3RhdHMnKTsKICAgICAgaWYgKHN0b3JlZCkgewogICAgICAgIGNvbnN0IHBhcnNlZCA9IEpTT04ucGFyc2Uoc3RvcmVkKTsKICAgICAgICBzZXRTdGF0cyhwcmV2ID0+ICh7IC4uLnByZXYsIC4uLnBhcnNlZCB9KSk7CiAgICAgIH0KICAgICAgY29uc3Qgc3RvcmVkU2Vzc2lvbnMgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnY3BjX3Nlc3Npb25zJyk7CiAgICAgIGlmIChzdG9yZWRTZXNzaW9ucykgewogICAgICAgIHNldFNlc3Npb25zKEpTT04ucGFyc2Uoc3RvcmVkU2Vzc2lvbnMpLnNsaWNlKDAsIDUpKTsKICAgICAgfQogICAgfSBjYXRjaCB7fQogICAgCiAgICAvLyBFbnN1cmUgdXNlcl9pZAogICAgaWYgKCFsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnY3BjX3VzZXJfaWQnKSkgewogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnY3BjX3VzZXJfaWQnLCBjcnlwdG8ucmFuZG9tVVVJRCgpKTsKICAgIH0KICB9LCBbXSk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS04Ij4KICAgICAgey8qIEhlYWRlciAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHB5LTgiPgogICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIGZvbnQtYm9sZCB0ZXh0LXRleHQgbWItMiI+CiAgICAgICAgICDwn4+lIENQQyBFeGFtIFByZXAKICAgICAgICA8L2gxPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1sZyB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgIE1hc3RlciBtZWRpY2FsIGNvZGluZyB0ZXJtaW5vbG9neSB3aXRoIDU4MyBmbGFzaCBjYXJkcwogICAgICAgIDwvcD4KICAgICAgPC9kaXY+CgogICAgICB7LyogU3RhdHMgR3JpZCAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgbWQ6Z3JpZC1jb2xzLTQgZ2FwLTQiPgogICAgICAgIDxTdGF0Q2FyZCBsYWJlbD0iVG90YWwgQ2FyZHMiIHZhbHVlPXtzdGF0cy50b3RhbENhcmRzfSBpY29uPSLwn5OHIiAvPgogICAgICAgIDxTdGF0Q2FyZCBsYWJlbD0iU3R1ZGllZCBUb2RheSIgdmFsdWU9e3N0YXRzLnN0dWRpZWRUb2RheX0gaWNvbj0i8J+TnSIgLz4KICAgICAgICA8U3RhdENhcmQgbGFiZWw9IkFjY3VyYWN5IiB2YWx1ZT17YCR7c3RhdHMuYWNjdXJhY3l9JWB9IGljb249IvCfjq8iIC8+CiAgICAgICAgPFN0YXRDYXJkIGxhYmVsPSJTdHVkeSBTdHJlYWsiIHZhbHVlPXtgJHtzdGF0cy5zdHJlYWt9IGRheXNgfSBpY29uPSLwn5SlIiAvPgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBDVEEgQnV0dG9ucyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgbWQ6Z3JpZC1jb2xzLTMgZ2FwLTYiPgogICAgICAgIDxMaW5rCiAgICAgICAgICBocmVmPSIvc3R1ZHkiCiAgICAgICAgICBjbGFzc05hbWU9ImJsb2NrIGJnLXdoaXRlIHJvdW5kZWQtMnhsIGNhcmQtc2hhZG93LWxnIHAtOCBob3ZlcjpzY2FsZS1bMS4wMl0gdHJhbnNpdGlvbi10cmFuc2Zvcm0gZ3JvdXAiCiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTV4bCBtYi00IGJsb2NrIGdyb3VwLWhvdmVyOnNjYWxlLTExMCB0cmFuc2l0aW9uLXRyYW5zZm9ybSI+8J+Tmjwvc3Bhbj4KICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIHRleHQtdGV4dCBtYi0yIj5TdHVkeSBNb2RlPC9oMj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICBMZWFybiBhdCB5b3VyIG93biBwYWNlIHdpdGggQUktcG93ZXJlZCBmZWVkYmFjayBvbiBldmVyeSBhbnN3ZXIKICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9MaW5rPgoKICAgICAgICA8TGluawogICAgICAgICAgaHJlZj0iL3F1aXoiCiAgICAgICAgICBjbGFzc05hbWU9ImJsb2NrIGJnLXdoaXRlIHJvdW5kZWQtMnhsIGNhcmQtc2hhZG93LWxnIHAtOCBob3ZlcjpzY2FsZS1bMS4wMl0gdHJhbnNpdGlvbi10cmFuc2Zvcm0gZ3JvdXAiCiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTV4bCBtYi00IGJsb2NrIGdyb3VwLWhvdmVyOnNjYWxlLTExMCB0cmFuc2l0aW9uLXRyYW5zZm9ybSI+4o+x77iPPC9zcGFuPgogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQgdGV4dC10ZXh0IG1iLTIiPlF1aXogTW9kZTwvaDI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTUwMCI+CiAgICAgICAgICAgICAgVGltZWQgcXVpeiBtb2RlIOKAlCB0ZXN0IHlvdXJzZWxmIHVuZGVyIGV4YW0gY29uZGl0aW9ucwogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0xpbms+CgogICAgICAgIDxMaW5rCiAgICAgICAgICBocmVmPSIvc2NlbmFyaW9zIgogICAgICAgICAgY2xhc3NOYW1lPSJibG9jayBiZy13aGl0ZSByb3VuZGVkLTJ4bCBjYXJkLXNoYWRvdy1sZyBwLTggaG92ZXI6c2NhbGUtWzEuMDJdIHRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwIgogICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC01eGwgbWItNCBibG9jayBncm91cC1ob3ZlcjpzY2FsZS0xMTAgdHJhbnNpdGlvbi10cmFuc2Zvcm0iPvCfj6U8L3NwYW4+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCB0ZXh0LXRleHQgbWItMiI+U2NlbmFyaW9zPC9oMj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICBSZWFsIGNsaW5pY2FsIG5vdGVzIOKAlCBpZGVudGlmeSBDUFQgJmFtcDsgSUNELTEwIGNvZGVzIGxpa2UgdGhlIGFjdHVhbCBleGFtCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvTGluaz4KICAgICAgPC9kaXY+CgogICAgICB7LyogUmVjZW50IFNlc3Npb25zICovfQogICAgICB7c2Vzc2lvbnMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQteGwgY2FyZC1zaGFkb3cgcC02Ij4KICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIHRleHQtdGV4dCBtYi00Ij7wn5OKIFJlY2VudCBTZXNzaW9uczwvaDM+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAge3Nlc3Npb25zLm1hcCgocywgaSkgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtpfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBweS0zIGJvcmRlci1iIGJvcmRlci1ncmF5LTUwIGxhc3Q6Ym9yZGVyLTAiPgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LW1lZGl1bSB0ZXh0LXRleHQgY2FwaXRhbGl6ZSI+e3MubW9kZX08L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LWdyYXktNDAwIG1sLTIiPntzLmRhdGV9PC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gdGV4dC1ncmF5LTUwMCI+e3Muc2NvcmV9L3tzLnRvdGFsfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC1zbSBmb250LWJvbGQgJHsKICAgICAgICAgICAgICAgICAgICBzLnBlcmNlbnRhZ2UgPj0gNzAgPyAndGV4dC1zdWNjZXNzJyA6IHMucGVyY2VudGFnZSA+PSA1MCA/ICd0ZXh0LXllbGxvdy01MDAnIDogJ3RleHQtZXJyb3InCiAgICAgICAgICAgICAgICAgIH1gfT4KICAgICAgICAgICAgICAgICAgICB7cy5wZXJjZW50YWdlfSUKICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+'use client';
+
+import { useState, useEffect } from 'react';
+import Link from 'next/link';
+import { SessionRecord } from '@/types';
+
+function StatCard({ label, value, icon }: { label: string; value: string | number; icon: string }) {
+  return (
+    <div className="bg-white rounded-xl card-shadow p-5">
+      <div className="flex items-center gap-3">
+        <span className="text-2xl">{icon}</span>
+        <div>
+          <p className="text-2xl font-bold text-text">{value}</p>
+          <p className="text-sm text-gray-500">{label}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default function Dashboard() {
+  const [stats, setStats] = useState({
+    totalCards: 583,
+    studiedToday: 0,
+    accuracy: 0,
+    streak: 0,
+  });
+  const [sessions, setSessions] = useState<SessionRecord[]>([]);
+
+  useEffect(() => {
+    // Load from localStorage
+    try {
+      const stored = localStorage.getItem('cpc_stats');
+      if (stored) {
+        const parsed = JSON.parse(stored);
+        setStats(prev => ({ ...prev, ...parsed }));
+      }
+      const storedSessions = localStorage.getItem('cpc_sessions');
+      if (storedSessions) {
+        setSessions(JSON.parse(storedSessions).slice(0, 5));
+      }
+    } catch {}
+    
+    // Ensure user_id
+    if (!localStorage.getItem('cpc_user_id')) {
+      localStorage.setItem('cpc_user_id', crypto.randomUUID());
+    }
+  }, []);
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div className="text-center py-8">
+        <h1 className="text-4xl font-bold text-text mb-2">
+          🏥 CPC Exam Prep
+        </h1>
+        <p className="text-lg text-gray-500">
+          Master medical coding terminology with 583 flash cards
+        </p>
+      </div>
+
+      {/* Stats Grid */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <StatCard label="Total Cards" value={stats.totalCards} icon="📇" />
+        <StatCard label="Studied Today" value={stats.studiedToday} icon="📝" />
+        <StatCard label="Accuracy" value={`${stats.accuracy}%`} icon="🎯" />
+        <StatCard label="Study Streak" value={`${stats.streak} days`} icon="🔥" />
+      </div>
+
+      {/* CTA Buttons */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <Link
+          href="/study"
+          className="block bg-white rounded-2xl card-shadow-lg p-8 hover:scale-[1.02] transition-transform group"
+        >
+          <div className="text-center">
+            <span className="text-5xl mb-4 block group-hover:scale-110 transition-transform">📚</span>
+            <h2 className="text-2xl font-bold text-text mb-2">Study Mode</h2>
+            <p className="text-gray-500">
+              Learn at your own pace with AI-powered feedback on every answer
+            </p>
+          </div>
+        </Link>
+
+        <Link
+          href="/quiz"
+          className="block bg-white rounded-2xl card-shadow-lg p-8 hover:scale-[1.02] transition-transform group"
+        >
+          <div className="text-center">
+            <span className="text-5xl mb-4 block group-hover:scale-110 transition-transform">⏱️</span>
+            <h2 className="text-2xl font-bold text-text mb-2">Quiz Mode</h2>
+            <p className="text-gray-500">
+              Timed quiz mode — test yourself under exam conditions
+            </p>
+          </div>
+        </Link>
+
+        <Link
+          href="/scenarios"
+          className="block bg-white rounded-2xl card-shadow-lg p-8 hover:scale-[1.02] transition-transform group"
+        >
+          <div className="text-center">
+            <span className="text-5xl mb-4 block group-hover:scale-110 transition-transform">🏥</span>
+            <h2 className="text-2xl font-bold text-text mb-2">Scenarios</h2>
+            <p className="text-gray-500">
+              Real clinical notes — identify CPT &amp; ICD-10 codes like the actual exam
+            </p>
+          </div>
+        </Link>
+      </div>
+
+      {/* Recent Sessions */}
+      {sessions.length > 0 && (
+        <div className="bg-white rounded-xl card-shadow p-6">
+          <h3 className="text-lg font-bold text-text mb-4">📊 Recent Sessions</h3>
+          <div className="space-y-2">
+            {sessions.map((s, i) => (
+              <div key={i} className="flex items-center justify-between py-3 border-b border-gray-50 last:border-0">
+                <div>
+                  <span className="font-medium text-text capitalize">{s.mode}</span>
+                  <span className="text-sm text-gray-400 ml-2">{s.date}</span>
+                </div>
+                <div className="flex items-center gap-3">
+                  <span className="text-sm text-gray-500">{s.score}/{s.total}</span>
+                  <span className={`text-sm font-bold ${
+                    s.percentage >= 70 ? 'text-success' : s.percentage >= 50 ? 'text-yellow-500' : 'text-error'
+                  }`}>
+                    {s.percentage}%
+                  </span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}

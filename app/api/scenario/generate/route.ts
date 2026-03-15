@@ -1,1 +1,147 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IE9wZW5BSSBmcm9tICdvcGVuYWknOwppbXBvcnQgeyByZWFkRmlsZVN5bmMgfSBmcm9tICdmcyc7CmltcG9ydCB7IGpvaW4gfSBmcm9tICdwYXRoJzsKaW1wb3J0IHsgR2VuZXJhdGVkU2NlbmFyaW8sIFNjZW5hcmlvQW5zd2VyTW9kZSB9IGZyb20gJ0AvdHlwZXMnOwoKbGV0IG9wZW5haTogT3BlbkFJIHwgbnVsbCA9IG51bGw7CmZ1bmN0aW9uIGdldE9wZW5BSSgpIHsKICBpZiAoIW9wZW5haSkgb3BlbmFpID0gbmV3IE9wZW5BSSh7IGFwaUtleTogcHJvY2Vzcy5lbnYuT1BFTkFJX0FQSV9LRVkgfSk7CiAgcmV0dXJuIG9wZW5haTsKfQoKdHlwZSBDcHRFbnRyeSA9IHsgcmFuZ2U6IHN0cmluZzsgZGVzY3JpcHRpb246IHN0cmluZyB9Owp0eXBlIFN5c3RlbUN0eCA9IHsKICBjcHRfcmFuZ2VzOiBDcHRFbnRyeVtdOwogIGljZDEwX2NhdGVnb3JpZXM6IENwdEVudHJ5W107CiAgY29tbW9uX3NjZW5hcmlvczogc3RyaW5nW107Cn07CnR5cGUgQ29kaW5nQ3R4ID0gewogIHN5c3RlbXM6IFJlY29yZDxzdHJpbmcsIFN5c3RlbUN0eD47CiAgZGlmZmljdWx0eV9ndWlkYW5jZTogUmVjb3JkPHN0cmluZywgc3RyaW5nPjsKfTsKCmNvbnN0IGNvZGluZ0NvbnRleHQ6IENvZGluZ0N0eCA9IEpTT04ucGFyc2UoCiAgcmVhZEZpbGVTeW5jKGpvaW4ocHJvY2Vzcy5jd2QoKSwgJ2RhdGEnLCAnY29kaW5nLWNvbnRleHQuanNvbicpLCAndXRmLTgnKQopOwoKZnVuY3Rpb24gc2h1ZmZsZTxUPihhcnI6IFRbXSk6IFRbXSB7CiAgY29uc3QgYSA9IFsuLi5hcnJdOwogIGZvciAobGV0IGkgPSBhLmxlbmd0aCAtIDE7IGkgPiAwOyBpLS0pIHsKICAgIGNvbnN0IGogPSBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAoaSArIDEpKTsKICAgIFthW2ldLCBhW2pdXSA9IFthW2pdLCBhW2ldXTsKICB9CiAgcmV0dXJuIGE7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgdHJ5IHsKICAgIGNvbnN0IHsgc3lzdGVtLCBkaWZmaWN1bHR5LCBhbnN3ZXJNb2RlIH0gPSAoYXdhaXQgcmVxdWVzdC5qc29uKCkpIGFzIHsKICAgICAgc3lzdGVtOiBzdHJpbmc7CiAgICAgIGRpZmZpY3VsdHk6ICdlYXN5JyB8ICdtZWRpdW0nIHwgJ2hhcmQnOwogICAgICBhbnN3ZXJNb2RlOiBTY2VuYXJpb0Fuc3dlck1vZGU7CiAgICB9OwoKICAgIGNvbnN0IHN5c3RlbUtleXMgPSBPYmplY3Qua2V5cyhjb2RpbmdDb250ZXh0LnN5c3RlbXMpOwogICAgY29uc3QgcmVzb2x2ZWRTeXN0ZW0gPQogICAgICBzeXN0ZW0gPT09ICdyYW5kb20nCiAgICAgICAgPyBzeXN0ZW1LZXlzW01hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHN5c3RlbUtleXMubGVuZ3RoKV0KICAgICAgICA6IHN5c3RlbTsKCiAgICBjb25zdCBjdHggPSBjb2RpbmdDb250ZXh0LnN5c3RlbXNbcmVzb2x2ZWRTeXN0ZW1dOwogICAgaWYgKCFjdHgpIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnVW5rbm93biBzeXN0ZW0nIH0sIHsgc3RhdHVzOiA0MDAgfSk7CgogICAgY29uc3QgZGlmZkd1aWRlID0gY29kaW5nQ29udGV4dC5kaWZmaWN1bHR5X2d1aWRhbmNlW2RpZmZpY3VsdHldOwogICAgY29uc3QgbmVlZHNEaXN0cmFjdG9ycyA9IGFuc3dlck1vZGUgPT09ICdtYyc7CgogICAgY29uc3Qgc3lzdGVtUHJvbXB0ID0gYFlvdSBhcmUgYSBDUEMgKENlcnRpZmllZCBQcm9mZXNzaW9uYWwgQ29kZXIpIGV4YW0gcXVlc3Rpb24gd3JpdGVyIHdpdGggMTUgeWVhcnMgb2YgZXhwZXJpZW5jZSBjcmVhdGluZyByZWFsaXN0aWMgbWVkaWNhbCBjb2Rpbmcgc2NlbmFyaW9zIGZvciBleGFtIHByYWN0aWNlLgoKQ1JJVElDQUwgUlVMRVM6Ci0gRXZlcnkgQ1BUIGFuZCBJQ0QtMTAgY29kZSB5b3UgdXNlIE1VU1QgYmUgYSByZWFsLCBjdXJyZW50bHkgdmFsaWQgY29kZQotIE9ubHkgdXNlIENQVCBjb2RlcyBmcm9tIHRoZSByYW5nZXMgbGlzdGVkIGJlbG93IOKAlCBkbyBub3QgaW52ZW50IGNvZGVzCi0gT25seSB1c2UgSUNELTEwIGNvZGVzIGZyb20gdGhlIGNhdGVnb3JpZXMgbGlzdGVkIGJlbG93Ci0gVGhlIGNsaW5pY2FsIHNjZW5hcmlvIG11c3QgYmUgdW5hbWJpZ3VvdXMg4oCUIG9uZSBjbGVhcmx5IGNvcnJlY3QgYW5zd2VyCi0gV3JpdGUgdGhlIGNsaW5pY2FsIG5vdGUgaW4gdGhlIHN0eWxlIG9mIGEgcmVhbCBtZWRpY2FsIHJlY29yZDogY29uY2lzZSwgcHJvZmVzc2lvbmFsLCB0aGlyZCBwZXJzb24KLSBEaWZmaWN1bHR5IGxldmVsOiAke2RpZmZHdWlkZX0KCkJPRFkgU1lTVEVNOiAke3Jlc29sdmVkU3lzdGVtfQoKUkVMRVZBTlQgQ1BUIFJBTkdFUzoKJHtjdHguY3B0X3Jhbmdlcy5tYXAoKHIpID0+IGAke3IucmFuZ2V9OiAke3IuZGVzY3JpcHRpb259YCkuam9pbignXG4nKX0KClJFTEVWQU5UIElDRC0xMCBDQVRFR09SSUVTOgoke2N0eC5pY2QxMF9jYXRlZ29yaWVzLm1hcCgocikgPT4gYCR7ci5yYW5nZX06ICR7ci5kZXNjcmlwdGlvbn1gKS5qb2luKCdcbicpfQoKQ09NTU9OIFNDRU5BUklPUyBGT1IgVEhJUyBTWVNURU06ICR7Y3R4LmNvbW1vbl9zY2VuYXJpb3Muam9pbignLCAnKX1gOwoKICAgIGNvbnN0IHVzZXJQcm9tcHQgPSBgR2VuZXJhdGUgYSAke2RpZmZpY3VsdHl9IGRpZmZpY3VsdHkgQ1BDIGV4YW0gc2NlbmFyaW8gZm9yIHRoZSAke3Jlc29sdmVkU3lzdGVtfS4KClJldHVybiBPTkxZIHZhbGlkIEpTT04gd2l0aCB0aGlzIHN0cnVjdHVyZToKewogICJjbGluaWNhbE5vdGUiOiAiMi00IHNlbnRlbmNlIHBhdGllbnQgZW5jb3VudGVyIG5vdGUuIEluY2x1ZGU6IHBhdGllbnQgYWdlL3NleCwgY2hpZWYgY29tcGxhaW50IG9yIHJlYXNvbiBmb3IgdmlzaXQsIHdoYXQgcHJvY2VkdXJlIHRoZSBwaHlzaWNpYW4gcGVyZm9ybWVkLCBhbmQgdGhlIGZpbmFsIGRpYWdub3Npcy4iLAogICJjb3JyZWN0Q3B0IjogWyJDUFRDT0RFIl0sCiAgImNvcnJlY3RJY2QxMCI6IFsiSUNEMTBDT0RFIl0sCiAgImNwdFJhdGlvbmFsZSI6ICIxLTIgc2VudGVuY2VzOiB3aGF0IHRoaXMgQ1BUIGNvZGUgcmVwcmVzZW50cyBhbmQgd2h5IGl0IGlzIGNvcnJlY3QgZm9yIHRoaXMgc2NlbmFyaW8uIiwKICAiaWNkMTBSYXRpb25hbGUiOiAiMS0yIHNlbnRlbmNlczogd2hhdCB0aGlzIElDRC0xMCBjb2RlIHJlcHJlc2VudHMgYW5kIHdoeSBpdCBpcyBjb3JyZWN0LiIsCiAgImNvZGluZ1RpcHMiOiAiT25lIHByYWN0aWNhbCBzZW50ZW5jZSBhYm91dCBjb21tb24gbWlzdGFrZXMsIG1vZGlmaWVycywgb3Igc3BlY2lmaWNpdHkgcGl0ZmFsbHMgZm9yIHRoaXMgc2NlbmFyaW8g4oCUIG9yIG51bGwuIiR7CiAgICBuZWVkc0Rpc3RyYWN0b3JzCiAgICAgID8gYCwKICAiY3B0RGlzdHJhY3RvcnMiOiBbIkNPREUxIiwgIkNPREUyIiwgIkNPREUzIl0sCiAgImljZDEwRGlzdHJhY3RvcnMiOiBbIkNPREUxIiwgIkNPREUyIiwgIkNPREUzIl1gCiAgICAgIDogJycKICB9Cn0KCiR7ZGlmZmljdWx0eSA9PT0gJ2hhcmQnID8gJ0ZvciBoYXJkIGRpZmZpY3VsdHk6IGluY2x1ZGUgbXVsdGlwbGUgQ1BUIGNvZGVzIGluIGNvcnJlY3RDcHQgYXJyYXkgaWYgbXVsdGlwbGUgc2VwYXJhdGVseSByZXBvcnRhYmxlIHByb2NlZHVyZXMgd2VyZSBwZXJmb3JtZWQuJyA6ICcnfQoke25lZWRzRGlzdHJhY3RvcnMgPyAnRElTVFJBQ1RPUiBSVUxFUzogRWFjaCBkaXN0cmFjdG9yIG11c3QgYmUgYSByZWFsLCB2YWxpZCBjb2RlIGZyb20gdGhlIHNhbWUgc3lzdGVtLiBNYWtlIHRoZW0gcGxhdXNpYmxlIHdyb25nIGFuc3dlcnMg4oCUIG5vdCBvYnZpb3VzbHkgdW5yZWxhdGVkLiBBIHN0dWRlbnQgd2hvIGRpZCBub3Qgc3R1ZHkgY2FyZWZ1bGx5IHNob3VsZCBiZSB0ZW1wdGVkIGJ5IHRoZW0uJyA6ICcnfQoKUmV0dXJuIE9OTFkgdGhlIHJhdyBKU09OIG9iamVjdC4gTm8gbWFya2Rvd24uIE5vIGV4cGxhbmF0aW9uIG91dHNpZGUgdGhlIEpTT04uYDsKCiAgICBjb25zdCBjb21wbGV0aW9uID0gYXdhaXQgZ2V0T3BlbkFJKCkuY2hhdC5jb21wbGV0aW9ucy5jcmVhdGUoewogICAgICBtb2RlbDogJ2dwdC00by1taW5pJywKICAgICAgbWVzc2FnZXM6IFsKICAgICAgICB7IHJvbGU6ICdzeXN0ZW0nLCBjb250ZW50OiBzeXN0ZW1Qcm9tcHQgfSwKICAgICAgICB7IHJvbGU6ICd1c2VyJywgY29udGVudDogdXNlclByb21wdCB9LAogICAgICBdLAogICAgICB0ZW1wZXJhdHVyZTogMC44LAogICAgICByZXNwb25zZV9mb3JtYXQ6IHsgdHlwZTogJ2pzb25fb2JqZWN0JyB9LAogICAgfSk7CgogICAgY29uc3QgcmF3ID0gSlNPTi5wYXJzZShjb21wbGV0aW9uLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50IHx8ICd7fScpIGFzIHsKICAgICAgY2xpbmljYWxOb3RlOiBzdHJpbmc7CiAgICAgIGNvcnJlY3RDcHQ6IHN0cmluZ1tdOwogICAgICBjb3JyZWN0SWNkMTA6IHN0cmluZ1tdOwogICAgICBjcHRSYXRpb25hbGU6IHN0cmluZzsKICAgICAgaWNkMTBSYXRpb25hbGU6IHN0cmluZzsKICAgICAgY29kaW5nVGlwcz86IHN0cmluZzsKICAgICAgY3B0RGlzdHJhY3RvcnM/OiBzdHJpbmdbXTsKICAgICAgaWNkMTBEaXN0cmFjdG9ycz86IHN0cmluZ1tdOwogICAgfTsKCiAgICBjb25zdCBjcHRPcHRpb25zID0gbmVlZHNEaXN0cmFjdG9ycwogICAgICA/IHNodWZmbGUoWy4uLnJhdy5jb3JyZWN0Q3B0LCAuLi4ocmF3LmNwdERpc3RyYWN0b3JzIHx8IFtdKS5zbGljZSgwLCAzKV0pCiAgICAgIDogdW5kZWZpbmVkOwogICAgY29uc3QgaWNkMTBPcHRpb25zID0gbmVlZHNEaXN0cmFjdG9ycwogICAgICA/IHNodWZmbGUoWy4uLnJhdy5jb3JyZWN0SWNkMTAsIC4uLihyYXcuaWNkMTBEaXN0cmFjdG9ycyB8fCBbXSkuc2xpY2UoMCwgMyldKQogICAgICA6IHVuZGVmaW5lZDsKCiAgICBjb25zdCBzY2VuYXJpbzogR2VuZXJhdGVkU2NlbmFyaW8gPSB7CiAgICAgIGlkOiBjcnlwdG8ucmFuZG9tVVVJRCgpLAogICAgICBzeXN0ZW06IHJlc29sdmVkU3lzdGVtLAogICAgICBkaWZmaWN1bHR5LAogICAgICBjbGluaWNhbE5vdGU6IHJhdy5jbGluaWNhbE5vdGUsCiAgICAgIGNvcnJlY3RDcHQ6IHJhdy5jb3JyZWN0Q3B0LAogICAgICBjb3JyZWN0SWNkMTA6IHJhdy5jb3JyZWN0SWNkMTAsCiAgICAgIGNwdE9wdGlvbnMsCiAgICAgIGljZDEwT3B0aW9ucywKICAgICAgY3B0UmF0aW9uYWxlOiByYXcuY3B0UmF0aW9uYWxlLAogICAgICBpY2QxMFJhdGlvbmFsZTogcmF3LmljZDEwUmF0aW9uYWxlLAogICAgICBjb2RpbmdUaXBzOiByYXcuY29kaW5nVGlwcyB8fCB1bmRlZmluZWQsCiAgICB9OwoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IHNjZW5hcmlvIH0pOwogIH0gY2F0Y2ggKGVycikgewogICAgY29uc29sZS5lcnJvcignU2NlbmFyaW8gZ2VuZXJhdGUgZXJyb3I6JywgZXJyKTsKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IGVycm9yOiAnRmFpbGVkIHRvIGdlbmVyYXRlIHNjZW5hcmlvJyB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KfQo="}
+import { NextRequest, NextResponse } from 'next/server';
+import OpenAI from 'openai';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+import { GeneratedScenario, ScenarioAnswerMode } from '@/types';
+
+let openai: OpenAI | null = null;
+function getOpenAI() {
+  if (!openai) openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+  return openai;
+}
+
+type CptEntry = { range: string; description: string };
+type SystemCtx = {
+  cpt_ranges: CptEntry[];
+  icd10_categories: CptEntry[];
+  common_scenarios: string[];
+};
+type CodingCtx = {
+  systems: Record<string, SystemCtx>;
+  difficulty_guidance: Record<string, string>;
+};
+
+const codingContext: CodingCtx = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'coding-context.json'), 'utf-8')
+);
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+export async function POST(request: NextRequest) {
+  try {
+    const { system, difficulty, answerMode } = (await request.json()) as {
+      system: string;
+      difficulty: 'easy' | 'medium' | 'hard';
+      answerMode: ScenarioAnswerMode;
+    };
+
+    const systemKeys = Object.keys(codingContext.systems);
+    const resolvedSystem =
+      system === 'random'
+        ? systemKeys[Math.floor(Math.random() * systemKeys.length)]
+        : system;
+
+    const ctx = codingContext.systems[resolvedSystem];
+    if (!ctx) return NextResponse.json({ error: 'Unknown system' }, { status: 400 });
+
+    const diffGuide = codingContext.difficulty_guidance[difficulty];
+    const needsDistractors = answerMode === 'mc';
+
+    const systemPrompt = `You are a CPC (Certified Professional Coder) exam question writer with 15 years of experience creating realistic medical coding scenarios for exam practice.
+
+CRITICAL RULES:
+- Every CPT and ICD-10 code you use MUST be a real, currently valid code
+- Only use CPT codes from the ranges listed below — do not invent codes
+- Only use ICD-10 codes from the categories listed below
+- The clinical scenario must be unambiguous — one clearly correct answer
+- Write the clinical note in the style of a real medical record: concise, professional, third person
+- Difficulty level: ${diffGuide}
+
+BODY SYSTEM: ${resolvedSystem}
+
+RELEVANT CPT RANGES:
+${ctx.cpt_ranges.map((r) => `${r.range}: ${r.description}`).join('\n')}
+
+RELEVANT ICD-10 CATEGORIES:
+${ctx.icd10_categories.map((r) => `${r.range}: ${r.description}`).join('\n')}
+
+COMMON SCENARIOS FOR THIS SYSTEM: ${ctx.common_scenarios.join(', ')}`;
+
+    const userPrompt = `Generate a ${difficulty} difficulty CPC exam scenario for the ${resolvedSystem}.
+
+Return ONLY valid JSON with this structure:
+{
+  "clinicalNote": "2-4 sentence patient encounter note. Include: patient age/sex, chief complaint or reason for visit, what procedure the physician performed, and the final diagnosis.",
+  "correctCpt": ["CPTCODE"],
+  "correctIcd10": ["ICD10CODE"],
+  "cptRationale": "1-2 sentences: what this CPT code represents and why it is correct for this scenario.",
+  "icd10Rationale": "1-2 sentences: what this ICD-10 code represents and why it is correct.",
+  "codingTips": "One practical sentence about common mistakes, modifiers, or specificity pitfalls for this scenario — or null."${
+    needsDistractors
+      ? `,
+  "cptDistractors": ["CODE1", "CODE2", "CODE3"],
+  "icd10Distractors": ["CODE1", "CODE2", "CODE3"]`
+      : ''
+  }
+}
+
+${difficulty === 'hard' ? 'For hard difficulty: include multiple CPT codes in correctCpt array if multiple separately reportable procedures were performed.' : ''}
+${needsDistractors ? 'DISTRACTOR RULES: Each distractor must be a real, valid code from the same system. Make them plausible wrong answers — not obviously unrelated. A student who did not study carefully should be tempted by them.' : ''}
+
+Return ONLY the raw JSON object. No markdown. No explanation outside the JSON.`;
+
+    const completion = await getOpenAI().chat.completions.create({
+      model: 'gpt-4o-mini',
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt },
+      ],
+      temperature: 0.8,
+      response_format: { type: 'json_object' },
+    });
+
+    const raw = JSON.parse(completion.choices[0].message.content || '{}') as {
+      clinicalNote: string;
+      correctCpt: string[];
+      correctIcd10: string[];
+      cptRationale: string;
+      icd10Rationale: string;
+      codingTips?: string;
+      cptDistractors?: string[];
+      icd10Distractors?: string[];
+    };
+
+    const cptOptions = needsDistractors
+      ? shuffle([...raw.correctCpt, ...(raw.cptDistractors || []).slice(0, 3)])
+      : undefined;
+    const icd10Options = needsDistractors
+      ? shuffle([...raw.correctIcd10, ...(raw.icd10Distractors || []).slice(0, 3)])
+      : undefined;
+
+    const scenario: GeneratedScenario = {
+      id: crypto.randomUUID(),
+      system: resolvedSystem,
+      difficulty,
+      clinicalNote: raw.clinicalNote,
+      correctCpt: raw.correctCpt,
+      correctIcd10: raw.correctIcd10,
+      cptOptions,
+      icd10Options,
+      cptRationale: raw.cptRationale,
+      icd10Rationale: raw.icd10Rationale,
+      codingTips: raw.codingTips || undefined,
+    };
+
+    return NextResponse.json({ scenario });
+  } catch (err) {
+    console.error('Scenario generate error:', err);
+    return NextResponse.json({ error: 'Failed to generate scenario' }, { status: 500 });
+  }
+}

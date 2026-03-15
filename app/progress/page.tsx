@@ -1,1 +1,153 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgU2Vzc2lvblJlY29yZCB9IGZyb20gJ0AvdHlwZXMnOwppbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnOwoKaW50ZXJmYWNlIFN0YXRzIHsKICB0b3RhbEF0dGVtcHRzOiBudW1iZXI7CiAgdG90YWxDb3JyZWN0OiBudW1iZXI7CiAgYWNjdXJhY3k6IG51bWJlcjsKICBzdHVkaWVkVG9kYXk6IG51bWJlcjsKICBzdHJlYWs6IG51bWJlcjsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUHJvZ3Jlc3NQYWdlKCkgewogIGNvbnN0IFtzdGF0cywgc2V0U3RhdHNdID0gdXNlU3RhdGU8U3RhdHM+KHsKICAgIHRvdGFsQXR0ZW1wdHM6IDAsCiAgICB0b3RhbENvcnJlY3Q6IDAsCiAgICBhY2N1cmFjeTogMCwKICAgIHN0dWRpZWRUb2RheTogMCwKICAgIHN0cmVhazogMCwKICB9KTsKICBjb25zdCBbc2Vzc2lvbnMsIHNldFNlc3Npb25zXSA9IHVzZVN0YXRlPFNlc3Npb25SZWNvcmRbXT4oW10pOwogIGNvbnN0IFtzeXN0ZW1CcmVha2Rvd24sIHNldFN5c3RlbUJyZWFrZG93bl0gPSB1c2VTdGF0ZTxSZWNvcmQ8c3RyaW5nLCB7IGNvcnJlY3Q6IG51bWJlcjsgdG90YWw6IG51bWJlciB9Pj4oe30pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgdHJ5IHsKICAgICAgY29uc3Qgc3RvcmVkU3RhdHMgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnY3BjX3N0YXRzJyk7CiAgICAgIGlmIChzdG9yZWRTdGF0cykgc2V0U3RhdHMoSlNPTi5wYXJzZShzdG9yZWRTdGF0cykpOwoKICAgICAgY29uc3Qgc3RvcmVkU2Vzc2lvbnMgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnY3BjX3Nlc3Npb25zJyk7CiAgICAgIGlmIChzdG9yZWRTZXNzaW9ucykgewogICAgICAgIGNvbnN0IGFsbFNlc3Npb25zOiBTZXNzaW9uUmVjb3JkW10gPSBKU09OLnBhcnNlKHN0b3JlZFNlc3Npb25zKTsKICAgICAgICBzZXRTZXNzaW9ucyhhbGxTZXNzaW9ucyk7CgogICAgICAgIC8vIEJ1aWxkIHN5c3RlbSBicmVha2Rvd24gZnJvbSBzZXNzaW9ucyAoc2ltcGxpZmllZCkKICAgICAgICBjb25zdCBicmVha2Rvd246IFJlY29yZDxzdHJpbmcsIHsgY29ycmVjdDogbnVtYmVyOyB0b3RhbDogbnVtYmVyIH0+ID0ge307CiAgICAgICAgLy8gV2UnbGwgY29tcHV0ZSBmcm9tIHRoZSBxdWl6IHJlc3VsdHMgc3RvcmVkIGluIGVhY2ggc2Vzc2lvbiBpZiBhdmFpbGFibGUKICAgICAgICAvLyBGb3Igbm93LCBhZ2dyZWdhdGUgZnJvbSBzZXNzaW9ucwogICAgICAgIGFsbFNlc3Npb25zLmZvckVhY2gocyA9PiB7CiAgICAgICAgICBpZiAoIWJyZWFrZG93blsnQWxsJ10pIGJyZWFrZG93blsnQWxsJ10gPSB7IGNvcnJlY3Q6IDAsIHRvdGFsOiAwIH07CiAgICAgICAgICBicmVha2Rvd25bJ0FsbCddLmNvcnJlY3QgKz0gcy5zY29yZTsKICAgICAgICAgIGJyZWFrZG93blsnQWxsJ10udG90YWwgKz0gcy50b3RhbDsKICAgICAgICB9KTsKICAgICAgICBzZXRTeXN0ZW1CcmVha2Rvd24oYnJlYWtkb3duKTsKICAgICAgfQogICAgfSBjYXRjaCB7fQogIH0sIFtdKTsKCiAgY29uc3QgbWFzdGVyZWQgPSBzdGF0cy50b3RhbEF0dGVtcHRzID4gMAogICAgPyBNYXRoLnJvdW5kKChzdGF0cy50b3RhbENvcnJlY3QgLyBzdGF0cy50b3RhbEF0dGVtcHRzKSAqIDU4MyAqIChzdGF0cy5hY2N1cmFjeSAvIDEwMCkpCiAgICA6IDA7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctNHhsIG14LWF1dG8gc3BhY2UteS02Ij4KICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtdGV4dCI+8J+TiiBZb3VyIFByb2dyZXNzPC9oMT4KCiAgICAgIHsvKiBPdmVyYWxsIFN0YXRzICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMiBtZDpncmlkLWNvbHMtNCBnYXAtNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQteGwgY2FyZC1zaGFkb3cgcC01IHRleHQtY2VudGVyIj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtcHJpbWFyeSI+e3N0YXRzLnRvdGFsQXR0ZW1wdHN9PC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS01MDAgbXQtMSI+VG90YWwgQXR0ZW1wdHM8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQteGwgY2FyZC1zaGFkb3cgcC01IHRleHQtY2VudGVyIj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtc3VjY2VzcyI+e3N0YXRzLmFjY3VyYWN5fSU8L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1ncmF5LTUwMCBtdC0xIj5PdmVyYWxsIEFjY3VyYWN5PC9wPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy13aGl0ZSByb3VuZGVkLXhsIGNhcmQtc2hhZG93IHAtNSB0ZXh0LWNlbnRlciI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtM3hsIGZvbnQtYm9sZCB0ZXh0LXRleHQiPntNYXRoLm1pbihtYXN0ZXJlZCwgNTgzKX08L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1ncmF5LTUwMCBtdC0xIj5DYXJkcyBNYXN0ZXJlZDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctd2hpdGUgcm91bmRlZC14bCBjYXJkLXNoYWRvdyBwLTUgdGV4dC1jZW50ZXIiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQgdGV4dC10ZXh0Ij57c3RhdHMuc3R1ZGllZFRvZGF5fTwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LWdyYXktNTAwIG10LTEiPlN0dWRpZWQgVG9kYXk8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIEFjY3VyYWN5IEJhciAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQteGwgY2FyZC1zaGFkb3cgcC02Ij4KICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtdGV4dCBtYi0zIj5PdmVyYWxsIEFjY3VyYWN5PC9oMz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIGgtNCBiZy1ncmF5LTIwMCByb3VuZGVkLWZ1bGwgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgIDxkaXYKICAgICAgICAgICAgY2xhc3NOYW1lPXtgaC1mdWxsIHJvdW5kZWQtZnVsbCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi01MDAgJHsKICAgICAgICAgICAgICBzdGF0cy5hY2N1cmFjeSA+PSA3MCA/ICdiZy1zdWNjZXNzJyA6IHN0YXRzLmFjY3VyYWN5ID49IDUwID8gJ2JnLXllbGxvdy00MDAnIDogJ2JnLWVycm9yJwogICAgICAgICAgICB9YH0KICAgICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IGAke3N0YXRzLmFjY3VyYWN5fSVgIH19CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktYmV0d2VlbiBtdC0yIHRleHQtc20gdGV4dC1ncmF5LTUwMCI+CiAgICAgICAgICA8c3Bhbj4wJTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LXRleHQiPntzdGF0cy5hY2N1cmFjeX0lPC9zcGFuPgogICAgICAgICAgPHNwYW4+MTAwJTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogU2Vzc2lvbiBIaXN0b3J5ICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctd2hpdGUgcm91bmRlZC14bCBjYXJkLXNoYWRvdyBwLTYiPgogICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC10ZXh0IG1iLTQiPvCfk50gU2Vzc2lvbiBIaXN0b3J5PC9oMz4KICAgICAgICB7c2Vzc2lvbnMubGVuZ3RoID09PSAwID8gKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHB5LTggdGV4dC1ncmF5LTQwMCI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1sZyBtYi0yIj5ObyBzZXNzaW9ucyB5ZXQhPC9wPgogICAgICAgICAgICA8TGluayBocmVmPSIvc3R1ZHkiIGNsYXNzTmFtZT0idGV4dC1wcmltYXJ5IGhvdmVyOnVuZGVybGluZSI+U3RhcnQgc3R1ZHlpbmcg4oaSPC9MaW5rPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSA6ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJvdmVyZmxvdy14LWF1dG8iPgogICAgICAgICAgICA8dGFibGUgY2xhc3NOYW1lPSJ3LWZ1bGwgdGV4dC1zbSI+CiAgICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICAgICAgPHRyIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLWdyYXktMTAwIj4KICAgICAgICAgICAgICAgICAgPHRoIGNsYXNzTmFtZT0idGV4dC1sZWZ0IHB5LTIgdGV4dC1ncmF5LTUwMCBmb250LW1lZGl1bSI+RGF0ZTwvdGg+CiAgICAgICAgICAgICAgICAgIDx0aCBjbGFzc05hbWU9InRleHQtbGVmdCBweS0yIHRleHQtZ3JheS01MDAgZm9udC1tZWRpdW0iPk1vZGU8L3RoPgogICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LXJpZ2h0IHB5LTIgdGV4dC1ncmF5LTUwMCBmb250LW1lZGl1bSI+U2NvcmU8L3RoPgogICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LXJpZ2h0IHB5LTIgdGV4dC1ncmF5LTUwMCBmb250LW1lZGl1bSI+QWNjdXJhY3k8L3RoPgogICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LXJpZ2h0IHB5LTIgdGV4dC1ncmF5LTUwMCBmb250LW1lZGl1bSI+RHVyYXRpb248L3RoPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgIHtzZXNzaW9ucy5zbGljZSgwLCAyMCkubWFwKChzLCBpKSA9PiAoCiAgICAgICAgICAgICAgICAgIDx0ciBrZXk9e2l9IGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLWdyYXktNTAiPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB5LTMgdGV4dC10ZXh0Ij57cy5kYXRlfTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0icHktMyBjYXBpdGFsaXplIHRleHQtdGV4dCI+e3MubW9kZX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB5LTMgdGV4dC1yaWdodCB0ZXh0LXRleHQiPntzLnNjb3JlfS97cy50b3RhbH08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB5LTMgdGV4dC1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2Bmb250LXNlbWlib2xkICR7CiAgICAgICAgICAgICAgICAgICAgICAgIHMucGVyY2VudGFnZSA+PSA3MCA/ICd0ZXh0LXN1Y2Nlc3MnIDogcy5wZXJjZW50YWdlID49IDUwID8gJ3RleHQteWVsbG93LTUwMCcgOiAndGV4dC1lcnJvcicKICAgICAgICAgICAgICAgICAgICAgIH1gfT4KICAgICAgICAgICAgICAgICAgICAgICAge3MucGVyY2VudGFnZX0lCiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJweS0zIHRleHQtcmlnaHQgdGV4dC1ncmF5LTUwMCI+CiAgICAgICAgICAgICAgICAgICAgICB7cy5kdXJhdGlvbiA/IGAke01hdGguZmxvb3Iocy5kdXJhdGlvbiAvIDYwKX1tICR7cy5kdXJhdGlvbiAlIDYwfXNgIDogJy0nfQogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICA8L3RhYmxlPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CgogICAgICB7LyogVGlwcyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLWJsdWUtNTAgcm91bmRlZC14bCBib3JkZXIgYm9yZGVyLWJsdWUtMTAwIHAtNiI+CiAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LXByaW1hcnkgbWItMiI+8J+SoSBTdHVkeSBUaXBzPC9oMz4KICAgICAgICA8dWwgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtdGV4dC84MCBzcGFjZS15LTEiPgogICAgICAgICAgPGxpPuKAoiBGb2N1cyBvbiBzeXN0ZW1zIHdoZXJlIHlvdXIgYWNjdXJhY3kgaXMgYmVsb3cgNzAlPC9saT4KICAgICAgICAgIDxsaT7igKIgVXNlIFR5cGUgQW5zd2VyIG1vZGUgdG8gYnVpbGQgc3Ryb25nZXIgcmVjYWxsPC9saT4KICAgICAgICAgIDxsaT7igKIgVGFrZSByZWd1bGFyIHF1aXp6ZXMgdG8gdGVzdCB1bmRlciB0aW1lIHByZXNzdXJlPC9saT4KICAgICAgICAgIDxsaT7igKIgUmV2aWV3IG1pc3NlZCBjYXJkcyBmcm9tIHF1aXogcmVzdWx0czwvbGk+CiAgICAgICAgICA8bGk+4oCiIFN0dWR5IGNvbnNpc3RlbnRseSDigJQgZXZlbiAxNSBtaW51dGVzIGRhaWx5IGJ1aWxkcyBtYXN0ZXJ5PC9saT4KICAgICAgICA8L3VsPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+'use client';
+
+import { useState, useEffect } from 'react';
+import { SessionRecord } from '@/types';
+import Link from 'next/link';
+
+interface Stats {
+  totalAttempts: number;
+  totalCorrect: number;
+  accuracy: number;
+  studiedToday: number;
+  streak: number;
+}
+
+export default function ProgressPage() {
+  const [stats, setStats] = useState<Stats>({
+    totalAttempts: 0,
+    totalCorrect: 0,
+    accuracy: 0,
+    studiedToday: 0,
+    streak: 0,
+  });
+  const [sessions, setSessions] = useState<SessionRecord[]>([]);
+  const [systemBreakdown, setSystemBreakdown] = useState<Record<string, { correct: number; total: number }>>({});
+
+  useEffect(() => {
+    try {
+      const storedStats = localStorage.getItem('cpc_stats');
+      if (storedStats) setStats(JSON.parse(storedStats));
+
+      const storedSessions = localStorage.getItem('cpc_sessions');
+      if (storedSessions) {
+        const allSessions: SessionRecord[] = JSON.parse(storedSessions);
+        setSessions(allSessions);
+
+        // Build system breakdown from sessions (simplified)
+        const breakdown: Record<string, { correct: number; total: number }> = {};
+        // We'll compute from the quiz results stored in each session if available
+        // For now, aggregate from sessions
+        allSessions.forEach(s => {
+          if (!breakdown['All']) breakdown['All'] = { correct: 0, total: 0 };
+          breakdown['All'].correct += s.score;
+          breakdown['All'].total += s.total;
+        });
+        setSystemBreakdown(breakdown);
+      }
+    } catch {}
+  }, []);
+
+  const mastered = stats.totalAttempts > 0
+    ? Math.round((stats.totalCorrect / stats.totalAttempts) * 583 * (stats.accuracy / 100))
+    : 0;
+
+  return (
+    <div className="max-w-4xl mx-auto space-y-6">
+      <h1 className="text-3xl font-bold text-text">📊 Your Progress</h1>
+
+      {/* Overall Stats */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div className="bg-white rounded-xl card-shadow p-5 text-center">
+          <p className="text-3xl font-bold text-primary">{stats.totalAttempts}</p>
+          <p className="text-sm text-gray-500 mt-1">Total Attempts</p>
+        </div>
+        <div className="bg-white rounded-xl card-shadow p-5 text-center">
+          <p className="text-3xl font-bold text-success">{stats.accuracy}%</p>
+          <p className="text-sm text-gray-500 mt-1">Overall Accuracy</p>
+        </div>
+        <div className="bg-white rounded-xl card-shadow p-5 text-center">
+          <p className="text-3xl font-bold text-text">{Math.min(mastered, 583)}</p>
+          <p className="text-sm text-gray-500 mt-1">Cards Mastered</p>
+        </div>
+        <div className="bg-white rounded-xl card-shadow p-5 text-center">
+          <p className="text-3xl font-bold text-text">{stats.studiedToday}</p>
+          <p className="text-sm text-gray-500 mt-1">Studied Today</p>
+        </div>
+      </div>
+
+      {/* Accuracy Bar */}
+      <div className="bg-white rounded-xl card-shadow p-6">
+        <h3 className="font-semibold text-text mb-3">Overall Accuracy</h3>
+        <div className="w-full h-4 bg-gray-200 rounded-full overflow-hidden">
+          <div
+            className={`h-full rounded-full transition-all duration-500 ${
+              stats.accuracy >= 70 ? 'bg-success' : stats.accuracy >= 50 ? 'bg-yellow-400' : 'bg-error'
+            }`}
+            style={{ width: `${stats.accuracy}%` }}
+          />
+        </div>
+        <div className="flex justify-between mt-2 text-sm text-gray-500">
+          <span>0%</span>
+          <span className="font-semibold text-text">{stats.accuracy}%</span>
+          <span>100%</span>
+        </div>
+      </div>
+
+      {/* Session History */}
+      <div className="bg-white rounded-xl card-shadow p-6">
+        <h3 className="font-semibold text-text mb-4">📝 Session History</h3>
+        {sessions.length === 0 ? (
+          <div className="text-center py-8 text-gray-400">
+            <p className="text-lg mb-2">No sessions yet!</p>
+            <Link href="/study" className="text-primary hover:underline">Start studying →</Link>
+          </div>
+        ) : (
+          <div className="overflow-x-auto">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="border-b border-gray-100">
+                  <th className="text-left py-2 text-gray-500 font-medium">Date</th>
+                  <th className="text-left py-2 text-gray-500 font-medium">Mode</th>
+                  <th className="text-right py-2 text-gray-500 font-medium">Score</th>
+                  <th className="text-right py-2 text-gray-500 font-medium">Accuracy</th>
+                  <th className="text-right py-2 text-gray-500 font-medium">Duration</th>
+                </tr>
+              </thead>
+              <tbody>
+                {sessions.slice(0, 20).map((s, i) => (
+                  <tr key={i} className="border-b border-gray-50">
+                    <td className="py-3 text-text">{s.date}</td>
+                    <td className="py-3 capitalize text-text">{s.mode}</td>
+                    <td className="py-3 text-right text-text">{s.score}/{s.total}</td>
+                    <td className="py-3 text-right">
+                      <span className={`font-semibold ${
+                        s.percentage >= 70 ? 'text-success' : s.percentage >= 50 ? 'text-yellow-500' : 'text-error'
+                      }`}>
+                        {s.percentage}%
+                      </span>
+                    </td>
+                    <td className="py-3 text-right text-gray-500">
+                      {s.duration ? `${Math.floor(s.duration / 60)}m ${s.duration % 60}s` : '-'}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </div>
+
+      {/* Tips */}
+      <div className="bg-blue-50 rounded-xl border border-blue-100 p-6">
+        <h3 className="font-semibold text-primary mb-2">💡 Study Tips</h3>
+        <ul className="text-sm text-text/80 space-y-1">
+          <li>• Focus on systems where your accuracy is below 70%</li>
+          <li>• Use Type Answer mode to build stronger recall</li>
+          <li>• Take regular quizzes to test under time pressure</li>
+          <li>• Review missed cards from quiz results</li>
+          <li>• Study consistently — even 15 minutes daily builds mastery</li>
+        </ul>
+      </div>
+    </div>
+  );
+}

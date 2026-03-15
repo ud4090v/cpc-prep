@@ -1,1 +1,6 @@
-{"data":"LyoqIEB0eXBlIHtpbXBvcnQoJ25leHQnKS5OZXh0Q29uZmlnfSAqLwpjb25zdCBuZXh0Q29uZmlnID0gewogIG91dHB1dDogJ3N0YW5kYWxvbmUnLAp9Cgptb2R1bGUuZXhwb3J0cyA9IG5leHRDb25maWcK"}
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'standalone',
+}
+
+module.exports = nextConfig

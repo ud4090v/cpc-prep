@@ -1,1 +1,258 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCwgdXNlQ2FsbGJhY2sgfSBmcm9tICdyZWFjdCc7CmltcG9ydCBGbGFzaENhcmQgZnJvbSAnQC9jb21wb25lbnRzL0ZsYXNoQ2FyZCc7CmltcG9ydCBBbnN3ZXJJbnB1dCBmcm9tICdAL2NvbXBvbmVudHMvQW5zd2VySW5wdXQnOwppbXBvcnQgRmVlZGJhY2tQYW5lbCBmcm9tICdAL2NvbXBvbmVudHMvRmVlZGJhY2tQYW5lbCc7CmltcG9ydCBQcm9ncmVzc0JhciBmcm9tICdAL2NvbXBvbmVudHMvUHJvZ3Jlc3NCYXInOwppbXBvcnQgeyBDYXJkLCBFdmFsdWF0ZVJlc3BvbnNlIH0gZnJvbSAnQC90eXBlcyc7CmltcG9ydCB7IGJ1aWxkTWNPcHRpb25zLCB3ZWlnaHRlZFNodWZmbGUgfSBmcm9tICdAL2xpYi9xdWl6LXV0aWxzJzsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFN0dWR5UGFnZSgpIHsKICBjb25zdCBbY2FyZHMsIHNldENhcmRzXSA9IHVzZVN0YXRlPENhcmRbXT4oW10pOwogIGNvbnN0IFthbGxDYXJkcywgc2V0QWxsQ2FyZHNdID0gdXNlU3RhdGU8Q2FyZFtdPihbXSk7CiAgY29uc3QgW3N5c3RlbXMsIHNldFN5c3RlbXNdID0gdXNlU3RhdGU8c3RyaW5nW10+KFtdKTsKICBjb25zdCBbY2F0ZWdvcmllcywgc2V0Q2F0ZWdvcmllc10gPSB1c2VTdGF0ZTxzdHJpbmdbXT4oW10pOwogIGNvbnN0IFtjdXJyZW50SW5kZXgsIHNldEN1cnJlbnRJbmRleF0gPSB1c2VTdGF0ZSgwKTsKICBjb25zdCBbYW5zd2VyTW9kZSwgc2V0QW5zd2VyTW9kZV0gPSB1c2VTdGF0ZTwnbWMnIHwgJ3R5cGUnPignbWMnKTsKICBjb25zdCBbb3B0aW9ucywgc2V0T3B0aW9uc10gPSB1c2VTdGF0ZTxzdHJpbmdbXT4oW10pOwogIGNvbnN0IFthbnN3ZXJlZCwgc2V0QW5zd2VyZWRdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtmZWVkYmFjaywgc2V0RmVlZGJhY2tdID0gdXNlU3RhdGU8RXZhbHVhdGVSZXNwb25zZSB8IG51bGw+KG51bGwpOwogIGNvbnN0IFtmZWVkYmFja0xvYWRpbmcsIHNldEZlZWRiYWNrTG9hZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2NvcnJlY3QsIHNldENvcnJlY3RdID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgW3RvdGFsLCBzZXRUb3RhbF0gPSB1c2VTdGF0ZSgwKTsKICBjb25zdCBbZmlsdGVyU3lzdGVtLCBzZXRGaWx0ZXJTeXN0ZW1dID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtmaWx0ZXJDYXRlZ29yeSwgc2V0RmlsdGVyQ2F0ZWdvcnldID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtsb2FkaW5nLCBzZXRMb2FkaW5nXSA9IHVzZVN0YXRlKHRydWUpOwoKICAvLyBMb2FkIGNhcmRzCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGFzeW5jIGZ1bmN0aW9uIGxvYWQoKSB7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goJy9hcGkvY2FyZHMnKTsKICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsKICAgICAgICBzZXRBbGxDYXJkcyhkYXRhLmNhcmRzIHx8IFtdKTsKICAgICAgICAKICAgICAgICBjb25zdCBzeXMgPSBBcnJheS5mcm9tKG5ldyBTZXQoKGRhdGEuY2FyZHMgfHwgW10pLm1hcCgoYzogQ2FyZCkgPT4gYy5zeXN0ZW0pKSkuZmlsdGVyKEJvb2xlYW4pLnNvcnQoKSBhcyBzdHJpbmdbXTsKICAgICAgICBjb25zdCBjYXRzID0gQXJyYXkuZnJvbShuZXcgU2V0KChkYXRhLmNhcmRzIHx8IFtdKS5tYXAoKGM6IENhcmQpID0+IGMuY2F0ZWdvcnkpKSkuZmlsdGVyKEJvb2xlYW4pLnNvcnQoKSBhcyBzdHJpbmdbXTsKICAgICAgICBzZXRTeXN0ZW1zKHN5cyk7CiAgICAgICAgc2V0Q2F0ZWdvcmllcyhjYXRzKTsKICAgICAgfSBjYXRjaCB7CiAgICAgICAgc2V0QWxsQ2FyZHMoW10pOwogICAgICB9IGZpbmFsbHkgewogICAgICAgIHNldExvYWRpbmcoZmFsc2UpOwogICAgICB9CiAgICB9CiAgICBsb2FkKCk7CiAgfSwgW10pOwoKICAvLyBGaWx0ZXIgYW5kIHNodWZmbGUgY2FyZHMKICBjb25zdCByZWZyZXNoQ2FyZHMgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBsZXQgcG9vbCA9IFsuLi5hbGxDYXJkc107CiAgICBpZiAoZmlsdGVyU3lzdGVtKSBwb29sID0gcG9vbC5maWx0ZXIoYyA9PiBjLnN5c3RlbSA9PT0gZmlsdGVyU3lzdGVtKTsKICAgIGlmIChmaWx0ZXJDYXRlZ29yeSkgcG9vbCA9IHBvb2wuZmlsdGVyKGMgPT4gYy5jYXRlZ29yeSA9PT0gZmlsdGVyQ2F0ZWdvcnkpOwogICAgCiAgICAvLyBXZWlnaHRlZCBzaHVmZmxlOiB1bnNlZW4vb2xkZXIgY2FyZHMgY29tZSBmaXJzdAogICAgcG9vbCA9IHdlaWdodGVkU2h1ZmZsZShwb29sKTsKCiAgICBzZXRDYXJkcyhwb29sKTsKICAgIHNldEN1cnJlbnRJbmRleCgwKTsKICAgIHNldEFuc3dlcmVkKGZhbHNlKTsKICAgIHNldEZlZWRiYWNrKG51bGwpOwogICAgc2V0Q29ycmVjdCgwKTsKICAgIHNldFRvdGFsKDApOwogIH0sIFthbGxDYXJkcywgZmlsdGVyU3lzdGVtLCBmaWx0ZXJDYXRlZ29yeV0pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGFsbENhcmRzLmxlbmd0aCA+IDApIHJlZnJlc2hDYXJkcygpOwogIH0sIFthbGxDYXJkcywgZmlsdGVyU3lzdGVtLCBmaWx0ZXJDYXRlZ29yeSwgcmVmcmVzaENhcmRzXSk7CgogIC8vIEdlbmVyYXRlIE1DIG9wdGlvbnMgZm9yIGN1cnJlbnQgY2FyZAogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoY2FyZHMubGVuZ3RoID09PSAwIHx8IGN1cnJlbnRJbmRleCA+PSBjYXJkcy5sZW5ndGgpIHJldHVybjsKICAgIGNvbnN0IGNhcmQgPSBjYXJkc1tjdXJyZW50SW5kZXhdOwogICAgCiAgICBpZiAoYW5zd2VyTW9kZSA9PT0gJ21jJykgewogICAgICBzZXRPcHRpb25zKGJ1aWxkTWNPcHRpb25zKGNhcmQsIGFsbENhcmRzKSk7CiAgICB9CiAgfSwgW2NhcmRzLCBjdXJyZW50SW5kZXgsIGFuc3dlck1vZGUsIGFsbENhcmRzXSk7CgogIGNvbnN0IGN1cnJlbnRDYXJkID0gY2FyZHNbY3VycmVudEluZGV4XTsKCiAgYXN5bmMgZnVuY3Rpb24gaGFuZGxlQW5zd2VyKGFuc3dlcjogc3RyaW5nKSB7CiAgICBpZiAoIWN1cnJlbnRDYXJkIHx8IGFuc3dlcmVkKSByZXR1cm47CiAgICBzZXRBbnN3ZXJlZCh0cnVlKTsKICAgIHNldFRvdGFsKHByZXYgPT4gcHJldiArIDEpOwogICAgc2V0RmVlZGJhY2tMb2FkaW5nKHRydWUpOwoKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKCcvYXBpL2V2YWx1YXRlJywgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsgCiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICAgJ3gtdXNlci1pZCc6IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdjcGNfdXNlcl9pZCcpIHx8ICcnLAogICAgICAgIH0sCiAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgY2FyZElkOiBjdXJyZW50Q2FyZC5pZCwKICAgICAgICAgIHVzZXJBbnN3ZXI6IGFuc3dlciwKICAgICAgICAgIGNvcnJlY3RBbnN3ZXI6IGN1cnJlbnRDYXJkLmRlZmluaXRpb24sCiAgICAgICAgICB0ZXJtOiBjdXJyZW50Q2FyZC50ZXJtLAogICAgICAgICAgZGVmaW5pdGlvbjogY3VycmVudENhcmQuZGVmaW5pdGlvbiwKICAgICAgICB9KSwKICAgICAgfSk7CiAgICAgIGNvbnN0IGRhdGE6IEV2YWx1YXRlUmVzcG9uc2UgPSBhd2FpdCByZXMuanNvbigpOwogICAgICBzZXRGZWVkYmFjayhkYXRhKTsKICAgICAgaWYgKGRhdGEuaXNDb3JyZWN0KSBzZXRDb3JyZWN0KHByZXYgPT4gcHJldiArIDEpOwogICAgfSBjYXRjaCB7CiAgICAgIC8vIEZhbGxiYWNrOiBzaW1wbGUgc3RyaW5nIG1hdGNoCiAgICAgIGNvbnN0IGlzQ29ycmVjdCA9IGFuc3dlci50b0xvd2VyQ2FzZSgpLnRyaW0oKSA9PT0gY3VycmVudENhcmQuZGVmaW5pdGlvbi50b0xvd2VyQ2FzZSgpLnRyaW0oKTsKICAgICAgc2V0RmVlZGJhY2soewogICAgICAgIGlzQ29ycmVjdCwKICAgICAgICBjb25maWRlbmNlOiBpc0NvcnJlY3QgPyAnZXhhY3QnIDogJ3dyb25nJywKICAgICAgICBmZWVkYmFjazogaXNDb3JyZWN0ID8gJ0NvcnJlY3QhJyA6IGBUaGUgY29ycmVjdCBhbnN3ZXIgaXM6ICR7Y3VycmVudENhcmQuZGVmaW5pdGlvbn1gLAogICAgICB9KTsKICAgICAgaWYgKGlzQ29ycmVjdCkgc2V0Q29ycmVjdChwcmV2ID0+IHByZXYgKyAxKTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldEZlZWRiYWNrTG9hZGluZyhmYWxzZSk7CiAgICB9CgogICAgLy8gVXBkYXRlIHN0YXRzIGluIGxvY2FsU3RvcmFnZQogICAgdHJ5IHsKICAgICAgY29uc3Qgc3RhdHMgPSBKU09OLnBhcnNlKGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdjcGNfc3RhdHMnKSB8fCAne30nKTsKICAgICAgc3RhdHMuc3R1ZGllZFRvZGF5ID0gKHN0YXRzLnN0dWRpZWRUb2RheSB8fCAwKSArIDE7CiAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCdjcGNfc3RhdHMnLCBKU09OLnN0cmluZ2lmeShzdGF0cykpOwogICAgfSBjYXRjaCB7fQogIH0KCiAgZnVuY3Rpb24gbmV4dENhcmQoKSB7CiAgICBzZXRBbnN3ZXJlZChmYWxzZSk7CiAgICBzZXRGZWVkYmFjayhudWxsKTsKICAgIGlmIChjdXJyZW50SW5kZXggKyAxIDwgY2FyZHMubGVuZ3RoKSB7CiAgICAgIHNldEN1cnJlbnRJbmRleChwcmV2ID0+IHByZXYgKyAxKTsKICAgIH0gZWxzZSB7CiAgICAgIHJlZnJlc2hDYXJkcygpOwogICAgfQogIH0KCiAgaWYgKGxvYWRpbmcpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBweS0yMCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4gaC0xMCB3LTEwIGJvcmRlci00IGJvcmRlci1wcmltYXJ5IGJvcmRlci10LXRyYW5zcGFyZW50IHJvdW5kZWQtZnVsbCBteC1hdXRvIG1iLTQiIC8+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZ3JheS01MDAiPkxvYWRpbmcgY2FyZHMuLi48L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGlmIChjYXJkcy5sZW5ndGggPT09IDApIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBweS0yMCI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhsIHRleHQtZ3JheS01MDAiPk5vIGNhcmRzIG1hdGNoIHlvdXIgZmlsdGVycy4gVHJ5IGRpZmZlcmVudCBmaWx0ZXJzLjwvcD4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICB7LyogRmlsdGVyIGJhciAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXdoaXRlIHJvdW5kZWQteGwgY2FyZC1zaGFkb3cgcC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgaXRlbXMtY2VudGVyIGdhcC00Ij4KICAgICAgICAgIDxzZWxlY3QKICAgICAgICAgICAgdmFsdWU9e2ZpbHRlclN5c3RlbX0KICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRGaWx0ZXJTeXN0ZW0oZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICBjbGFzc05hbWU9InB4LTMgcHktMiBib3JkZXIgYm9yZGVyLWdyYXktMjAwIHJvdW5kZWQtbGcgdGV4dC1zbSBmb2N1czpib3JkZXItcHJpbWFyeSBmb2N1czpvdXRsaW5lLW5vbmUiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+QWxsIFN5c3RlbXM8L29wdGlvbj4KICAgICAgICAgICAge3N5c3RlbXMubWFwKHMgPT4gKAogICAgICAgICAgICAgIDxvcHRpb24ga2V5PXtzfSB2YWx1ZT17c30+e3N9PC9vcHRpb24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9zZWxlY3Q+CgogICAgICAgICAgPHNlbGVjdAogICAgICAgICAgICB2YWx1ZT17ZmlsdGVyQ2F0ZWdvcnl9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0RmlsdGVyQ2F0ZWdvcnkoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICBjbGFzc05hbWU9InB4LTMgcHktMiBib3JkZXIgYm9yZGVyLWdyYXktMjAwIHJvdW5kZWQtbGcgdGV4dC1zbSBmb2N1czpib3JkZXItcHJpbWFyeSBmb2N1czpvdXRsaW5lLW5vbmUiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+QWxsIENhdGVnb3JpZXM8L29wdGlvbj4KICAgICAgICAgICAge2NhdGVnb3JpZXMubWFwKGMgPT4gKAogICAgICAgICAgICAgIDxvcHRpb24ga2V5PXtjfSB2YWx1ZT17Y30+e2MucmVwbGFjZSgvXy9nLCAnICcpfTwvb3B0aW9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvc2VsZWN0PgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGJnLWdyYXktMTAwIHJvdW5kZWQtbGcgcC0xIj4KICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldEFuc3dlck1vZGUoJ21jJyl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcHgtNCBweS0xLjUgcm91bmRlZC1tZCB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRyYW5zaXRpb24tY29sb3JzICR7CiAgICAgICAgICAgICAgICBhbnN3ZXJNb2RlID09PSAnbWMnID8gJ2JnLXdoaXRlIHRleHQtcHJpbWFyeSBzaGFkb3ctc20nIDogJ3RleHQtZ3JheS01MDAnCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBNdWx0aXBsZSBDaG9pY2UKICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRBbnN3ZXJNb2RlKCd0eXBlJyl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcHgtNCBweS0xLjUgcm91bmRlZC1tZCB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRyYW5zaXRpb24tY29sb3JzICR7CiAgICAgICAgICAgICAgICBhbnN3ZXJNb2RlID09PSAndHlwZScgPyAnYmctd2hpdGUgdGV4dC1wcmltYXJ5IHNoYWRvdy1zbScgOiAndGV4dC1ncmF5LTUwMCcKICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIFR5cGUgQW5zd2VyCiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1sLWF1dG8gdGV4dC1zbSB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAge2NhcmRzLmxlbmd0aH0gY2FyZHMKICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBQcm9ncmVzcyAqL30KICAgICAgPFByb2dyZXNzQmFyCiAgICAgICAgY3VycmVudD17Y3VycmVudEluZGV4ICsgMX0KICAgICAgICB0b3RhbD17Y2FyZHMubGVuZ3RofQogICAgICAgIGNvcnJlY3Q9e2NvcnJlY3R9CiAgICAgICAgbGFiZWw9IlNlc3Npb24gUHJvZ3Jlc3MiCiAgICAgIC8+CgogICAgICB7LyogU3RhdHMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtNiB0ZXh0LXNtIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc3VjY2VzcyBmb250LXNlbWlib2xkIj7inJMge2NvcnJlY3R9PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1lcnJvciBmb250LXNlbWlib2xkIj7inJcge3RvdGFsIC0gY29ycmVjdH08L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgIHt0b3RhbCA+IDAgPyBNYXRoLnJvdW5kKChjb3JyZWN0IC8gdG90YWwpICogMTAwKSA6IDB9JSBhY2N1cmFjeQogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CgogICAgICB7LyogQ2FyZCAqL30KICAgICAge2N1cnJlbnRDYXJkICYmICgKICAgICAgICA8Rmxhc2hDYXJkIGNhcmQ9e2N1cnJlbnRDYXJkfSBzaG93QW5zd2VyPXthbnN3ZXJlZH0+CiAgICAgICAgICB7IWFuc3dlcmVkID8gKAogICAgICAgICAgICA8QW5zd2VySW5wdXQKICAgICAgICAgICAgICBtb2RlPXthbnN3ZXJNb2RlfQogICAgICAgICAgICAgIG9wdGlvbnM9e2Fuc3dlck1vZGUgPT09ICdtYycgPyBvcHRpb25zIDogdW5kZWZpbmVkfQogICAgICAgICAgICAgIG9uU3VibWl0PXtoYW5kbGVBbnN3ZXJ9CiAgICAgICAgICAgIC8+CiAgICAgICAgICApIDogKAogICAgICAgICAgICA8PgogICAgICAgICAgICAgIHsoZmVlZGJhY2tMb2FkaW5nIHx8IGZlZWRiYWNrKSAmJiAoCiAgICAgICAgICAgICAgICA8RmVlZGJhY2tQYW5lbAogICAgICAgICAgICAgICAgICBpc0NvcnJlY3Q9e2ZlZWRiYWNrPy5pc0NvcnJlY3QgPz8gZmFsc2V9CiAgICAgICAgICAgICAgICAgIGNvbmZpZGVuY2U9e2ZlZWRiYWNrPy5jb25maWRlbmNlfQogICAgICAgICAgICAgICAgICBmZWVkYmFjaz17ZmVlZGJhY2s/LmZlZWRiYWNrID8/ICcnfQogICAgICAgICAgICAgICAgICBjb3JyZWN0QW5zd2VyPXtjdXJyZW50Q2FyZC5kZWZpbml0aW9ufQogICAgICAgICAgICAgICAgICBleHBsYW5hdGlvbj17Y3VycmVudENhcmQuZXhwbGFuYXRpb259CiAgICAgICAgICAgICAgICAgIGxvYWRpbmc9e2ZlZWRiYWNrTG9hZGluZ30KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICBvbkNsaWNrPXtuZXh0Q2FyZH0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ibXQtNiB3LWZ1bGwgcHktMyBiZy1wcmltYXJ5IHRleHQtd2hpdGUgZm9udC1zZW1pYm9sZCByb3VuZGVkLXhsIGhvdmVyOmJnLXByaW1hcnktZGFyayB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBOZXh0IENhcmQg4oaSCiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvPgogICAgICAgICAgKX0KICAgICAgICA8L0ZsYXNoQ2FyZD4KICAgICAgKX0KICAgIDwvZGl2PgogICk7Cn0K"}
+'use client';
+
+import { useState, useEffect, useCallback } from 'react';
+import FlashCard from '@/components/FlashCard';
+import AnswerInput from '@/components/AnswerInput';
+import FeedbackPanel from '@/components/FeedbackPanel';
+import ProgressBar from '@/components/ProgressBar';
+import { Card, EvaluateResponse } from '@/types';
+import { buildMcOptions, weightedShuffle } from '@/lib/quiz-utils';
+
+export default function StudyPage() {
+  const [cards, setCards] = useState<Card[]>([]);
+  const [allCards, setAllCards] = useState<Card[]>([]);
+  const [systems, setSystems] = useState<string[]>([]);
+  const [categories, setCategories] = useState<string[]>([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [answerMode, setAnswerMode] = useState<'mc' | 'type'>('mc');
+  const [options, setOptions] = useState<string[]>([]);
+  const [answered, setAnswered] = useState(false);
+  const [feedback, setFeedback] = useState<EvaluateResponse | null>(null);
+  const [feedbackLoading, setFeedbackLoading] = useState(false);
+  const [correct, setCorrect] = useState(0);
+  const [total, setTotal] = useState(0);
+  const [filterSystem, setFilterSystem] = useState('');
+  const [filterCategory, setFilterCategory] = useState('');
+  const [loading, setLoading] = useState(true);
+
+  // Load cards
+  useEffect(() => {
+    async function load() {
+      try {
+        const res = await fetch('/api/cards');
+        const data = await res.json();
+        setAllCards(data.cards || []);
+        
+        const sys = Array.from(new Set((data.cards || []).map((c: Card) => c.system))).filter(Boolean).sort() as string[];
+        const cats = Array.from(new Set((data.cards || []).map((c: Card) => c.category))).filter(Boolean).sort() as string[];
+        setSystems(sys);
+        setCategories(cats);
+      } catch {
+        setAllCards([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+    load();
+  }, []);
+
+  // Filter and shuffle cards
+  const refreshCards = useCallback(() => {
+    let pool = [...allCards];
+    if (filterSystem) pool = pool.filter(c => c.system === filterSystem);
+    if (filterCategory) pool = pool.filter(c => c.category === filterCategory);
+    
+    // Weighted shuffle: unseen/older cards come first
+    pool = weightedShuffle(pool);
+
+    setCards(pool);
+    setCurrentIndex(0);
+    setAnswered(false);
+    setFeedback(null);
+    setCorrect(0);
+    setTotal(0);
+  }, [allCards, filterSystem, filterCategory]);
+
+  useEffect(() => {
+    if (allCards.length > 0) refreshCards();
+  }, [allCards, filterSystem, filterCategory, refreshCards]);
+
+  // Generate MC options for current card
+  useEffect(() => {
+    if (cards.length === 0 || currentIndex >= cards.length) return;
+    const card = cards[currentIndex];
+    
+    if (answerMode === 'mc') {
+      setOptions(buildMcOptions(card, allCards));
+    }
+  }, [cards, currentIndex, answerMode, allCards]);
+
+  const currentCard = cards[currentIndex];
+
+  async function handleAnswer(answer: string) {
+    if (!currentCard || answered) return;
+    setAnswered(true);
+    setTotal(prev => prev + 1);
+    setFeedbackLoading(true);
+
+    try {
+      const res = await fetch('/api/evaluate', {
+        method: 'POST',
+        headers: { 
+          'Content-Type': 'application/json',
+          'x-user-id': localStorage.getItem('cpc_user_id') || '',
+        },
+        body: JSON.stringify({
+          cardId: currentCard.id,
+          userAnswer: answer,
+          correctAnswer: currentCard.definition,
+          term: currentCard.term,
+          definition: currentCard.definition,
+        }),
+      });
+      const data: EvaluateResponse = await res.json();
+      setFeedback(data);
+      if (data.isCorrect) setCorrect(prev => prev + 1);
+    } catch {
+      // Fallback: simple string match
+      const isCorrect = answer.toLowerCase().trim() === currentCard.definition.toLowerCase().trim();
+      setFeedback({
+        isCorrect,
+        confidence: isCorrect ? 'exact' : 'wrong',
+        feedback: isCorrect ? 'Correct!' : `The correct answer is: ${currentCard.definition}`,
+      });
+      if (isCorrect) setCorrect(prev => prev + 1);
+    } finally {
+      setFeedbackLoading(false);
+    }
+
+    // Update stats in localStorage
+    try {
+      const stats = JSON.parse(localStorage.getItem('cpc_stats') || '{}');
+      stats.studiedToday = (stats.studiedToday || 0) + 1;
+      localStorage.setItem('cpc_stats', JSON.stringify(stats));
+    } catch {}
+  }
+
+  function nextCard() {
+    setAnswered(false);
+    setFeedback(null);
+    if (currentIndex + 1 < cards.length) {
+      setCurrentIndex(prev => prev + 1);
+    } else {
+      refreshCards();
+    }
+  }
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center py-20">
+        <div className="text-center">
+          <div className="animate-spin h-10 w-10 border-4 border-primary border-t-transparent rounded-full mx-auto mb-4" />
+          <p className="text-gray-500">Loading cards...</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (cards.length === 0) {
+    return (
+      <div className="text-center py-20">
+        <p className="text-xl text-gray-500">No cards match your filters. Try different filters.</p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-6">
+      {/* Filter bar */}
+      <div className="bg-white rounded-xl card-shadow p-4">
+        <div className="flex flex-wrap items-center gap-4">
+          <select
+            value={filterSystem}
+            onChange={(e) => setFilterSystem(e.target.value)}
+            className="px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-primary focus:outline-none"
+          >
+            <option value="">All Systems</option>
+            {systems.map(s => (
+              <option key={s} value={s}>{s}</option>
+            ))}
+          </select>
+
+          <select
+            value={filterCategory}
+            onChange={(e) => setFilterCategory(e.target.value)}
+            className="px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-primary focus:outline-none"
+          >
+            <option value="">All Categories</option>
+            {categories.map(c => (
+              <option key={c} value={c}>{c.replace(/_/g, ' ')}</option>
+            ))}
+          </select>
+
+          <div className="flex bg-gray-100 rounded-lg p-1">
+            <button
+              onClick={() => setAnswerMode('mc')}
+              className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors ${
+                answerMode === 'mc' ? 'bg-white text-primary shadow-sm' : 'text-gray-500'
+              }`}
+            >
+              Multiple Choice
+            </button>
+            <button
+              onClick={() => setAnswerMode('type')}
+              className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors ${
+                answerMode === 'type' ? 'bg-white text-primary shadow-sm' : 'text-gray-500'
+              }`}
+            >
+              Type Answer
+            </button>
+          </div>
+
+          <div className="ml-auto text-sm text-gray-500">
+            {cards.length} cards
+          </div>
+        </div>
+      </div>
+
+      {/* Progress */}
+      <ProgressBar
+        current={currentIndex + 1}
+        total={cards.length}
+        correct={correct}
+        label="Session Progress"
+      />
+
+      {/* Stats */}
+      <div className="flex items-center justify-center gap-6 text-sm">
+        <span className="text-success font-semibold">✓ {correct}</span>
+        <span className="text-error font-semibold">✗ {total - correct}</span>
+        <span className="text-gray-500">
+          {total > 0 ? Math.round((correct / total) * 100) : 0}% accuracy
+        </span>
+      </div>
+
+      {/* Card */}
+      {currentCard && (
+        <FlashCard card={currentCard} showAnswer={answered}>
+          {!answered ? (
+            <AnswerInput
+              mode={answerMode}
+              options={answerMode === 'mc' ? options : undefined}
+              onSubmit={handleAnswer}
+            />
+          ) : (
+            <>
+              {(feedbackLoading || feedback) && (
+                <FeedbackPanel
+                  isCorrect={feedback?.isCorrect ?? false}
+                  confidence={feedback?.confidence}
+                  feedback={feedback?.feedback ?? ''}
+                  correctAnswer={currentCard.definition}
+                  explanation={currentCard.explanation}
+                  loading={feedbackLoading}
+                />
+              )}
+              <button
+                onClick={nextCard}
+                className="mt-6 w-full py-3 bg-primary text-white font-semibold rounded-xl hover:bg-primary-dark transition-colors"
+              >
+                Next Card →
+              </button>
+            </>
+          )}
+        </FlashCard>
+      )}
+    </div>
+  );
+}

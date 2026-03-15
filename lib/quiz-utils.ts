@@ -1,1 +1,185 @@
-{"data":"LyoqCiAqIHF1aXotdXRpbHMudHMKICogU2hhcmVkIHV0aWxpdGllcyBmb3IgcXVpei9zdHVkeSByYW5kb21pemF0aW9uIGFuZCBkaXN0cmFjdG9yIHNlbGVjdGlvbi4KICovCgppbXBvcnQgeyBDYXJkIH0gZnJvbSAnQC90eXBlcyc7CgovLyDilIDilIDilIAgRGlzdHJhY3RvciBTZWxlY3Rpb24g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgovKioKICogU2NvcmUgaG93ICJwbGF1c2libGUiIGEgZGlzdHJhY3RvciBkZWZpbml0aW9uIGlzIHJlbGF0aXZlIHRvIHRoZSBjb3JyZWN0IG9uZS4KICogSGlnaGVyID0gbW9yZSBjb25mdXNhYmxlID0gYmV0dGVyIGRpc3RyYWN0b3IuCiAqIENyaXRlcmlhOgogKiAgLSBTaW1pbGFyIGxlbmd0aCBidWNrZXQgKHNob3J0L21lZGl1bS9sb25nKQogKiAgLSBXb3JkIG92ZXJsYXAgKHNoYXJlcyBhdCBsZWFzdCBvbmUgbWVhbmluZ2Z1bCB3b3JkKQogKiAgLSBTYW1lIHN5c3RlbSBib251cwogKi8KZnVuY3Rpb24gZGlzdHJhY3RvclNjb3JlKGNvcnJlY3Q6IHN0cmluZywgY2FuZGlkYXRlOiBzdHJpbmcsIHNhbWVTeXN0ZW06IGJvb2xlYW4pOiBudW1iZXIgewogIGNvbnN0IGNvcnJlY3RXb3JkcyA9IG5ldyBTZXQoY29ycmVjdC50b0xvd2VyQ2FzZSgpLnNwbGl0KC9cVysvKS5maWx0ZXIodyA9PiB3Lmxlbmd0aCA+IDIpKTsKICBjb25zdCBjYW5kaWRhdGVXb3JkcyA9IGNhbmRpZGF0ZS50b0xvd2VyQ2FzZSgpLnNwbGl0KC9cVysvKS5maWx0ZXIodyA9PiB3Lmxlbmd0aCA+IDIpOwoKICBsZXQgc2NvcmUgPSAwOwoKICAvLyBMZW5ndGggc2ltaWxhcml0eQogIGNvbnN0IGxlbkRpZmYgPSBNYXRoLmFicyhjb3JyZWN0Lmxlbmd0aCAtIGNhbmRpZGF0ZS5sZW5ndGgpOwogIGlmIChsZW5EaWZmIDw9IDUpIHNjb3JlICs9IDM7CiAgZWxzZSBpZiAobGVuRGlmZiA8PSAxNSkgc2NvcmUgKz0gMjsKICBlbHNlIGlmIChsZW5EaWZmIDw9IDMwKSBzY29yZSArPSAxOwoKICAvLyBXb3JkIG92ZXJsYXAKICBjb25zdCBvdmVybGFwID0gY2FuZGlkYXRlV29yZHMuZmlsdGVyKHcgPT4gY29ycmVjdFdvcmRzLmhhcyh3KSkubGVuZ3RoOwogIHNjb3JlICs9IG92ZXJsYXAgKiAyOwoKICAvLyBMZW5ndGggYnVja2V0IG1hdGNoIChzaG9ydC9tZWRpdW0vbG9uZykKICBjb25zdCBidWNrZXQgPSAoczogc3RyaW5nKSA9PiBzLmxlbmd0aCA8IDggPyAnc2hvcnQnIDogcy5sZW5ndGggPCAyMCA/ICdtZWRpdW0nIDogJ2xvbmcnOwogIGlmIChidWNrZXQoY29ycmVjdCkgPT09IGJ1Y2tldChjYW5kaWRhdGUpKSBzY29yZSArPSAyOwoKICAvLyBTYW1lIHN5c3RlbSBib251cwogIGlmIChzYW1lU3lzdGVtKSBzY29yZSArPSAxOwoKICByZXR1cm4gc2NvcmU7Cn0KCi8qKgogKiBQaWNrIDMgcGxhdXNpYmxlIGRpc3RyYWN0b3JzIGZvciBhIG11bHRpcGxlLWNob2ljZSBxdWVzdGlvbi4KICogRmlsdGVycyBvdXQgYmxhbmsvdHJpdmlhbCBkZWZpbml0aW9ucy4KICogUHJlZmVycyBjb25mdXNhYmxlIGFuc3dlcnMgb3ZlciBvYnZpb3VzbHkgd3Jvbmcgb25lcy4KICovCmV4cG9ydCBmdW5jdGlvbiBwaWNrRGlzdHJhY3RvcnMoY2FyZDogQ2FyZCwgYWxsQ2FyZHM6IENhcmRbXSwgY291bnQgPSAzKTogc3RyaW5nW10gewogIGNvbnN0IGNvcnJlY3REZWYgPSBjYXJkLmRlZmluaXRpb24udHJpbSgpOwoKICAvLyBGaWx0ZXIgdmFsaWQgY2FuZGlkYXRlcyAobm9uLWVtcHR5LCBub24tcHVuY3R1YXRpb24tb25seSwgbm90IHRoZSBjb3JyZWN0IGFuc3dlcikKICBjb25zdCBjYW5kaWRhdGVzID0gYWxsQ2FyZHMuZmlsdGVyKGMgPT4KICAgIGMuaWQgIT09IGNhcmQuaWQgJiYKICAgIGMuZGVmaW5pdGlvbiAmJgogICAgYy5kZWZpbml0aW9uLnRyaW0oKS5sZW5ndGggPiAxICYmCiAgICBjLmRlZmluaXRpb24udHJpbSgpICE9PSBjb3JyZWN0RGVmICYmCiAgICAvW2EtekEtWl0vLnRlc3QoYy5kZWZpbml0aW9uKQogICk7CgogIC8vIFNjb3JlIGVhY2ggY2FuZGlkYXRlCiAgY29uc3Qgc2NvcmVkID0gY2FuZGlkYXRlcy5tYXAoYyA9PiAoewogICAgZGVmaW5pdGlvbjogYy5kZWZpbml0aW9uLnRyaW0oKSwKICAgIHNjb3JlOiBkaXN0cmFjdG9yU2NvcmUoY29ycmVjdERlZiwgYy5kZWZpbml0aW9uLnRyaW0oKSwgYy5zeXN0ZW0gPT09IGNhcmQuc3lzdGVtKSwKICB9KSk7CgogIC8vIERlZHVwbGljYXRlIGJ5IGRlZmluaXRpb24KICBjb25zdCBzZWVuID0gbmV3IFNldDxzdHJpbmc+KFtjb3JyZWN0RGVmXSk7CiAgY29uc3QgdW5pcXVlID0gc2NvcmVkLmZpbHRlcihzID0+IHsKICAgIGlmIChzZWVuLmhhcyhzLmRlZmluaXRpb24pKSByZXR1cm4gZmFsc2U7CiAgICBzZWVuLmFkZChzLmRlZmluaXRpb24pOwogICAgcmV0dXJuIHRydWU7CiAgfSk7CgogIC8vIFNvcnQgYnkgc2NvcmUgZGVzY2VuZGluZywgdGhlbiBhZGQgcmFuZG9tbmVzcyB3aXRoaW4gc2NvcmUgdGllcnMKICAvLyBHcm91cCBpbnRvIHRpZXJzIG9mIDMtcG9pbnQgYmFuZHMsIHNodWZmbGUgd2l0aGluIGVhY2ggdGllcgogIGNvbnN0IHRpZXJzID0gbmV3IE1hcDxudW1iZXIsIHR5cGVvZiB1bmlxdWU+KCk7CiAgZm9yIChjb25zdCBzIG9mIHVuaXF1ZSkgewogICAgY29uc3QgdGllciA9IE1hdGguZmxvb3Iocy5zY29yZSAvIDMpOwogICAgaWYgKCF0aWVycy5oYXModGllcikpIHRpZXJzLnNldCh0aWVyLCBbXSk7CiAgICB0aWVycy5nZXQodGllcikhLnB1c2gocyk7CiAgfQoKICAvLyBGbGF0dGVuIHRpZXJzIChoaWdoZXN0IGZpcnN0KSwgc2h1ZmZsZSB3aXRoaW4gZWFjaAogIGNvbnN0IHNvcnRlZDogdHlwZW9mIHVuaXF1ZSA9IFtdOwogIGNvbnN0IHRpZXJLZXlzID0gQXJyYXkuZnJvbSh0aWVycy5rZXlzKCkpLnNvcnQoKGEsIGIpID0+IGIgLSBhKTsKICBmb3IgKGNvbnN0IGtleSBvZiB0aWVyS2V5cykgewogICAgY29uc3QgdGllciA9IHRpZXJzLmdldChrZXkpITsKICAgIC8vIEZpc2hlci1ZYXRlcyB3aXRoaW4gdGllcgogICAgZm9yIChsZXQgaSA9IHRpZXIubGVuZ3RoIC0gMTsgaSA+IDA7IGktLSkgewogICAgICBjb25zdCBqID0gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogKGkgKyAxKSk7CiAgICAgIFt0aWVyW2ldLCB0aWVyW2pdXSA9IFt0aWVyW2pdLCB0aWVyW2ldXTsKICAgIH0KICAgIHNvcnRlZC5wdXNoKC4uLnRpZXIpOwogIH0KCiAgcmV0dXJuIHNvcnRlZC5zbGljZSgwLCBjb3VudCkubWFwKHMgPT4gcy5kZWZpbml0aW9uKTsKfQoKLyoqCiAqIEJ1aWxkIHNodWZmbGVkIE1DIG9wdGlvbnMgKGNvcnJlY3QgKyAzIGRpc3RyYWN0b3JzKS4KICovCmV4cG9ydCBmdW5jdGlvbiBidWlsZE1jT3B0aW9ucyhjYXJkOiBDYXJkLCBhbGxDYXJkczogQ2FyZFtdKTogc3RyaW5nW10gewogIGNvbnN0IGRpc3RyYWN0b3JzID0gcGlja0Rpc3RyYWN0b3JzKGNhcmQsIGFsbENhcmRzKTsKICBjb25zdCBvcHRpb25zID0gW2NhcmQuZGVmaW5pdGlvbi50cmltKCksIC4uLmRpc3RyYWN0b3JzXTsKICAvLyBGaXNoZXItWWF0ZXMgc2h1ZmZsZQogIGZvciAobGV0IGkgPSBvcHRpb25zLmxlbmd0aCAtIDE7IGkgPiAwOyBpLS0pIHsKICAgIGNvbnN0IGogPSBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAoaSArIDEpKTsKICAgIFtvcHRpb25zW2ldLCBvcHRpb25zW2pdXSA9IFtvcHRpb25zW2pdLCBvcHRpb25zW2ldXTsKICB9CiAgcmV0dXJuIG9wdGlvbnM7Cn0KCi8vIOKUgOKUgOKUgCBTZWVuLUNhcmQgVHJhY2tpbmcgKHJlcGVhdCBhdm9pZGFuY2UpIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKY29uc3QgU0VFTl9LRVkgPSAnY3BjX3NlZW5fY2FyZHMnOwpjb25zdCBTRUVOX1RUTF9NUyA9IDcgKiAyNCAqIDYwICogNjAgKiAxMDAwOyAvLyA3IGRheXMKCmludGVyZmFjZSBTZWVuRW50cnkgewogIHRzOiBudW1iZXI7IC8vIHVuaXggbXMKICBjb3VudDogbnVtYmVyOwp9CgpmdW5jdGlvbiBsb2FkU2VlbigpOiBSZWNvcmQ8c3RyaW5nLCBTZWVuRW50cnk+IHsKICB0cnkgewogICAgcmV0dXJuIEpTT04ucGFyc2UobG9jYWxTdG9yYWdlLmdldEl0ZW0oU0VFTl9LRVkpIHx8ICd7fScpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIHt9OwogIH0KfQoKZnVuY3Rpb24gc2F2ZVNlZW4oc2VlbjogUmVjb3JkPHN0cmluZywgU2VlbkVudHJ5PikgewogIHRyeSB7CiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShTRUVOX0tFWSwgSlNPTi5zdHJpbmdpZnkoc2VlbikpOwogIH0gY2F0Y2gge30KfQoKLyoqIFBydW5lIGVudHJpZXMgb2xkZXIgdGhhbiBUVEwgKi8KZnVuY3Rpb24gcHJ1bmVTZWVuKHNlZW46IFJlY29yZDxzdHJpbmcsIFNlZW5FbnRyeT4pOiBSZWNvcmQ8c3RyaW5nLCBTZWVuRW50cnk+IHsKICBjb25zdCBjdXRvZmYgPSBEYXRlLm5vdygpIC0gU0VFTl9UVExfTVM7CiAgY29uc3QgcHJ1bmVkOiBSZWNvcmQ8c3RyaW5nLCBTZWVuRW50cnk+ID0ge307CiAgZm9yIChjb25zdCBbaWQsIGVudHJ5XSBvZiBPYmplY3QuZW50cmllcyhzZWVuKSkgewogICAgaWYgKGVudHJ5LnRzID49IGN1dG9mZikgcHJ1bmVkW2lkXSA9IGVudHJ5OwogIH0KICByZXR1cm4gcHJ1bmVkOwp9CgovKiogUmVjb3JkIGNhcmRzIGFzIHNlZW4gYWZ0ZXIgYSBxdWl6IHNlc3Npb24gKi8KZXhwb3J0IGZ1bmN0aW9uIG1hcmtDYXJkc1NlZW4oY2FyZElkczogc3RyaW5nW10pIHsKICBjb25zdCBzZWVuID0gcHJ1bmVTZWVuKGxvYWRTZWVuKCkpOwogIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgZm9yIChjb25zdCBpZCBvZiBjYXJkSWRzKSB7CiAgICBzZWVuW2lkXSA9IHsgdHM6IG5vdywgY291bnQ6IChzZWVuW2lkXT8uY291bnQgPz8gMCkgKyAxIH07CiAgfQogIHNhdmVTZWVuKHNlZW4pOwp9CgovKioKICogV2VpZ2h0ZWQgc2h1ZmZsZTogdW5zZWVuIGNhcmRzIGNvbWUgZmlyc3QsIHJlY2VudGx5LXNlZW4gY2FyZHMgcHVzaGVkIHRvIGJhY2suCiAqIENhcmRzIHNlZW4gbW9yZSB0aW1lcyBvciBtb3JlIHJlY2VudGx5IGdldCBhIGhpZ2hlciBwZW5hbHR5IHdlaWdodC4KICovCmV4cG9ydCBmdW5jdGlvbiB3ZWlnaHRlZFNodWZmbGUoY2FyZHM6IENhcmRbXSk6IENhcmRbXSB7CiAgY29uc3Qgc2VlbiA9IHBydW5lU2Vlbihsb2FkU2VlbigpKTsKICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwoKICBjb25zdCB3ZWlnaHRlZCA9IGNhcmRzLm1hcChjYXJkID0+IHsKICAgIGNvbnN0IGVudHJ5ID0gc2VlbltjYXJkLmlkXTsKICAgIGxldCBwZW5hbHR5ID0gMDsKICAgIGlmIChlbnRyeSkgewogICAgICAvLyBSZWNlbmN5IHBlbmFsdHk6IG1heCAxMDAsIGRlY2F5cyBvdmVyIDcgZGF5cwogICAgICBjb25zdCBhZ2VEYXlzID0gKG5vdyAtIGVudHJ5LnRzKSAvICgyNCAqIDYwICogNjAgKiAxMDAwKTsKICAgICAgY29uc3QgcmVjZW5jeVBlbmFsdHkgPSBNYXRoLm1heCgwLCAxMDAgLSBhZ2VEYXlzICogMTQpOyAvLyBmdWxseSBnb25lIGFmdGVyIDcgZGF5cwogICAgICAvLyBDb3VudCBwZW5hbHR5OiArMjAgcGVyIGFkZGl0aW9uYWwgdGltZSBzZWVuIChjYXBwZWQgYXQgNjApCiAgICAgIGNvbnN0IGNvdW50UGVuYWx0eSA9IE1hdGgubWluKDYwLCAoZW50cnkuY291bnQgLSAxKSAqIDIwKTsKICAgICAgcGVuYWx0eSA9IHJlY2VuY3lQZW5hbHR5ICsgY291bnRQZW5hbHR5OwogICAgfQogICAgLy8gQWRkIHJhbmRvbSBqaXR0ZXIgc28gY2FyZHMgd2l0aCBzYW1lIHBlbmFsdHkgc3RpbGwgc2h1ZmZsZQogICAgY29uc3Qgaml0dGVyID0gTWF0aC5yYW5kb20oKSAqIDMwOwogICAgcmV0dXJuIHsgY2FyZCwgc29ydEtleTogcGVuYWx0eSArIGppdHRlciB9OwogIH0pOwoKICAvLyBTb3J0OiBsb3cgc29ydEtleSA9IGZyb250ICh1bnNlZW4vb2xkKSwgaGlnaCBzb3J0S2V5ID0gYmFjayAocmVjZW50bHkgc2VlbikKICB3ZWlnaHRlZC5zb3J0KChhLCBiKSA9PiBhLnNvcnRLZXkgLSBiLnNvcnRLZXkpOwogIHJldHVybiB3ZWlnaHRlZC5tYXAodyA9PiB3LmNhcmQpOwp9Cg=="}
+/**
+ * quiz-utils.ts
+ * Shared utilities for quiz/study randomization and distractor selection.
+ */
+
+import { Card } from '@/types';
+
+// ─── Distractor Selection ────────────────────────────────────────────────────
+
+/**
+ * Score how "plausible" a distractor definition is relative to the correct one.
+ * Higher = more confusable = better distractor.
+ * Criteria:
+ *  - Similar length bucket (short/medium/long)
+ *  - Word overlap (shares at least one meaningful word)
+ *  - Same system bonus
+ */
+function distractorScore(correct: string, candidate: string, sameSystem: boolean): number {
+  const correctWords = new Set(correct.toLowerCase().split(/\W+/).filter(w => w.length > 2));
+  const candidateWords = candidate.toLowerCase().split(/\W+/).filter(w => w.length > 2);
+
+  let score = 0;
+
+  // Length similarity
+  const lenDiff = Math.abs(correct.length - candidate.length);
+  if (lenDiff <= 5) score += 3;
+  else if (lenDiff <= 15) score += 2;
+  else if (lenDiff <= 30) score += 1;
+
+  // Word overlap
+  const overlap = candidateWords.filter(w => correctWords.has(w)).length;
+  score += overlap * 2;
+
+  // Length bucket match (short/medium/long)
+  const bucket = (s: string) => s.length < 8 ? 'short' : s.length < 20 ? 'medium' : 'long';
+  if (bucket(correct) === bucket(candidate)) score += 2;
+
+  // Same system bonus
+  if (sameSystem) score += 1;
+
+  return score;
+}
+
+/**
+ * Pick 3 plausible distractors for a multiple-choice question.
+ * Filters out blank/trivial definitions.
+ * Prefers confusable answers over obviously wrong ones.
+ */
+export function pickDistractors(card: Card, allCards: Card[], count = 3): string[] {
+  const correctDef = card.definition.trim();
+
+  // Filter valid candidates (non-empty, non-punctuation-only, not the correct answer)
+  const candidates = allCards.filter(c =>
+    c.id !== card.id &&
+    c.definition &&
+    c.definition.trim().length > 1 &&
+    c.definition.trim() !== correctDef &&
+    /[a-zA-Z]/.test(c.definition)
+  );
+
+  // Score each candidate
+  const scored = candidates.map(c => ({
+    definition: c.definition.trim(),
+    score: distractorScore(correctDef, c.definition.trim(), c.system === card.system),
+  }));
+
+  // Deduplicate by definition
+  const seen = new Set<string>([correctDef]);
+  const unique = scored.filter(s => {
+    if (seen.has(s.definition)) return false;
+    seen.add(s.definition);
+    return true;
+  });
+
+  // Sort by score descending, then add randomness within score tiers
+  // Group into tiers of 3-point bands, shuffle within each tier
+  const tiers = new Map<number, typeof unique>();
+  for (const s of unique) {
+    const tier = Math.floor(s.score / 3);
+    if (!tiers.has(tier)) tiers.set(tier, []);
+    tiers.get(tier)!.push(s);
+  }
+
+  // Flatten tiers (highest first), shuffle within each
+  const sorted: typeof unique = [];
+  const tierKeys = Array.from(tiers.keys()).sort((a, b) => b - a);
+  for (const key of tierKeys) {
+    const tier = tiers.get(key)!;
+    // Fisher-Yates within tier
+    for (let i = tier.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [tier[i], tier[j]] = [tier[j], tier[i]];
+    }
+    sorted.push(...tier);
+  }
+
+  return sorted.slice(0, count).map(s => s.definition);
+}
+
+/**
+ * Build shuffled MC options (correct + 3 distractors).
+ */
+export function buildMcOptions(card: Card, allCards: Card[]): string[] {
+  const distractors = pickDistractors(card, allCards);
+  const options = [card.definition.trim(), ...distractors];
+  // Fisher-Yates shuffle
+  for (let i = options.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [options[i], options[j]] = [options[j], options[i]];
+  }
+  return options;
+}
+
+// ─── Seen-Card Tracking (repeat avoidance) ──────────────────────────────────
+
+const SEEN_KEY = 'cpc_seen_cards';
+const SEEN_TTL_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
+
+interface SeenEntry {
+  ts: number; // unix ms
+  count: number;
+}
+
+function loadSeen(): Record<string, SeenEntry> {
+  try {
+    return JSON.parse(localStorage.getItem(SEEN_KEY) || '{}');
+  } catch {
+    return {};
+  }
+}
+
+function saveSeen(seen: Record<string, SeenEntry>) {
+  try {
+    localStorage.setItem(SEEN_KEY, JSON.stringify(seen));
+  } catch {}
+}
+
+/** Prune entries older than TTL */
+function pruneSeen(seen: Record<string, SeenEntry>): Record<string, SeenEntry> {
+  const cutoff = Date.now() - SEEN_TTL_MS;
+  const pruned: Record<string, SeenEntry> = {};
+  for (const [id, entry] of Object.entries(seen)) {
+    if (entry.ts >= cutoff) pruned[id] = entry;
+  }
+  return pruned;
+}
+
+/** Record cards as seen after a quiz session */
+export function markCardsSeen(cardIds: string[]) {
+  const seen = pruneSeen(loadSeen());
+  const now = Date.now();
+  for (const id of cardIds) {
+    seen[id] = { ts: now, count: (seen[id]?.count ?? 0) + 1 };
+  }
+  saveSeen(seen);
+}
+
+/**
+ * Weighted shuffle: unseen cards come first, recently-seen cards pushed to back.
+ * Cards seen more times or more recently get a higher penalty weight.
+ */
+export function weightedShuffle(cards: Card[]): Card[] {
+  const seen = pruneSeen(loadSeen());
+  const now = Date.now();
+
+  const weighted = cards.map(card => {
+    const entry = seen[card.id];
+    let penalty = 0;
+    if (entry) {
+      // Recency penalty: max 100, decays over 7 days
+      const ageDays = (now - entry.ts) / (24 * 60 * 60 * 1000);
+      const recencyPenalty = Math.max(0, 100 - ageDays * 14); // fully gone after 7 days
+      // Count penalty: +20 per additional time seen (capped at 60)
+      const countPenalty = Math.min(60, (entry.count - 1) * 20);
+      penalty = recencyPenalty + countPenalty;
+    }
+    // Add random jitter so cards with same penalty still shuffle
+    const jitter = Math.random() * 30;
+    return { card, sortKey: penalty + jitter };
+  });
+
+  // Sort: low sortKey = front (unseen/old), high sortKey = back (recently seen)
+  weighted.sort((a, b) => a.sortKey - b.sortKey);
+  return weighted.map(w => w.card);
+}

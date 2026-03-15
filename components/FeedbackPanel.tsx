@@ -1,1 +1,71 @@
-{"data":"J3VzZSBjbGllbnQnOwoKaW50ZXJmYWNlIEZlZWRiYWNrUGFuZWxQcm9wcyB7CiAgaXNDb3JyZWN0OiBib29sZWFuOwogIGNvbmZpZGVuY2U/OiBzdHJpbmc7CiAgZmVlZGJhY2s6IHN0cmluZzsKICBjb3JyZWN0QW5zd2VyOiBzdHJpbmc7CiAgZXhwbGFuYXRpb24/OiBzdHJpbmc7CiAgbG9hZGluZz86IGJvb2xlYW47Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZlZWRiYWNrUGFuZWwoewogIGlzQ29ycmVjdCwKICBjb25maWRlbmNlLAogIGZlZWRiYWNrLAogIGNvcnJlY3RBbnN3ZXIsCiAgZXhwbGFuYXRpb24sCiAgbG9hZGluZywKfTogRmVlZGJhY2tQYW5lbFByb3BzKSB7CiAgaWYgKGxvYWRpbmcpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC02IHAtNSBiZy1ncmF5LTUwIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1ncmF5LTIwMCBhbmltYXRlLXB1bHNlIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1ncmF5LTQwMCI+CiAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0iYW5pbWF0ZS1zcGluIGgtNSB3LTUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgICAgICAgICAgIDxjaXJjbGUgY2xhc3NOYW1lPSJvcGFjaXR5LTI1IiBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iNCIgZmlsbD0ibm9uZSIgLz4KICAgICAgICAgICAgPHBhdGggY2xhc3NOYW1lPSJvcGFjaXR5LTc1IiBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00IDEyYTggOCAwIDAxOC04VjBDNS4zNzMgMCAwIDUuMzczIDAgMTJoNHoiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIEV2YWx1YXRpbmcgeW91ciBhbnN3ZXIuLi4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgY2xhc3NOYW1lPXtgbXQtNiBwLTUgcm91bmRlZC14bCBib3JkZXItMiAkewogICAgICAgIGlzQ29ycmVjdAogICAgICAgICAgPyAnYmctZ3JlZW4tNTAgYm9yZGVyLXN1Y2Nlc3MvMzAnCiAgICAgICAgICA6ICdiZy1yZWQtNTAgYm9yZGVyLWVycm9yLzMwJwogICAgICB9YH0KICAgID4KICAgICAgey8qIFJlc3VsdCBoZWFkZXIgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0zIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtMnhsIj57aXNDb3JyZWN0ID8gJ+KchScgOiAn4p2MJ308L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC1sZyBmb250LWJvbGQgJHtpc0NvcnJlY3QgPyAndGV4dC1zdWNjZXNzJyA6ICd0ZXh0LWVycm9yJ31gfT4KICAgICAgICAgIHtpc0NvcnJlY3QgPyAnQ29ycmVjdCEnIDogJ0luY29ycmVjdCd9CiAgICAgICAgICB7Y29uZmlkZW5jZSA9PT0gJ2Nsb3NlJyAmJiAnIChDbG9zZSBlbm91Z2ghKSd9CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBDb3JyZWN0IGFuc3dlciAqL30KICAgICAgeyFpc0NvcnJlY3QgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0zIHAtMyBiZy13aGl0ZS81MCByb3VuZGVkLWxnIj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIHRleHQtZ3JheS01MDAiPkNvcnJlY3QgYW5zd2VyOiA8L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtdGV4dCBmb250LW1lZGl1bSI+e2NvcnJlY3RBbnN3ZXJ9PC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgey8qIEFJIEZlZWRiYWNrICovfQogICAgICA8cCBjbGFzc05hbWU9InRleHQtdGV4dC84MCBsZWFkaW5nLXJlbGF4ZWQiPntmZWVkYmFja308L3A+CgogICAgICB7LyogRXhwbGFuYXRpb24gKi99CiAgICAgIHtleHBsYW5hdGlvbiAmJiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMgcHQtMyBib3JkZXItdCBib3JkZXItZ3JheS0yMDAiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS01MDAgZm9udC1zZW1pYm9sZCBtYi0xIj7wn5OaIEV4cGxhbmF0aW9uOjwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXRleHQvNzAiPntleHBsYW5hdGlvbn08L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+'use client';
+
+interface FeedbackPanelProps {
+  isCorrect: boolean;
+  confidence?: string;
+  feedback: string;
+  correctAnswer: string;
+  explanation?: string;
+  loading?: boolean;
+}
+
+export default function FeedbackPanel({
+  isCorrect,
+  confidence,
+  feedback,
+  correctAnswer,
+  explanation,
+  loading,
+}: FeedbackPanelProps) {
+  if (loading) {
+    return (
+      <div className="mt-6 p-5 bg-gray-50 rounded-xl border border-gray-200 animate-pulse">
+        <div className="flex items-center gap-2 text-gray-400">
+          <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
+            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+          </svg>
+          Evaluating your answer...
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div
+      className={`mt-6 p-5 rounded-xl border-2 ${
+        isCorrect
+          ? 'bg-green-50 border-success/30'
+          : 'bg-red-50 border-error/30'
+      }`}
+    >
+      {/* Result header */}
+      <div className="flex items-center gap-2 mb-3">
+        <span className="text-2xl">{isCorrect ? '✅' : '❌'}</span>
+        <span className={`text-lg font-bold ${isCorrect ? 'text-success' : 'text-error'}`}>
+          {isCorrect ? 'Correct!' : 'Incorrect'}
+          {confidence === 'close' && ' (Close enough!)'}
+        </span>
+      </div>
+
+      {/* Correct answer */}
+      {!isCorrect && (
+        <div className="mb-3 p-3 bg-white/50 rounded-lg">
+          <span className="text-sm font-semibold text-gray-500">Correct answer: </span>
+          <span className="text-text font-medium">{correctAnswer}</span>
+        </div>
+      )}
+
+      {/* AI Feedback */}
+      <p className="text-text/80 leading-relaxed">{feedback}</p>
+
+      {/* Explanation */}
+      {explanation && (
+        <div className="mt-3 pt-3 border-t border-gray-200">
+          <p className="text-sm text-gray-500 font-semibold mb-1">📚 Explanation:</p>
+          <p className="text-sm text-text/70">{explanation}</p>
+        </div>
+      )}
+    </div>
+  );
+}

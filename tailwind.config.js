@@ -1,1 +1,20 @@
-{"data":"LyoqIEB0eXBlIHtpbXBvcnQoJ3RhaWx3aW5kY3NzJykuQ29uZmlnfSAqLwptb2R1bGUuZXhwb3J0cyA9IHsKICBjb250ZW50OiBbCiAgICAnLi9hcHAvKiovKi57anMsdHMsanN4LHRzeCxtZHh9JywKICAgICcuL2NvbXBvbmVudHMvKiovKi57anMsdHMsanN4LHRzeCxtZHh9JywKICBdLAogIHRoZW1lOiB7CiAgICBleHRlbmQ6IHsKICAgICAgY29sb3JzOiB7CiAgICAgICAgcHJpbWFyeTogJyMwMDc3QjYnLAogICAgICAgICdwcmltYXJ5LWRhcmsnOiAnIzAwNWY4ZicsCiAgICAgICAgc3VjY2VzczogJyMyRDlFNEEnLAogICAgICAgIGVycm9yOiAnI0Q2MjgyOCcsCiAgICAgICAgYmc6ICcjRjhGOUZBJywKICAgICAgICB0ZXh0OiAnIzFBMUEyRScsCiAgICAgIH0sCiAgICB9LAogIH0sCiAgcGx1Z2luczogW10sCn0K"}
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
+  theme: {
+    extend: {
+      colors: {
+        primary: '#0077B6',
+        'primary-dark': '#005f8f',
+        success: '#2D9E4A',
+        error: '#D62828',
+        bg: '#F8F9FA',
+        text: '#1A1A2E',
+      },
+    },
+  },
+  plugins: [],
+}

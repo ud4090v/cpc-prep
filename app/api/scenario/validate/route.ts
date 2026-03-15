@@ -1,1 +1,99 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gJ25leHQvc2VydmVyJzsKaW1wb3J0IE9wZW5BSSBmcm9tICdvcGVuYWknOwppbXBvcnQgeyBHZW5lcmF0ZWRTY2VuYXJpbyB9IGZyb20gJ0AvdHlwZXMnOwoKbGV0IG9wZW5haTogT3BlbkFJIHwgbnVsbCA9IG51bGw7CmZ1bmN0aW9uIGdldE9wZW5BSSgpIHsKICBpZiAoIW9wZW5haSkgb3BlbmFpID0gbmV3IE9wZW5BSSh7IGFwaUtleTogcHJvY2Vzcy5lbnYuT1BFTkFJX0FQSV9LRVkgfSk7CiAgcmV0dXJuIG9wZW5haTsKfQoKY29uc3Qgbm9ybUNvZGUgPSAoY29kZXM6IHN0cmluZ1tdKSA9PgogIGNvZGVzCiAgICAubWFwKChjKSA9PiBjLnRyaW0oKS50b1VwcGVyQ2FzZSgpLnJlcGxhY2UoL1xzL2csICcnKSkKICAgIC5zb3J0KCkKICAgIC5qb2luKCcsJyk7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXF1ZXN0OiBOZXh0UmVxdWVzdCkgewogIHRyeSB7CiAgICBjb25zdCB7IHNjZW5hcmlvLCB1c2VyQ3B0LCB1c2VySWNkMTAgfSA9IChhd2FpdCByZXF1ZXN0Lmpzb24oKSkgYXMgewogICAgICBzY2VuYXJpbzogR2VuZXJhdGVkU2NlbmFyaW87CiAgICAgIHVzZXJDcHQ6IHN0cmluZ1tdOwogICAgICB1c2VySWNkMTA6IHN0cmluZ1tdOwogICAgfTsKCiAgICBjb25zdCBjcHRFeGFjdCA9IG5vcm1Db2RlKHVzZXJDcHQpID09PSBub3JtQ29kZShzY2VuYXJpby5jb3JyZWN0Q3B0KTsKICAgIGNvbnN0IGljZDEwRXhhY3QgPSBub3JtQ29kZSh1c2VySWNkMTApID09PSBub3JtQ29kZShzY2VuYXJpby5jb3JyZWN0SWNkMTApOwoKICAgIC8vIFNob3J0LWNpcmN1aXQ6IGJvdGggZXhhY3QgbWF0Y2gsIG5vIEFJIG5lZWRlZAogICAgaWYgKGNwdEV4YWN0ICYmIGljZDEwRXhhY3QpIHsKICAgICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsKICAgICAgICBjcHRDb3JyZWN0OiB0cnVlLAogICAgICAgIGljZDEwQ29ycmVjdDogdHJ1ZSwKICAgICAgICBjcHRGZWVkYmFjazogYOKchSBDb3JyZWN0ISAke3NjZW5hcmlvLmNwdFJhdGlvbmFsZX1gLAogICAgICAgIGljZDEwRmVlZGJhY2s6IGDinIUgQ29ycmVjdCEgJHtzY2VuYXJpby5pY2QxMFJhdGlvbmFsZX1gLAogICAgICB9KTsKICAgIH0KCiAgICBjb25zdCBwcm9tcHQgPSBgWW91IGFyZSBhIENQQyBleGFtIGdyYWRlci4gRXZhbHVhdGUgYSBzdHVkZW50J3MgbWVkaWNhbCBjb2RpbmcgYXR0ZW1wdCBmb3IgdGhlIGZvbGxvd2luZyBzY2VuYXJpby4KCkNMSU5JQ0FMIFNDRU5BUklPOgoke3NjZW5hcmlvLmNsaW5pY2FsTm90ZX0KCkNQVCBDT0RJTkc6CkNvcnJlY3QgQ1BUIGNvZGUocyk6ICR7c2NlbmFyaW8uY29ycmVjdENwdC5qb2luKCcsICcpfQpTdHVkZW50J3MgQ1BUIGNvZGUocyk6ICR7dXNlckNwdC5qb2luKCcsICcpIHx8ICcobm9uZSBlbnRlcmVkKSd9CldoeSB0aGUgY29ycmVjdCBDUFQgaXMgcmlnaHQ6ICR7c2NlbmFyaW8uY3B0UmF0aW9uYWxlfQoKSUNELTEwIENPRElORzoKQ29ycmVjdCBJQ0QtMTAgY29kZShzKTogJHtzY2VuYXJpby5jb3JyZWN0SWNkMTAuam9pbignLCAnKX0KU3R1ZGVudCdzIElDRC0xMCBjb2RlKHMpOiAke3VzZXJJY2QxMC5qb2luKCcsICcpIHx8ICcobm9uZSBlbnRlcmVkKSd9CldoeSB0aGUgY29ycmVjdCBJQ0QtMTAgaXMgcmlnaHQ6ICR7c2NlbmFyaW8uaWNkMTBSYXRpb25hbGV9CgpSZXR1cm4gSlNPTjoKewogICJjcHRDb3JyZWN0IjogYm9vbGVhbiwKICAiaWNkMTBDb3JyZWN0IjogYm9vbGVhbiwKICAiY3B0RmVlZGJhY2siOiAiMS0yIHNlbnRlbmNlcy4gSWYgY29ycmVjdDogY29uZmlybSB3aHkgaXQncyByaWdodCBhbmQgcmVpbmZvcmNlIHRoZSBjb25jZXB0LiBJZiB3cm9uZzogZXhwbGFpbiBleGFjdGx5IHdoYXQgbWlzdGFrZSB3YXMgbWFkZSBhbmQgd2hhdCB0aGUgY29ycmVjdCBjb2RlIG1lYW5zLiIsCiAgImljZDEwRmVlZGJhY2siOiAiMS0yIHNlbnRlbmNlcy4gU2FtZSBmb3JtYXQgYXMgY3B0RmVlZGJhY2suIgp9CgpHUkFESU5HIFJVTEVTOgotIENQVDogTWFyayBjb3JyZWN0IGlmIHN0dWRlbnQgZ290IHRoZSByaWdodCBiYXNlIHByb2NlZHVyZSBjb2RlLCBldmVuIGlmIG1vZGlmaWVyIGlzIHdyb25nIG9yIG1pc3NpbmcuIE5vdGUgbW9kaWZpZXIgaW4gZmVlZGJhY2suCi0gSUNELTEwOiBNYXJrIGNvcnJlY3QgaWYgc3R1ZGVudCBnb3QgdGhlIHJpZ2h0IDMtY2hhcmFjdGVyIGNhdGVnb3J5IGJ1dCB3cm9uZyBzcGVjaWZpY2l0eSAobm90ZSB3aGF0IHNwZWNpZmljaXR5IHdhcyBuZWVkZWQpLiBNYXJrIHdyb25nIGlmIHdyb25nIGNhdGVnb3J5IGVudGlyZWx5LgotIEJlIGVkdWNhdGlvbmFsIGluIGZlZWRiYWNrLCBub3QganVzdCAid3JvbmciLiBFeHBsYWluIHRoZSBjb25jZXB0LgotIFRvbmU6IGVuY291cmFnaW5nIGJ1dCBwcmVjaXNlIOKAlCB0aGlzIGlzIGEgbGVhcm5pbmcgdG9vbC5gOwoKICAgIGNvbnN0IGNvbXBsZXRpb24gPSBhd2FpdCBnZXRPcGVuQUkoKS5jaGF0LmNvbXBsZXRpb25zLmNyZWF0ZSh7CiAgICAgIG1vZGVsOiAnZ3B0LTRvLW1pbmknLAogICAgICBtZXNzYWdlczogW3sgcm9sZTogJ3VzZXInLCBjb250ZW50OiBwcm9tcHQgfV0sCiAgICAgIHRlbXBlcmF0dXJlOiAwLjIsCiAgICAgIHJlc3BvbnNlX2Zvcm1hdDogeyB0eXBlOiAnanNvbl9vYmplY3QnIH0sCiAgICB9KTsKCiAgICBjb25zdCByZXN1bHQgPSBKU09OLnBhcnNlKGNvbXBsZXRpb24uY2hvaWNlc1swXS5tZXNzYWdlLmNvbnRlbnQgfHwgJ3t9JykgYXMgewogICAgICBjcHRDb3JyZWN0PzogYm9vbGVhbjsKICAgICAgaWNkMTBDb3JyZWN0PzogYm9vbGVhbjsKICAgICAgY3B0RmVlZGJhY2s/OiBzdHJpbmc7CiAgICAgIGljZDEwRmVlZGJhY2s/OiBzdHJpbmc7CiAgICB9OwoKICAgIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7CiAgICAgIGNwdENvcnJlY3Q6IHJlc3VsdC5jcHRDb3JyZWN0ID8/IGNwdEV4YWN0LAogICAgICBpY2QxMENvcnJlY3Q6IHJlc3VsdC5pY2QxMENvcnJlY3QgPz8gaWNkMTBFeGFjdCwKICAgICAgY3B0RmVlZGJhY2s6CiAgICAgICAgcmVzdWx0LmNwdEZlZWRiYWNrIHx8CiAgICAgICAgKGNwdEV4YWN0CiAgICAgICAgICA/IGDinIUgJHtzY2VuYXJpby5jcHRSYXRpb25hbGV9YAogICAgICAgICAgOiBg4p2MIENvcnJlY3Q6ICR7c2NlbmFyaW8uY29ycmVjdENwdC5qb2luKCcsICcpfS4gJHtzY2VuYXJpby5jcHRSYXRpb25hbGV9YCksCiAgICAgIGljZDEwRmVlZGJhY2s6CiAgICAgICAgcmVzdWx0LmljZDEwRmVlZGJhY2sgfHwKICAgICAgICAoaWNkMTBFeGFjdAogICAgICAgICAgPyBg4pyFICR7c2NlbmFyaW8uaWNkMTBSYXRpb25hbGV9YAogICAgICAgICAgOiBg4p2MIENvcnJlY3Q6ICR7c2NlbmFyaW8uY29ycmVjdEljZDEwLmpvaW4oJywgJyl9LiAke3NjZW5hcmlvLmljZDEwUmF0aW9uYWxlfWApLAogICAgfSk7CiAgfSBjYXRjaCAoZXJyKSB7CiAgICBjb25zb2xlLmVycm9yKCdTY2VuYXJpbyB2YWxpZGF0ZSBlcnJvcjonLCBlcnIpOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICdWYWxpZGF0aW9uIGZhaWxlZCcgfSwgeyBzdGF0dXM6IDUwMCB9KTsKICB9Cn0K"}
+import { NextRequest, NextResponse } from 'next/server';
+import OpenAI from 'openai';
+import { GeneratedScenario } from '@/types';
+
+let openai: OpenAI | null = null;
+function getOpenAI() {
+  if (!openai) openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+  return openai;
+}
+
+const normCode = (codes: string[]) =>
+  codes
+    .map((c) => c.trim().toUpperCase().replace(/\s/g, ''))
+    .sort()
+    .join(',');
+
+export async function POST(request: NextRequest) {
+  try {
+    const { scenario, userCpt, userIcd10 } = (await request.json()) as {
+      scenario: GeneratedScenario;
+      userCpt: string[];
+      userIcd10: string[];
+    };
+
+    const cptExact = normCode(userCpt) === normCode(scenario.correctCpt);
+    const icd10Exact = normCode(userIcd10) === normCode(scenario.correctIcd10);
+
+    // Short-circuit: both exact match, no AI needed
+    if (cptExact && icd10Exact) {
+      return NextResponse.json({
+        cptCorrect: true,
+        icd10Correct: true,
+        cptFeedback: `✅ Correct! ${scenario.cptRationale}`,
+        icd10Feedback: `✅ Correct! ${scenario.icd10Rationale}`,
+      });
+    }
+
+    const prompt = `You are a CPC exam grader. Evaluate a student's medical coding attempt for the following scenario.
+
+CLINICAL SCENARIO:
+${scenario.clinicalNote}
+
+CPT CODING:
+Correct CPT code(s): ${scenario.correctCpt.join(', ')}
+Student's CPT code(s): ${userCpt.join(', ') || '(none entered)'}
+Why the correct CPT is right: ${scenario.cptRationale}
+
+ICD-10 CODING:
+Correct ICD-10 code(s): ${scenario.correctIcd10.join(', ')}
+Student's ICD-10 code(s): ${userIcd10.join(', ') || '(none entered)'}
+Why the correct ICD-10 is right: ${scenario.icd10Rationale}
+
+Return JSON:
+{
+  "cptCorrect": boolean,
+  "icd10Correct": boolean,
+  "cptFeedback": "1-2 sentences. If correct: confirm why it's right and reinforce the concept. If wrong: explain exactly what mistake was made and what the correct code means.",
+  "icd10Feedback": "1-2 sentences. Same format as cptFeedback."
+}
+
+GRADING RULES:
+- CPT: Mark correct if student got the right base procedure code, even if modifier is wrong or missing. Note modifier in feedback.
+- ICD-10: Mark correct if student got the right 3-character category but wrong specificity (note what specificity was needed). Mark wrong if wrong category entirely.
+- Be educational in feedback, not just "wrong". Explain the concept.
+- Tone: encouraging but precise — this is a learning tool.`;
+
+    const completion = await getOpenAI().chat.completions.create({
+      model: 'gpt-4o-mini',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.2,
+      response_format: { type: 'json_object' },
+    });
+
+    const result = JSON.parse(completion.choices[0].message.content || '{}') as {
+      cptCorrect?: boolean;
+      icd10Correct?: boolean;
+      cptFeedback?: string;
+      icd10Feedback?: string;
+    };
+
+    return NextResponse.json({
+      cptCorrect: result.cptCorrect ?? cptExact,
+      icd10Correct: result.icd10Correct ?? icd10Exact,
+      cptFeedback:
+        result.cptFeedback ||
+        (cptExact
+          ? `✅ ${scenario.cptRationale}`
+          : `❌ Correct: ${scenario.correctCpt.join(', ')}. ${scenario.cptRationale}`),
+      icd10Feedback:
+        result.icd10Feedback ||
+        (icd10Exact
+          ? `✅ ${scenario.icd10Rationale}`
+          : `❌ Correct: ${scenario.correctIcd10.join(', ')}. ${scenario.icd10Rationale}`),
+    });
+  } catch (err) {
+    console.error('Scenario validate error:', err);
+    return NextResponse.json({ error: 'Validation failed' }, { status: 500 });
+  }
+}

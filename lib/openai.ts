@@ -1,1 +1,9 @@
-{"data":"aW1wb3J0IE9wZW5BSSBmcm9tICdvcGVuYWknOwoKY29uc3QgYXBpS2V5ID0gcHJvY2Vzcy5lbnYuT1BFTkFJX0FQSV9LRVkgfHwgJ3BsYWNlaG9sZGVyJzsKCmV4cG9ydCBjb25zdCBvcGVuYWkgPSBuZXcgT3BlbkFJKHsgYXBpS2V5IH0pOwoKZXhwb3J0IGZ1bmN0aW9uIGlzT3BlbkFJQ29uZmlndXJlZCgpOiBib29sZWFuIHsKICByZXR1cm4gYXBpS2V5ICE9PSAncGxhY2Vob2xkZXInICYmIGFwaUtleS5sZW5ndGggPiAxMDsKfQo="}
+import OpenAI from 'openai';
+
+const apiKey = process.env.OPENAI_API_KEY || 'placeholder';
+
+export const openai = new OpenAI({ apiKey });
+
+export function isOpenAIConfigured(): boolean {
+  return apiKey !== 'placeholder' && apiKey.length > 10;
+}

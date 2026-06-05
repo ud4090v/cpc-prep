@@ -30,20 +30,20 @@ export default function Dashboard() {
   useEffect(() => {
     // Load from localStorage
     try {
-      const stored = localStorage.getItem('cpc_stats');
+      const stored = localStorage.getItem('cpt_stats');
       if (stored) {
         const parsed = JSON.parse(stored);
         setStats(prev => ({ ...prev, ...parsed }));
       }
-      const storedSessions = localStorage.getItem('cpc_sessions');
+      const storedSessions = localStorage.getItem('cpt_sessions');
       if (storedSessions) {
         setSessions(JSON.parse(storedSessions).slice(0, 5));
       }
     } catch {}
     
     // Ensure user_id
-    if (!localStorage.getItem('cpc_user_id')) {
-      localStorage.setItem('cpc_user_id', crypto.randomUUID());
+    if (!localStorage.getItem('cpt_user_id')) {
+      localStorage.setItem('cpt_user_id', crypto.randomUUID());
     }
   }, []);
 
@@ -52,10 +52,10 @@ export default function Dashboard() {
       {/* Header */}
       <div className="text-center py-8">
         <h1 className="text-4xl font-bold text-text mb-2">
-          🏥 CPC Exam Prep
+          🏥 CPT Exam Prep
         </h1>
         <p className="text-lg text-gray-500">
-          Master medical coding terminology with 583 flash cards
+          Master medical coding terminology with flash cards
         </p>
       </div>
 

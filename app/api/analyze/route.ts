@@ -39,7 +39,7 @@ export async function POST(request: NextRequest) {
       messages: [
         {
           role: 'system',
-          content: `You are analyzing CPC medical coding exam quiz results. Give a 3-4 sentence summary: what they did well, what to focus on, and encouragement. Be specific about medical terminology areas to study.`,
+          content: `You are analyzing CPT medical coding exam quiz results. Give a 3-4 sentence summary: what they did well, what to focus on, and encouragement. Be specific about medical terminology areas to study.`,
         },
         {
           role: 'user',

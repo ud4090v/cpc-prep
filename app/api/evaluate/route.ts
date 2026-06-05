@@ -28,7 +28,7 @@ export async function POST(request: NextRequest) {
       messages: [
         {
           role: 'system',
-          content: `You are evaluating answers for a CPC medical coding exam study app.
+          content: `You are evaluating answers for a CPT medical coding exam study app.
 Be generous with partial credit — if the student understands the concept, mark correct.
 Return JSON only: { "isCorrect": boolean, "confidence": "exact"|"close"|"wrong", "feedback": string }
 feedback should be 1-2 sentences max: encouraging if correct, helpful if wrong.`,

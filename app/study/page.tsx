@@ -94,7 +94,7 @@ export default function StudyPage() {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
-          'x-user-id': localStorage.getItem('cpc_user_id') || '',
+          'x-user-id': localStorage.getItem('cpt_user_id') || '',
         },
         body: JSON.stringify({
           cardId: currentCard.id,
@@ -122,9 +122,9 @@ export default function StudyPage() {
 
     // Update stats in localStorage
     try {
-      const stats = JSON.parse(localStorage.getItem('cpc_stats') || '{}');
+      const stats = JSON.parse(localStorage.getItem('cpt_stats') || '{}');
       stats.studiedToday = (stats.studiedToday || 0) + 1;
-      localStorage.setItem('cpc_stats', JSON.stringify(stats));
+      localStorage.setItem('cpt_stats', JSON.stringify(stats));
     } catch {}
   }
 

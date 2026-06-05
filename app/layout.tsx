@@ -3,8 +3,8 @@ import Link from 'next/link';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'CPC Prep - Medical Coding Exam Study',
-  description: 'Flash card study app for CPC (Certified Professional Coder) exam preparation',
+  title: 'CPT Prep - Medical Coding Exam Study',
+  description: 'Flash card study app for CPT (Certified Professional Coder) exam preparation',
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: '32x32' },
@@ -32,7 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <nav className="bg-primary shadow-lg">
           <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
             <Link href="/" className="text-white text-xl font-bold tracking-tight flex items-center gap-2">
-              <span className="text-2xl">🏥</span> CPC Prep
+              <span className="text-2xl">🏥</span> CPT Prep
             </Link>
             <div className="flex items-center gap-1">
               <NavLink href="/study">Study</NavLink>

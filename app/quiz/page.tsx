@@ -136,18 +136,18 @@ export default function QuizPage() {
           percentage: Math.round((correct / updated.length) * 100),
           duration: Math.round((Date.now() - quizStartTime) / 1000),
         };
-        const sessions = JSON.parse(localStorage.getItem('cpc_sessions') || '[]');
+        const sessions = JSON.parse(localStorage.getItem('cpt_sessions') || '[]');
         sessions.unshift(session);
-        localStorage.setItem('cpc_sessions', JSON.stringify(sessions.slice(0, 50)));
+        localStorage.setItem('cpt_sessions', JSON.stringify(sessions.slice(0, 50)));
         
-        const stats = JSON.parse(localStorage.getItem('cpc_stats') || '{}');
+        const stats = JSON.parse(localStorage.getItem('cpt_stats') || '{}');
         stats.studiedToday = (stats.studiedToday || 0) + updated.length;
         const totalCorrect = (stats.totalCorrect || 0) + correct;
         const totalAttempts = (stats.totalAttempts || 0) + updated.length;
         stats.totalCorrect = totalCorrect;
         stats.totalAttempts = totalAttempts;
         stats.accuracy = Math.round((totalCorrect / totalAttempts) * 100);
-        localStorage.setItem('cpc_stats', JSON.stringify(stats));
+        localStorage.setItem('cpt_stats', JSON.stringify(stats));
       } catch {}
     }
   }, [currentQ, questions, questionStartTime, quizStartTime]);

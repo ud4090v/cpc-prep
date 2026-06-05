@@ -35,7 +35,7 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    const prompt = `You are a CPC exam grader. Evaluate a student's medical coding attempt for the following scenario.
+    const prompt = `You are a CPT exam grader. Evaluate a student's medical coding attempt for the following scenario.
 
 CLINICAL SCENARIO:
 ${scenario.clinicalNote}

@@ -25,10 +25,10 @@ export default function ProgressPage() {
 
   useEffect(() => {
     try {
-      const storedStats = localStorage.getItem('cpc_stats');
+      const storedStats = localStorage.getItem('cpt_stats');
       if (storedStats) setStats(JSON.parse(storedStats));
 
-      const storedSessions = localStorage.getItem('cpc_sessions');
+      const storedSessions = localStorage.getItem('cpt_sessions');
       if (storedSessions) {
         const allSessions: SessionRecord[] = JSON.parse(storedSessions);
         setSessions(allSessions);

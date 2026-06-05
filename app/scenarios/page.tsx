@@ -161,7 +161,7 @@ export default function ScenariosPage() {
       <div className="max-w-2xl mx-auto space-y-6">
         <div className="text-center py-4">
           <h1 className="text-3xl font-bold text-text mb-1">🏥 Scenario Mode</h1>
-          <p className="text-gray-500">Real clinical notes — identify CPT &amp; ICD-10 codes like the actual CPC exam</p>
+          <p className="text-gray-500">Real clinical notes — identify CPT &amp; ICD-10 codes like the actual CPT exam</p>
         </div>
 
         {/* Count */}

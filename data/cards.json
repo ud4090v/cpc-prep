@@ -1,1 +1,1986 @@
-[]
+[
+  {
+    "id": "prefixes-prefix-001",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "An-",
+    "definition": "without",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-002",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Brady-",
+    "definition": "slow",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-003",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Bi-",
+    "definition": "two",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-004",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Uni-",
+    "definition": "one",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-005",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "De-",
+    "definition": "from or away",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-006",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Dys-",
+    "definition": "difficult or painful",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-007",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "En-",
+    "definition": "within",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-008",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Epi-",
+    "definition": "upon or above",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-009",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Hemi-",
+    "definition": "half",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-010",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Hyper-",
+    "definition": "excessive",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-011",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Hypo-",
+    "definition": "below or deficient",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-012",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Intra-",
+    "definition": "within",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-013",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Mal-",
+    "definition": "bad or abnormal",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-014",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Peri-",
+    "definition": "around",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-015",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Post-",
+    "definition": "after",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-016",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Pre-",
+    "definition": "before",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-017",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Pro-",
+    "definition": "before or forward",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-018",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Retro-",
+    "definition": "behind or against",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-019",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Sub-",
+    "definition": "below or under",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-020",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Supra-",
+    "definition": "above",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-021",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Trans-",
+    "definition": "through",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-022",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Poly-",
+    "definition": "many or much",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-023",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Olig-",
+    "definition": "scanty or little",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-024",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Noct-",
+    "definition": "night",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-025",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Tachy-",
+    "definition": "fast",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-026",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Macro-",
+    "definition": "large",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-027",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Micro-",
+    "definition": "small",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-028",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Anti-",
+    "definition": "against",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-029",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Auto-",
+    "definition": "self",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-030",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Allo-",
+    "definition": "other or different",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-031",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Syn-",
+    "definition": "same or together",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-032",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Neo-",
+    "definition": "new",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-033",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Para-",
+    "definition": "beside or abnormal",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-034",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Extra-",
+    "definition": "outside",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-035",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Inter-",
+    "definition": "between",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-036",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Multi-",
+    "definition": "many",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-037",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Tri-",
+    "definition": "three",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-038",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Semi-",
+    "definition": "half",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-039",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Pan-",
+    "definition": "all",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-040",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Re-",
+    "definition": "again",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixes-prefix-041",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "A-",
+    "definition": "without or not",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-042",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-algia",
+    "definition": "pain",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-043",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-centesis",
+    "definition": "surgical puncture",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-044",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-dynia",
+    "definition": "pain",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-045",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ectomy",
+    "definition": "surgical removal",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-046",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-emesis",
+    "definition": "vomiting",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-047",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-gram",
+    "definition": "record or image",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-048",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-graphy",
+    "definition": "process of recording or imaging",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-049",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-iasis",
+    "definition": "condition or formation",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-050",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-itis",
+    "definition": "inflammation",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-051",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-lith",
+    "definition": "stone",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-052",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-logy",
+    "definition": "study of",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-053",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-lysis",
+    "definition": "breakdown or destruction",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-054",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-megaly",
+    "definition": "enlargement",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-055",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-oma",
+    "definition": "tumor",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-056",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-orrhaphy",
+    "definition": "surgical repair or suturing",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-057",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-oscopy",
+    "definition": "visual examination",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-058",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ostomy",
+    "definition": "creating an opening",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-059",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-otomy",
+    "definition": "incision or cutting into",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-060",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pathy",
+    "definition": "disease",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-061",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pepsia",
+    "definition": "digestion",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-062",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pexy",
+    "definition": "surgical fixation",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-063",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-plasty",
+    "definition": "surgical repair or reconstruction",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-064",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-plegia",
+    "definition": "paralysis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-065",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-paresis",
+    "definition": "partial paralysis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-066",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ptosis",
+    "definition": "drooping or prolapse",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-067",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-rrhea",
+    "definition": "flow or discharge",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-068",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-rrhage",
+    "definition": "excessive bleeding",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-069",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-sclerosis",
+    "definition": "hardening",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-070",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-stenosis",
+    "definition": "narrowing",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-071",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-stomy",
+    "definition": "creating an opening",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-072",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-tomy",
+    "definition": "incision",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-073",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-uria",
+    "definition": "urine condition",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-074",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-phagia",
+    "definition": "eating or swallowing",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-075",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-phasia",
+    "definition": "speech",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-076",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-esthesia",
+    "definition": "sensation or feeling",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-077",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-algesia",
+    "definition": "pain sensitivity",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-078",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-opia",
+    "definition": "vision condition",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-079",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-trophy",
+    "definition": "nourishment or development",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-080",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-genesis",
+    "definition": "origin or production",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-081",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-desis",
+    "definition": "surgical fusion or binding",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-082",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cele",
+    "definition": "hernia or swelling",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-083",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ectasis",
+    "definition": "dilation or expansion",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-084",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-spasm",
+    "definition": "involuntary contraction",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-085",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-kinesis",
+    "definition": "movement",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-086",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-emia",
+    "definition": "blood condition",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-087",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-penia",
+    "definition": "deficiency",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-088",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cytosis",
+    "definition": "condition of cells",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-089",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-phobia",
+    "definition": "fear",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-090",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-mania",
+    "definition": "obsession",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-091",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pnea",
+    "definition": "breathing",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-092",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-thorax",
+    "definition": "chest condition",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-093",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cardia",
+    "definition": "heart condition",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-094",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cyte",
+    "definition": "cell",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-095",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-blast",
+    "definition": "immature cell",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixes-suffix-096",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-clast",
+    "definition": "breaking down cell",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-097",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Abdomin",
+    "definition": "abdomen",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-098",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Aden",
+    "definition": "gland",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-099",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Adren",
+    "definition": "adrenal gland",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-100",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Alveol",
+    "definition": "air sac in lung",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-101",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "An",
+    "definition": "anus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-102",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Angi",
+    "definition": "vessel",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-103",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Aort",
+    "definition": "aorta",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-104",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Append",
+    "definition": "appendix",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-105",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Arteri",
+    "definition": "artery",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-106",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Atri",
+    "definition": "upper heart chamber",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-107",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Audi",
+    "definition": "hearing",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-108",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Bil",
+    "definition": "bile",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-109",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Blephar",
+    "definition": "eyelid",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-110",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Bronch",
+    "definition": "bronchus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-111",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Bronchiol",
+    "definition": "small airway",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-112",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Burs",
+    "definition": "bursa",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-113",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Calcane",
+    "definition": "heel bone",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-114",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cardio",
+    "definition": "heart",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-115",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Carp",
+    "definition": "wrist bones",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-116",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cec",
+    "definition": "cecum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-117",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cerebr",
+    "definition": "brain",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-118",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cerebell",
+    "definition": "cerebellum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-119",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cervic",
+    "definition": "cervical neck or cervix",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-120",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cheil",
+    "definition": "lip",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-121",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Chol",
+    "definition": "bile",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-122",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cholangi",
+    "definition": "bile duct",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-123",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cholecyst",
+    "definition": "gallbladder",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-124",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Choledoch",
+    "definition": "common bile duct",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-125",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Chondro",
+    "definition": "cartilage",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-126",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cochle",
+    "definition": "cochlea, hearing organ",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-127",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Col",
+    "definition": "colon",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-128",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Colp",
+    "definition": "vagina",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-129",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Conjunctiv",
+    "definition": "conjunctiva membrane covering eye",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-130",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Corne",
+    "definition": "cornea",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-131",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cost",
+    "definition": "rib",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-132",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Crani",
+    "definition": "skull",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-133",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cutane",
+    "definition": "skin",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-134",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Cyst",
+    "definition": "bladder",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-135",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Dacry",
+    "definition": "tear or lacrimal",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-136",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Dent",
+    "definition": "tooth",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-137",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Derm",
+    "definition": "skin",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-138",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Duoden",
+    "definition": "duodenum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-139",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Dur",
+    "definition": "dura mater outer brain covering",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-140",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Encephal",
+    "definition": "brain",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-141",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Endocardi",
+    "definition": "inner lining of heart",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-142",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Endometri",
+    "definition": "inner lining of uterus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-143",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Enter",
+    "definition": "intestine",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-144",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Epididym",
+    "definition": "epididymis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-145",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Episio",
+    "definition": "vulva or perineum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-146",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Esophag",
+    "definition": "esophagus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-147",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Femor",
+    "definition": "femur",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-148",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Fibul",
+    "definition": "fibula",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-149",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Gastr",
+    "definition": "stomach",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-150",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Gingiv",
+    "definition": "gums",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-151",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Glomerul",
+    "definition": "filtering unit of kidney",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-152",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Gloss",
+    "definition": "tongue",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-153",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Gonad",
+    "definition": "reproductive gland",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-154",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Hepat",
+    "definition": "liver",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-155",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Herni",
+    "definition": "hernia",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-156",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Humer",
+    "definition": "humerus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-157",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Hyster",
+    "definition": "uterus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-158",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ile",
+    "definition": "ileum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-159",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Iri",
+    "definition": "iris",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-160",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Jejun",
+    "definition": "jejunum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-161",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Labi",
+    "definition": "lip",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-162",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Lacrim",
+    "definition": "tear or tear duct",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-163",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Lapar",
+    "definition": "abdomen",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-164",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Laryng",
+    "definition": "larynx",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-165",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Lingu",
+    "definition": "tongue",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-166",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Lumb",
+    "definition": "lumbar",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-167",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Mamm",
+    "definition": "breast",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-168",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Mast",
+    "definition": "breast",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-169",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Mastoid",
+    "definition": "mastoid bone behind ear",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-170",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Men",
+    "definition": "menstruation",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-171",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Mening",
+    "definition": "brain coverings",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-172",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Metr",
+    "definition": "uterus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-173",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Myocardi",
+    "definition": "heart muscle",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-174",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Myel",
+    "definition": "spinal cord or bone marrow",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-175",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Myometri",
+    "definition": "muscular wall of uterus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-176",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Myring",
+    "definition": "eardrum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-177",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Nas",
+    "definition": "nose",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-178",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Nephr",
+    "definition": "kidney",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-179",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Neur",
+    "definition": "nerve",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-180",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ocul",
+    "definition": "eye",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-181",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Oophor",
+    "definition": "ovary",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-182",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ophthalm",
+    "definition": "eye",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-183",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Opt",
+    "definition": "vision or eye",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-184",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Or",
+    "definition": "mouth",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-185",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Orchid",
+    "definition": "testis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-186",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Orchi",
+    "definition": "testis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-187",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ossicl",
+    "definition": "small bones of middle ear",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-188",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Osteo",
+    "definition": "bone",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-189",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ot",
+    "definition": "ear",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-190",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ovi",
+    "definition": "ovary",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-191",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pancreat",
+    "definition": "pancreas",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-192",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Parathyr",
+    "definition": "parathyroid",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-193",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Patell",
+    "definition": "kneecap",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-194",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pelvi",
+    "definition": "pelvis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-195",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pen",
+    "definition": "penis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-196",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pericardi",
+    "definition": "sac around heart",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-197",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Peritone",
+    "definition": "peritoneum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-198",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pharyng",
+    "definition": "pharynx throat",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-199",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Phalang",
+    "definition": "finger or toe bones",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-200",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Phleb",
+    "definition": "vein",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-201",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Phren",
+    "definition": "diaphragm",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-202",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pituit",
+    "definition": "pituitary gland",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-203",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pleur",
+    "definition": "pleura",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-204",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pneumo",
+    "definition": "lung or air",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-205",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Proct",
+    "definition": "rectum and anus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-206",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Prostat",
+    "definition": "prostate",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-207",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pulmon",
+    "definition": "lung",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-208",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pylor",
+    "definition": "pylorus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-209",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Pyel",
+    "definition": "renal pelvis",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-210",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Radi",
+    "definition": "radius lower arm bone or radiation",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-211",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Rect",
+    "definition": "rectum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-212",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ren",
+    "definition": "kidney",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-213",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Retin",
+    "definition": "retina",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-214",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Rhin",
+    "definition": "nose",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-215",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Sacr",
+    "definition": "sacrum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-216",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Salping",
+    "definition": "fallopian tube",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-217",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Scler",
+    "definition": "sclera white of eye",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-218",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Scrot",
+    "definition": "scrotum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-219",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Sept",
+    "definition": "dividing wall",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-220",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Sialaden",
+    "definition": "salivary gland",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-221",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Sigmoid",
+    "definition": "sigmoid colon",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-222",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Sinus",
+    "definition": "hollow space in skull",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-223",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Spleno",
+    "definition": "spleen",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-224",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Stern",
+    "definition": "sternum breastbone",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-225",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Stomat",
+    "definition": "mouth",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-226",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Tars",
+    "definition": "ankle bones",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-227",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Tend",
+    "definition": "tendon",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-228",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Thorac",
+    "definition": "chest",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-229",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Thym",
+    "definition": "thymus gland",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-230",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Thyr",
+    "definition": "thyroid",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-231",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Tibi",
+    "definition": "tibia",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-232",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Trache",
+    "definition": "trachea",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-233",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Turbin",
+    "definition": "scroll shaped bone in nose",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-234",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Tympan",
+    "definition": "eardrum",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-235",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Uln",
+    "definition": "ulna",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-236",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ureter",
+    "definition": "ureter",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-237",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Urethr",
+    "definition": "urethra",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-238",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ur",
+    "definition": "urine",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-239",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Uter",
+    "definition": "uterus",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-240",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Vagin",
+    "definition": "vagina",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-241",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Valv",
+    "definition": "valve",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-242",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Vas",
+    "definition": "vas deferens",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-243",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ven",
+    "definition": "vein",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-244",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Vesic",
+    "definition": "bladder",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-245",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Vesicul",
+    "definition": "seminal vesicle",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-246",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Vestibul",
+    "definition": "vestibule",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-247",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Ventricu",
+    "definition": "ventricle of heart or brain",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root-words-root_word-248",
+    "system": "Root Words",
+    "category": "root_word",
+    "term": "Vulv",
+    "definition": "vulva",
+    "difficulty": "basic"
+  }
+]

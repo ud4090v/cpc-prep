@@ -54,7 +54,7 @@ export async function POST(request: NextRequest) {
     const diffGuide = codingContext.difficulty_guidance[difficulty];
     const needsDistractors = answerMode === 'mc';
 
-    const systemPrompt = `You are a CPC (Certified Professional Coder) exam question writer with 15 years of experience creating realistic medical coding scenarios for exam practice.
+    const systemPrompt = `You are a CPT (Certified Professional Coder) exam question writer with 15 years of experience creating realistic medical coding scenarios for exam practice.
 
 CRITICAL RULES:
 - Every CPT and ICD-10 code you use MUST be a real, currently valid code
@@ -74,7 +74,7 @@ ${ctx.icd10_categories.map((r) => `${r.range}: ${r.description}`).join('\n')}
 
 COMMON SCENARIOS FOR THIS SYSTEM: ${ctx.common_scenarios.join(', ')}`;
 
-    const userPrompt = `Generate a ${difficulty} difficulty CPC exam scenario for the ${resolvedSystem}.
+    const userPrompt = `Generate a ${difficulty} difficulty CPT exam scenario for the ${resolvedSystem}.
 
 Return ONLY valid JSON with this structure:
 {

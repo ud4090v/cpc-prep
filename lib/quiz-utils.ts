@@ -113,7 +113,7 @@ export function buildMcOptions(card: Card, allCards: Card[]): string[] {
 
 // ─── Seen-Card Tracking (repeat avoidance) ──────────────────────────────────
 
-const SEEN_KEY = 'cpc_seen_cards';
+const SEEN_KEY = 'cpt_seen_cards';
 const SEEN_TTL_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
 
 interface SeenEntry {

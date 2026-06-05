@@ -1,0 +1,2482 @@
+[
+  {
+    "id": "prefixs-an-001",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "An-",
+    "definition": "without",
+    "explanation": "The prefix An- means 'without'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'An-' combines with medical terms to indicate 'without'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-brady-002",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Brady-",
+    "definition": "slow",
+    "explanation": "The prefix Brady- means 'slow'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Brady-' combines with medical terms to indicate 'slow'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-bi-003",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Bi-",
+    "definition": "two",
+    "explanation": "The prefix Bi- means 'two'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Bi-' combines with medical terms to indicate 'two'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-uni-004",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Uni-",
+    "definition": "one",
+    "explanation": "The prefix Uni- means 'one'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Uni-' combines with medical terms to indicate 'one'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-de-005",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "De-",
+    "definition": "from or away",
+    "explanation": "The prefix De- means 'from or away'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'De-' combines with medical terms to indicate 'from or away'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-dys-006",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Dys-",
+    "definition": "difficult or painful",
+    "explanation": "The prefix Dys- means 'difficult or painful'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Dys-' combines with medical terms to indicate 'difficult or painful'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-en-007",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "En-",
+    "definition": "within",
+    "explanation": "The prefix En- means 'within'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'En-' combines with medical terms to indicate 'within'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-epi-008",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Epi-",
+    "definition": "upon or above",
+    "explanation": "The prefix Epi- means 'upon or above'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Epi-' combines with medical terms to indicate 'upon or above'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-hemi-009",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Hemi-",
+    "definition": "half",
+    "explanation": "The prefix Hemi- means 'half'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Hemi-' combines with medical terms to indicate 'half'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-hyper-010",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Hyper-",
+    "definition": "excessive",
+    "explanation": "The prefix Hyper- means 'excessive'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Hyper-' combines with medical terms to indicate 'excessive'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-hypo-011",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Hypo-",
+    "definition": "below or deficient",
+    "explanation": "The prefix Hypo- means 'below or deficient'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Hypo-' combines with medical terms to indicate 'below or deficient'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-intra-012",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Intra-",
+    "definition": "within",
+    "explanation": "The prefix Intra- means 'within'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Intra-' combines with medical terms to indicate 'within'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-mal-013",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Mal-",
+    "definition": "bad or abnormal",
+    "explanation": "The prefix Mal- means 'bad or abnormal'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Mal-' combines with medical terms to indicate 'bad or abnormal'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-peri-014",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Peri-",
+    "definition": "around",
+    "explanation": "The prefix Peri- means 'around'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Peri-' combines with medical terms to indicate 'around'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-post-015",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Post-",
+    "definition": "after",
+    "explanation": "The prefix Post- means 'after'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Post-' combines with medical terms to indicate 'after'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-pre-016",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Pre-",
+    "definition": "before",
+    "explanation": "The prefix Pre- means 'before'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Pre-' combines with medical terms to indicate 'before'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-pro-017",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Pro-",
+    "definition": "before or forward",
+    "explanation": "The prefix Pro- means 'before or forward'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Pro-' combines with medical terms to indicate 'before or forward'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-retro-018",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Retro-",
+    "definition": "behind or against",
+    "explanation": "The prefix Retro- means 'behind or against'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Retro-' combines with medical terms to indicate 'behind or against'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-sub-019",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Sub-",
+    "definition": "below or under",
+    "explanation": "The prefix Sub- means 'below or under'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Sub-' combines with medical terms to indicate 'below or under'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-supra-020",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Supra-",
+    "definition": "above",
+    "explanation": "The prefix Supra- means 'above'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Supra-' combines with medical terms to indicate 'above'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-trans-021",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Trans-",
+    "definition": "through",
+    "explanation": "The prefix Trans- means 'through'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Trans-' combines with medical terms to indicate 'through'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-poly-022",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Poly-",
+    "definition": "many or much",
+    "explanation": "The prefix Poly- means 'many or much'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Poly-' combines with medical terms to indicate 'many or much'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-olig-023",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Olig-",
+    "definition": "scanty or little",
+    "explanation": "The prefix Olig- means 'scanty or little'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Olig-' combines with medical terms to indicate 'scanty or little'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-noct-024",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Noct-",
+    "definition": "night",
+    "explanation": "The prefix Noct- means 'night'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Noct-' combines with medical terms to indicate 'night'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-tachy-025",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Tachy-",
+    "definition": "fast",
+    "explanation": "The prefix Tachy- means 'fast'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Tachy-' combines with medical terms to indicate 'fast'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-macro-026",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Macro-",
+    "definition": "large",
+    "explanation": "The prefix Macro- means 'large'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Macro-' combines with medical terms to indicate 'large'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-micro-027",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Micro-",
+    "definition": "small",
+    "explanation": "The prefix Micro- means 'small'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Micro-' combines with medical terms to indicate 'small'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-anti-028",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Anti-",
+    "definition": "against",
+    "explanation": "The prefix Anti- means 'against'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Anti-' combines with medical terms to indicate 'against'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-auto-029",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Auto-",
+    "definition": "self",
+    "explanation": "The prefix Auto- means 'self'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Auto-' combines with medical terms to indicate 'self'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-allo-030",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Allo-",
+    "definition": "other or different",
+    "explanation": "The prefix Allo- means 'other or different'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Allo-' combines with medical terms to indicate 'other or different'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-syn-031",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Syn-",
+    "definition": "same or together",
+    "explanation": "The prefix Syn- means 'same or together'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Syn-' combines with medical terms to indicate 'same or together'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-neo-032",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Neo-",
+    "definition": "new",
+    "explanation": "The prefix Neo- means 'new'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Neo-' combines with medical terms to indicate 'new'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-para-033",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Para-",
+    "definition": "beside or abnormal",
+    "explanation": "The prefix Para- means 'beside or abnormal'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Para-' combines with medical terms to indicate 'beside or abnormal'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-extra-034",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Extra-",
+    "definition": "outside",
+    "explanation": "The prefix Extra- means 'outside'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Extra-' combines with medical terms to indicate 'outside'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-inter-035",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Inter-",
+    "definition": "between",
+    "explanation": "The prefix Inter- means 'between'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Inter-' combines with medical terms to indicate 'between'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-multi-036",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Multi-",
+    "definition": "many",
+    "explanation": "The prefix Multi- means 'many'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Multi-' combines with medical terms to indicate 'many'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-tri-037",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Tri-",
+    "definition": "three",
+    "explanation": "The prefix Tri- means 'three'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Tri-' combines with medical terms to indicate 'three'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-semi-038",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Semi-",
+    "definition": "half",
+    "explanation": "The prefix Semi- means 'half'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Semi-' combines with medical terms to indicate 'half'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-pan-039",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Pan-",
+    "definition": "all",
+    "explanation": "The prefix Pan- means 'all'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Pan-' combines with medical terms to indicate 'all'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-re-040",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "Re-",
+    "definition": "again",
+    "explanation": "The prefix Re- means 'again'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'Re-' combines with medical terms to indicate 'again'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "prefixs-a-041",
+    "system": "Prefixes",
+    "category": "prefix",
+    "term": "A-",
+    "definition": "without or not",
+    "explanation": "The prefix A- means 'without or not'. In CPC coding, recognizing prefixes helps decode medical terminology in clinical documentation, enabling accurate code selection across ICD-10-CM and CPT code sets.",
+    "example": "Example: 'A-' combines with medical terms to indicate 'without or not'. CPC coders encounter this prefix in operative reports, diagnostic findings, and clinical notes when determining the correct ICD-10-CM and CPT codes.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-algia-042",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-algia",
+    "definition": "pain",
+    "explanation": "The suffix -algia means 'pain'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-algia' indicates 'pain'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-centesis-043",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-centesis",
+    "definition": "surgical puncture",
+    "explanation": "The suffix -centesis means 'surgical puncture'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-centesis' indicates 'surgical puncture'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-dynia-044",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-dynia",
+    "definition": "pain",
+    "explanation": "The suffix -dynia means 'pain'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-dynia' indicates 'pain'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-ectomy-045",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ectomy",
+    "definition": "surgical removal",
+    "explanation": "The suffix -ectomy means 'surgical removal'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-ectomy' indicates 'surgical removal'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-emesis-046",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-emesis",
+    "definition": "vomiting",
+    "explanation": "The suffix -emesis means 'vomiting'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-emesis' indicates 'vomiting'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-gram-047",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-gram",
+    "definition": "record or image",
+    "explanation": "The suffix -gram means 'record or image'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-gram' indicates 'record or image'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-graphy-048",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-graphy",
+    "definition": "process of recording or imaging",
+    "explanation": "The suffix -graphy means 'process of recording or imaging'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-graphy' indicates 'process of recording or imaging'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-iasis-049",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-iasis",
+    "definition": "condition or formation",
+    "explanation": "The suffix -iasis means 'condition or formation'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-iasis' indicates 'condition or formation'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-itis-050",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-itis",
+    "definition": "inflammation",
+    "explanation": "The suffix -itis means 'inflammation'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-itis' indicates 'inflammation'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-lith-051",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-lith",
+    "definition": "stone",
+    "explanation": "The suffix -lith means 'stone'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-lith' indicates 'stone'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-logy-052",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-logy",
+    "definition": "study of",
+    "explanation": "The suffix -logy means 'study of'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-logy' indicates 'study of'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-lysis-053",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-lysis",
+    "definition": "breakdown or destruction",
+    "explanation": "The suffix -lysis means 'breakdown or destruction'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-lysis' indicates 'breakdown or destruction'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-megaly-054",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-megaly",
+    "definition": "enlargement",
+    "explanation": "The suffix -megaly means 'enlargement'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-megaly' indicates 'enlargement'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-oma-055",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-oma",
+    "definition": "tumor",
+    "explanation": "The suffix -oma means 'tumor'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-oma' indicates 'tumor'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-orrhaphy-056",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-orrhaphy",
+    "definition": "surgical repair or suturing",
+    "explanation": "The suffix -orrhaphy means 'surgical repair or suturing'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-orrhaphy' indicates 'surgical repair or suturing'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-oscopy-057",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-oscopy",
+    "definition": "visual examination",
+    "explanation": "The suffix -oscopy means 'visual examination'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-oscopy' indicates 'visual examination'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-ostomy-058",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ostomy",
+    "definition": "creating an opening",
+    "explanation": "The suffix -ostomy means 'creating an opening'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-ostomy' indicates 'creating an opening'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-otomy-059",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-otomy",
+    "definition": "incision or cutting into",
+    "explanation": "The suffix -otomy means 'incision or cutting into'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-otomy' indicates 'incision or cutting into'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-pathy-060",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pathy",
+    "definition": "disease",
+    "explanation": "The suffix -pathy means 'disease'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-pathy' indicates 'disease'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-pepsia-061",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pepsia",
+    "definition": "digestion",
+    "explanation": "The suffix -pepsia means 'digestion'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-pepsia' indicates 'digestion'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-pexy-062",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pexy",
+    "definition": "surgical fixation",
+    "explanation": "The suffix -pexy means 'surgical fixation'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-pexy' indicates 'surgical fixation'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-plasty-063",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-plasty",
+    "definition": "surgical repair or reconstruction",
+    "explanation": "The suffix -plasty means 'surgical repair or reconstruction'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-plasty' indicates 'surgical repair or reconstruction'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-plegia-064",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-plegia",
+    "definition": "paralysis",
+    "explanation": "The suffix -plegia means 'paralysis'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-plegia' indicates 'paralysis'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-paresis-065",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-paresis",
+    "definition": "partial paralysis",
+    "explanation": "The suffix -paresis means 'partial paralysis'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-paresis' indicates 'partial paralysis'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-ptosis-066",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ptosis",
+    "definition": "drooping or prolapse",
+    "explanation": "The suffix -ptosis means 'drooping or prolapse'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-ptosis' indicates 'drooping or prolapse'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-rrhea-067",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-rrhea",
+    "definition": "flow or discharge",
+    "explanation": "The suffix -rrhea means 'flow or discharge'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-rrhea' indicates 'flow or discharge'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-rrhage-068",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-rrhage",
+    "definition": "excessive bleeding",
+    "explanation": "The suffix -rrhage means 'excessive bleeding'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-rrhage' indicates 'excessive bleeding'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-sclerosis-069",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-sclerosis",
+    "definition": "hardening",
+    "explanation": "The suffix -sclerosis means 'hardening'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-sclerosis' indicates 'hardening'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-stenosis-070",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-stenosis",
+    "definition": "narrowing",
+    "explanation": "The suffix -stenosis means 'narrowing'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-stenosis' indicates 'narrowing'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-stomy-071",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-stomy",
+    "definition": "creating an opening",
+    "explanation": "The suffix -stomy means 'creating an opening'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-stomy' indicates 'creating an opening'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-tomy-072",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-tomy",
+    "definition": "incision",
+    "explanation": "The suffix -tomy means 'incision'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-tomy' indicates 'incision'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-uria-073",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-uria",
+    "definition": "urine condition",
+    "explanation": "The suffix -uria means 'urine condition'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-uria' indicates 'urine condition'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-phagia-074",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-phagia",
+    "definition": "eating or swallowing",
+    "explanation": "The suffix -phagia means 'eating or swallowing'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-phagia' indicates 'eating or swallowing'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-phasia-075",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-phasia",
+    "definition": "speech",
+    "explanation": "The suffix -phasia means 'speech'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-phasia' indicates 'speech'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-esthesia-076",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-esthesia",
+    "definition": "sensation or feeling",
+    "explanation": "The suffix -esthesia means 'sensation or feeling'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-esthesia' indicates 'sensation or feeling'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-algesia-077",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-algesia",
+    "definition": "pain sensitivity",
+    "explanation": "The suffix -algesia means 'pain sensitivity'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-algesia' indicates 'pain sensitivity'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-opia-078",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-opia",
+    "definition": "vision condition",
+    "explanation": "The suffix -opia means 'vision condition'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-opia' indicates 'vision condition'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-trophy-079",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-trophy",
+    "definition": "nourishment or development",
+    "explanation": "The suffix -trophy means 'nourishment or development'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-trophy' indicates 'nourishment or development'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-genesis-080",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-genesis",
+    "definition": "origin or production",
+    "explanation": "The suffix -genesis means 'origin or production'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-genesis' indicates 'origin or production'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-desis-081",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-desis",
+    "definition": "surgical fusion or binding",
+    "explanation": "The suffix -desis means 'surgical fusion or binding'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-desis' indicates 'surgical fusion or binding'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-cele-082",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cele",
+    "definition": "hernia or swelling",
+    "explanation": "The suffix -cele means 'hernia or swelling'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-cele' indicates 'hernia or swelling'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-ectasis-083",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-ectasis",
+    "definition": "dilation or expansion",
+    "explanation": "The suffix -ectasis means 'dilation or expansion'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-ectasis' indicates 'dilation or expansion'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-spasm-084",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-spasm",
+    "definition": "involuntary contraction",
+    "explanation": "The suffix -spasm means 'involuntary contraction'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-spasm' indicates 'involuntary contraction'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-kinesis-085",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-kinesis",
+    "definition": "movement",
+    "explanation": "The suffix -kinesis means 'movement'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-kinesis' indicates 'movement'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-emia-086",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-emia",
+    "definition": "blood condition",
+    "explanation": "The suffix -emia means 'blood condition'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-emia' indicates 'blood condition'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-penia-087",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-penia",
+    "definition": "deficiency",
+    "explanation": "The suffix -penia means 'deficiency'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-penia' indicates 'deficiency'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-cytosis-088",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cytosis",
+    "definition": "condition of cells",
+    "explanation": "The suffix -cytosis means 'condition of cells'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-cytosis' indicates 'condition of cells'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-phobia-089",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-phobia",
+    "definition": "fear",
+    "explanation": "The suffix -phobia means 'fear'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-phobia' indicates 'fear'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-mania-090",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-mania",
+    "definition": "obsession",
+    "explanation": "The suffix -mania means 'obsession'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-mania' indicates 'obsession'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-pnea-091",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-pnea",
+    "definition": "breathing",
+    "explanation": "The suffix -pnea means 'breathing'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-pnea' indicates 'breathing'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-thorax-092",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-thorax",
+    "definition": "chest condition",
+    "explanation": "The suffix -thorax means 'chest condition'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-thorax' indicates 'chest condition'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-cardia-093",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cardia",
+    "definition": "heart condition",
+    "explanation": "The suffix -cardia means 'heart condition'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-cardia' indicates 'heart condition'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-cyte-094",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-cyte",
+    "definition": "cell",
+    "explanation": "The suffix -cyte means 'cell'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-cyte' indicates 'cell'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-blast-095",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-blast",
+    "definition": "immature cell",
+    "explanation": "The suffix -blast means 'immature cell'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-blast' indicates 'immature cell'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "suffixs-clast-096",
+    "system": "Suffixes",
+    "category": "suffix",
+    "term": "-clast",
+    "definition": "breaking down cell",
+    "explanation": "The suffix -clast means 'breaking down cell'. Suffixes are essential for CPC coders to interpret medical procedures, diagnoses, and conditions from clinical documentation, directly affecting code selection and reimbursement accuracy.",
+    "example": "Example: In clinical documentation, '-clast' indicates 'breaking down cell'. Recognizing this suffix helps the CPC coder accurately interpret the medical record for proper code assignment and billing.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-abdomin-097",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Abdomin",
+    "definition": "abdomen",
+    "explanation": "The root 'Abdomin' means 'abdomen'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Abdomin' = 'abdomen'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-aden-098",
+    "system": "Endocrine",
+    "category": "root_word",
+    "term": "Aden",
+    "definition": "gland",
+    "explanation": "The root 'Aden' means 'gland'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Aden' = 'gland'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-adren-099",
+    "system": "Endocrine",
+    "category": "root_word",
+    "term": "Adren",
+    "definition": "adrenal gland",
+    "explanation": "The root 'Adren' means 'adrenal gland'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Adren' = 'adrenal gland'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-alveol-100",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Alveol",
+    "definition": "air sac in lung",
+    "explanation": "The root 'Alveol' means 'air sac in lung'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Alveol' = 'air sac in lung'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-an-101",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "An",
+    "definition": "anus",
+    "explanation": "The root 'An' means 'anus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'An' = 'anus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-angi-102",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Angi",
+    "definition": "vessel",
+    "explanation": "The root 'Angi' means 'vessel'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Angi' = 'vessel'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-aort-103",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Aort",
+    "definition": "aorta",
+    "explanation": "The root 'Aort' means 'aorta'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Aort' = 'aorta'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-append-104",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Append",
+    "definition": "appendix",
+    "explanation": "The root 'Append' means 'appendix'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Append' = 'appendix'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-arteri-105",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Arteri",
+    "definition": "artery",
+    "explanation": "The root 'Arteri' means 'artery'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Arteri' = 'artery'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-atri-106",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Atri",
+    "definition": "upper heart chamber",
+    "explanation": "The root 'Atri' means 'upper heart chamber'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Atri' = 'upper heart chamber'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-audi-107",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Audi",
+    "definition": "hearing",
+    "explanation": "The root 'Audi' means 'hearing'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Audi' = 'hearing'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-bil-108",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Bil",
+    "definition": "bile",
+    "explanation": "The root 'Bil' means 'bile'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Bil' = 'bile'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-blephar-109",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Blephar",
+    "definition": "eyelid",
+    "explanation": "The root 'Blephar' means 'eyelid'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Blephar' = 'eyelid'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-bronch-110",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Bronch",
+    "definition": "bronchus airway",
+    "explanation": "The root 'Bronch' means 'bronchus airway'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Bronch' = 'bronchus airway'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-bronchiol-111",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Bronchiol",
+    "definition": "small airway",
+    "explanation": "The root 'Bronchiol' means 'small airway'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Bronchiol' = 'small airway'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-burs-112",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Burs",
+    "definition": "bursa",
+    "explanation": "The root 'Burs' means 'bursa'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Burs' = 'bursa'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-calcane-113",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Calcane",
+    "definition": "heel bone",
+    "explanation": "The root 'Calcane' means 'heel bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Calcane' = 'heel bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cardio-114",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Cardio",
+    "definition": "heart",
+    "explanation": "The root 'Cardio' means 'heart'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cardio' = 'heart'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-carp-115",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Carp",
+    "definition": "wrist bones",
+    "explanation": "The root 'Carp' means 'wrist bones'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Carp' = 'wrist bones'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cec-116",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Cec",
+    "definition": "cecum",
+    "explanation": "The root 'Cec' means 'cecum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cec' = 'cecum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cerebr-117",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Cerebr",
+    "definition": "brain",
+    "explanation": "The root 'Cerebr' means 'brain'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cerebr' = 'brain'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cerebell-118",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Cerebell",
+    "definition": "cerebellum",
+    "explanation": "The root 'Cerebell' means 'cerebellum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cerebell' = 'cerebellum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cervic-119",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Cervic",
+    "definition": "cervical neck or cervix",
+    "explanation": "The root 'Cervic' means 'cervical neck or cervix'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cervic' = 'cervical neck or cervix'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cheil-120",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Cheil",
+    "definition": "lip",
+    "explanation": "The root 'Cheil' means 'lip'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cheil' = 'lip'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-chol-121",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Chol",
+    "definition": "bile",
+    "explanation": "The root 'Chol' means 'bile'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Chol' = 'bile'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cholangi-122",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Cholangi",
+    "definition": "bile duct",
+    "explanation": "The root 'Cholangi' means 'bile duct'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cholangi' = 'bile duct'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cholecyst-123",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Cholecyst",
+    "definition": "gallbladder",
+    "explanation": "The root 'Cholecyst' means 'gallbladder'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cholecyst' = 'gallbladder'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-choledoch-124",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Choledoch",
+    "definition": "common bile duct",
+    "explanation": "The root 'Choledoch' means 'common bile duct'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Choledoch' = 'common bile duct'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-chondro-125",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Chondro",
+    "definition": "cartilage",
+    "explanation": "The root 'Chondro' means 'cartilage'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Chondro' = 'cartilage'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cochle-126",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Cochle",
+    "definition": "cochlea hearing organ",
+    "explanation": "The root 'Cochle' means 'cochlea hearing organ'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cochle' = 'cochlea hearing organ'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-col-127",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Col",
+    "definition": "colon",
+    "explanation": "The root 'Col' means 'colon'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Col' = 'colon'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-colp-128",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Colp",
+    "definition": "vagina",
+    "explanation": "The root 'Colp' means 'vagina'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Colp' = 'vagina'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-conjunctiv-129",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Conjunctiv",
+    "definition": "conjunctiva membrane covering eye",
+    "explanation": "The root 'Conjunctiv' means 'conjunctiva membrane covering eye'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Conjunctiv' = 'conjunctiva membrane covering eye'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-corne-130",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Corne",
+    "definition": "cornea",
+    "explanation": "The root 'Corne' means 'cornea'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Corne' = 'cornea'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cost-131",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Cost",
+    "definition": "rib",
+    "explanation": "The root 'Cost' means 'rib'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cost' = 'rib'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-crani-132",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Crani",
+    "definition": "skull",
+    "explanation": "The root 'Crani' means 'skull'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Crani' = 'skull'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cutane-133",
+    "system": "Integumentary",
+    "category": "root_word",
+    "term": "Cutane",
+    "definition": "skin",
+    "explanation": "The root 'Cutane' means 'skin'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cutane' = 'skin'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-cyst-134",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Cyst",
+    "definition": "bladder",
+    "explanation": "The root 'Cyst' means 'bladder'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Cyst' = 'bladder'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-dacry-135",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Dacry",
+    "definition": "tear or lacrimal",
+    "explanation": "The root 'Dacry' means 'tear or lacrimal'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Dacry' = 'tear or lacrimal'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-dent-136",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Dent",
+    "definition": "tooth",
+    "explanation": "The root 'Dent' means 'tooth'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Dent' = 'tooth'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-derm-137",
+    "system": "Integumentary",
+    "category": "root_word",
+    "term": "Derm",
+    "definition": "skin",
+    "explanation": "The root 'Derm' means 'skin'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Derm' = 'skin'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-duoden-138",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Duoden",
+    "definition": "duodenum",
+    "explanation": "The root 'Duoden' means 'duodenum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Duoden' = 'duodenum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-dur-139",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Dur",
+    "definition": "dura mater outer brain covering",
+    "explanation": "The root 'Dur' means 'dura mater outer brain covering'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Dur' = 'dura mater outer brain covering'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-encephal-140",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Encephal",
+    "definition": "brain",
+    "explanation": "The root 'Encephal' means 'brain'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Encephal' = 'brain'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-endocardi-141",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Endocardi",
+    "definition": "inner lining of heart",
+    "explanation": "The root 'Endocardi' means 'inner lining of heart'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Endocardi' = 'inner lining of heart'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-endometri-142",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Endometri",
+    "definition": "inner lining of uterus",
+    "explanation": "The root 'Endometri' means 'inner lining of uterus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Endometri' = 'inner lining of uterus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-enter-143",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Enter",
+    "definition": "intestine",
+    "explanation": "The root 'Enter' means 'intestine'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Enter' = 'intestine'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-epididym-144",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Epididym",
+    "definition": "epididymis",
+    "explanation": "The root 'Epididym' means 'epididymis'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Epididym' = 'epididymis'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-episio-145",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Episio",
+    "definition": "vulva or perineum",
+    "explanation": "The root 'Episio' means 'vulva or perineum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Episio' = 'vulva or perineum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-esophag-146",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Esophag",
+    "definition": "esophagus",
+    "explanation": "The root 'Esophag' means 'esophagus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Esophag' = 'esophagus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-femor-147",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Femor",
+    "definition": "femur thigh bone",
+    "explanation": "The root 'Femor' means 'femur thigh bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Femor' = 'femur thigh bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-fibul-148",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Fibul",
+    "definition": "fibula smaller lower leg bone",
+    "explanation": "The root 'Fibul' means 'fibula smaller lower leg bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Fibul' = 'fibula smaller lower leg bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-gastr-149",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Gastr",
+    "definition": "stomach",
+    "explanation": "The root 'Gastr' means 'stomach'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Gastr' = 'stomach'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-gingiv-150",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Gingiv",
+    "definition": "gums",
+    "explanation": "The root 'Gingiv' means 'gums'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Gingiv' = 'gums'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-glomerul-151",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Glomerul",
+    "definition": "filtering unit of kidney",
+    "explanation": "The root 'Glomerul' means 'filtering unit of kidney'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Glomerul' = 'filtering unit of kidney'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-gloss-152",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Gloss",
+    "definition": "tongue",
+    "explanation": "The root 'Gloss' means 'tongue'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Gloss' = 'tongue'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-gonad-153",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Gonad",
+    "definition": "reproductive gland",
+    "explanation": "The root 'Gonad' means 'reproductive gland'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Gonad' = 'reproductive gland'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-hepat-154",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Hepat",
+    "definition": "liver",
+    "explanation": "The root 'Hepat' means 'liver'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Hepat' = 'liver'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-herni-155",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Herni",
+    "definition": "hernia",
+    "explanation": "The root 'Herni' means 'hernia'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Herni' = 'hernia'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-humer-156",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Humer",
+    "definition": "humerus upper arm bone",
+    "explanation": "The root 'Humer' means 'humerus upper arm bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Humer' = 'humerus upper arm bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-hyster-157",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Hyster",
+    "definition": "uterus",
+    "explanation": "The root 'Hyster' means 'uterus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Hyster' = 'uterus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ile-158",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Ile",
+    "definition": "ileum",
+    "explanation": "The root 'Ile' means 'ileum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ile' = 'ileum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-iri-159",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Iri",
+    "definition": "iris",
+    "explanation": "The root 'Iri' means 'iris'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Iri' = 'iris'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-jejun-160",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Jejun",
+    "definition": "jejunum",
+    "explanation": "The root 'Jejun' means 'jejunum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Jejun' = 'jejunum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-labi-161",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Labi",
+    "definition": "lip",
+    "explanation": "The root 'Labi' means 'lip'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Labi' = 'lip'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-lacrim-162",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Lacrim",
+    "definition": "tear or tear duct",
+    "explanation": "The root 'Lacrim' means 'tear or tear duct'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Lacrim' = 'tear or tear duct'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-lapar-163",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Lapar",
+    "definition": "abdomen",
+    "explanation": "The root 'Lapar' means 'abdomen'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Lapar' = 'abdomen'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-laryng-164",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Laryng",
+    "definition": "larynx voice box",
+    "explanation": "The root 'Laryng' means 'larynx voice box'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Laryng' = 'larynx voice box'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-lingu-165",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Lingu",
+    "definition": "tongue",
+    "explanation": "The root 'Lingu' means 'tongue'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Lingu' = 'tongue'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-lumb-166",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Lumb",
+    "definition": "lumbar lower back",
+    "explanation": "The root 'Lumb' means 'lumbar lower back'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Lumb' = 'lumbar lower back'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-mamm-167",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Mamm",
+    "definition": "breast",
+    "explanation": "The root 'Mamm' means 'breast'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Mamm' = 'breast'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-mast-168",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Mast",
+    "definition": "breast",
+    "explanation": "The root 'Mast' means 'breast'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Mast' = 'breast'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-mastoid-169",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Mastoid",
+    "definition": "mastoid bone behind ear",
+    "explanation": "The root 'Mastoid' means 'mastoid bone behind ear'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Mastoid' = 'mastoid bone behind ear'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-men-170",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Men",
+    "definition": "menstruation",
+    "explanation": "The root 'Men' means 'menstruation'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Men' = 'menstruation'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-mening-171",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Mening",
+    "definition": "brain coverings",
+    "explanation": "The root 'Mening' means 'brain coverings'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Mening' = 'brain coverings'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-metr-172",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Metr",
+    "definition": "uterus",
+    "explanation": "The root 'Metr' means 'uterus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Metr' = 'uterus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-myocardi-173",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Myocardi",
+    "definition": "heart muscle",
+    "explanation": "The root 'Myocardi' means 'heart muscle'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Myocardi' = 'heart muscle'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-myel-174",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Myel",
+    "definition": "spinal cord or bone marrow",
+    "explanation": "The root 'Myel' means 'spinal cord or bone marrow'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Myel' = 'spinal cord or bone marrow'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-myometri-175",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Myometri",
+    "definition": "muscular wall of uterus",
+    "explanation": "The root 'Myometri' means 'muscular wall of uterus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Myometri' = 'muscular wall of uterus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-myring-176",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Myring",
+    "definition": "eardrum",
+    "explanation": "The root 'Myring' means 'eardrum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Myring' = 'eardrum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-nas-177",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Nas",
+    "definition": "nose",
+    "explanation": "The root 'Nas' means 'nose'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Nas' = 'nose'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-nephr-178",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Nephr",
+    "definition": "kidney",
+    "explanation": "The root 'Nephr' means 'kidney'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Nephr' = 'kidney'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-neur-179",
+    "system": "Nervous",
+    "category": "root_word",
+    "term": "Neur",
+    "definition": "nerve",
+    "explanation": "The root 'Neur' means 'nerve'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Neur' = 'nerve'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ocul-180",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Ocul",
+    "definition": "eye",
+    "explanation": "The root 'Ocul' means 'eye'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ocul' = 'eye'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-oophor-181",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Oophor",
+    "definition": "ovary",
+    "explanation": "The root 'Oophor' means 'ovary'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Oophor' = 'ovary'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ophthalm-182",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Ophthalm",
+    "definition": "eye",
+    "explanation": "The root 'Ophthalm' means 'eye'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ophthalm' = 'eye'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-opt-183",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Opt",
+    "definition": "vision or eye",
+    "explanation": "The root 'Opt' means 'vision or eye'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Opt' = 'vision or eye'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-or-184",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Or",
+    "definition": "mouth",
+    "explanation": "The root 'Or' means 'mouth'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Or' = 'mouth'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-orchid-185",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Orchid",
+    "definition": "testis",
+    "explanation": "The root 'Orchid' means 'testis'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Orchid' = 'testis'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-orchi-186",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Orchi",
+    "definition": "testis",
+    "explanation": "The root 'Orchi' means 'testis'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Orchi' = 'testis'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ossicl-187",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Ossicl",
+    "definition": "small bones of middle ear",
+    "explanation": "The root 'Ossicl' means 'small bones of middle ear'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ossicl' = 'small bones of middle ear'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-osteo-188",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Osteo",
+    "definition": "bone",
+    "explanation": "The root 'Osteo' means 'bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Osteo' = 'bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ot-189",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Ot",
+    "definition": "ear",
+    "explanation": "The root 'Ot' means 'ear'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ot' = 'ear'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ovari-190",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Ovari",
+    "definition": "ovary",
+    "explanation": "The root 'Ovari' means 'ovary'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ovari' = 'ovary'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pancreat-191",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Pancreat",
+    "definition": "pancreas",
+    "explanation": "The root 'Pancreat' means 'pancreas'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pancreat' = 'pancreas'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-parathyr-192",
+    "system": "Endocrine",
+    "category": "root_word",
+    "term": "Parathyr",
+    "definition": "parathyroid",
+    "explanation": "The root 'Parathyr' means 'parathyroid'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Parathyr' = 'parathyroid'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-patell-193",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Patell",
+    "definition": "kneecap",
+    "explanation": "The root 'Patell' means 'kneecap'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Patell' = 'kneecap'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pelvi-194",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Pelvi",
+    "definition": "pelvis",
+    "explanation": "The root 'Pelvi' means 'pelvis'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pelvi' = 'pelvis'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pen-195",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Pen",
+    "definition": "penis",
+    "explanation": "The root 'Pen' means 'penis'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pen' = 'penis'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pericardi-196",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Pericardi",
+    "definition": "sac around heart",
+    "explanation": "The root 'Pericardi' means 'sac around heart'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pericardi' = 'sac around heart'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-peritone-197",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Peritone",
+    "definition": "peritoneum",
+    "explanation": "The root 'Peritone' means 'peritoneum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Peritone' = 'peritoneum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pharyng-198",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Pharyng",
+    "definition": "pharynx throat",
+    "explanation": "The root 'Pharyng' means 'pharynx throat'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pharyng' = 'pharynx throat'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-phalang-199",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Phalang",
+    "definition": "finger or toe bones",
+    "explanation": "The root 'Phalang' means 'finger or toe bones'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Phalang' = 'finger or toe bones'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-phleb-200",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Phleb",
+    "definition": "vein",
+    "explanation": "The root 'Phleb' means 'vein'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Phleb' = 'vein'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-phren-201",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Phren",
+    "definition": "diaphragm",
+    "explanation": "The root 'Phren' means 'diaphragm'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Phren' = 'diaphragm'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pituit-202",
+    "system": "Endocrine",
+    "category": "root_word",
+    "term": "Pituit",
+    "definition": "pituitary gland",
+    "explanation": "The root 'Pituit' means 'pituitary gland'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pituit' = 'pituitary gland'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pleur-203",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Pleur",
+    "definition": "pleura lung covering",
+    "explanation": "The root 'Pleur' means 'pleura lung covering'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pleur' = 'pleura lung covering'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pneumo-204",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Pneumo",
+    "definition": "lung or air",
+    "explanation": "The root 'Pneumo' means 'lung or air'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pneumo' = 'lung or air'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-proct-205",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Proct",
+    "definition": "rectum and anus",
+    "explanation": "The root 'Proct' means 'rectum and anus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Proct' = 'rectum and anus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-prostat-206",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Prostat",
+    "definition": "prostate",
+    "explanation": "The root 'Prostat' means 'prostate'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Prostat' = 'prostate'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pulmon-207",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Pulmon",
+    "definition": "lung",
+    "explanation": "The root 'Pulmon' means 'lung'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pulmon' = 'lung'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pylor-208",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Pylor",
+    "definition": "pylorus",
+    "explanation": "The root 'Pylor' means 'pylorus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pylor' = 'pylorus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-pyel-209",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Pyel",
+    "definition": "renal pelvis",
+    "explanation": "The root 'Pyel' means 'renal pelvis'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Pyel' = 'renal pelvis'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-radi-210",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Radi",
+    "definition": "radius lower arm bone or radiation",
+    "explanation": "The root 'Radi' means 'radius lower arm bone or radiation'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Radi' = 'radius lower arm bone or radiation'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-rect-211",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Rect",
+    "definition": "rectum",
+    "explanation": "The root 'Rect' means 'rectum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Rect' = 'rectum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ren-212",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Ren",
+    "definition": "kidney",
+    "explanation": "The root 'Ren' means 'kidney'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ren' = 'kidney'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-retin-213",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Retin",
+    "definition": "retina",
+    "explanation": "The root 'Retin' means 'retina'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Retin' = 'retina'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-rhin-214",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Rhin",
+    "definition": "nose",
+    "explanation": "The root 'Rhin' means 'nose'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Rhin' = 'nose'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-sacr-215",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Sacr",
+    "definition": "sacrum",
+    "explanation": "The root 'Sacr' means 'sacrum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Sacr' = 'sacrum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-salping-216",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Salping",
+    "definition": "fallopian tube",
+    "explanation": "The root 'Salping' means 'fallopian tube'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Salping' = 'fallopian tube'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-scler-217",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Scler",
+    "definition": "sclera white of eye",
+    "explanation": "The root 'Scler' means 'sclera white of eye'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Scler' = 'sclera white of eye'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-scrot-218",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Scrot",
+    "definition": "scrotum",
+    "explanation": "The root 'Scrot' means 'scrotum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Scrot' = 'scrotum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-sept-219",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Sept",
+    "definition": "dividing wall",
+    "explanation": "The root 'Sept' means 'dividing wall'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Sept' = 'dividing wall'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-sialaden-220",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Sialaden",
+    "definition": "salivary gland",
+    "explanation": "The root 'Sialaden' means 'salivary gland'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Sialaden' = 'salivary gland'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-sigmoid-221",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Sigmoid",
+    "definition": "sigmoid colon",
+    "explanation": "The root 'Sigmoid' means 'sigmoid colon'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Sigmoid' = 'sigmoid colon'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-sinus-222",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Sinus",
+    "definition": "hollow space in skull",
+    "explanation": "The root 'Sinus' means 'hollow space in skull'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Sinus' = 'hollow space in skull'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-spleno-223",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Spleno",
+    "definition": "spleen",
+    "explanation": "The root 'Spleno' means 'spleen'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Spleno' = 'spleen'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-stern-224",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Stern",
+    "definition": "sternum breastbone",
+    "explanation": "The root 'Stern' means 'sternum breastbone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Stern' = 'sternum breastbone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-stomat-225",
+    "system": "Digestive",
+    "category": "root_word",
+    "term": "Stomat",
+    "definition": "mouth",
+    "explanation": "The root 'Stomat' means 'mouth'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Stomat' = 'mouth'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-tars-226",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Tars",
+    "definition": "ankle bones",
+    "explanation": "The root 'Tars' means 'ankle bones'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Tars' = 'ankle bones'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-tend-227",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Tend",
+    "definition": "tendon",
+    "explanation": "The root 'Tend' means 'tendon'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Tend' = 'tendon'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-thorac-228",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Thorac",
+    "definition": "chest",
+    "explanation": "The root 'Thorac' means 'chest'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Thorac' = 'chest'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-thym-229",
+    "system": "Endocrine",
+    "category": "root_word",
+    "term": "Thym",
+    "definition": "thymus gland",
+    "explanation": "The root 'Thym' means 'thymus gland'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Thym' = 'thymus gland'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-thyr-230",
+    "system": "Endocrine",
+    "category": "root_word",
+    "term": "Thyr",
+    "definition": "thyroid",
+    "explanation": "The root 'Thyr' means 'thyroid'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Thyr' = 'thyroid'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-tibi-231",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Tibi",
+    "definition": "tibia shin bone",
+    "explanation": "The root 'Tibi' means 'tibia shin bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Tibi' = 'tibia shin bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-trache-232",
+    "system": "Respiratory",
+    "category": "root_word",
+    "term": "Trache",
+    "definition": "trachea windpipe",
+    "explanation": "The root 'Trache' means 'trachea windpipe'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Trache' = 'trachea windpipe'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-turbin-233",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Turbin",
+    "definition": "scroll shaped bone in nose",
+    "explanation": "The root 'Turbin' means 'scroll shaped bone in nose'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Turbin' = 'scroll shaped bone in nose'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-tympan-234",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Tympan",
+    "definition": "eardrum",
+    "explanation": "The root 'Tympan' means 'eardrum'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Tympan' = 'eardrum'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-uln-235",
+    "system": "Musculoskeletal",
+    "category": "root_word",
+    "term": "Uln",
+    "definition": "ulna lower arm bone",
+    "explanation": "The root 'Uln' means 'ulna lower arm bone'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Uln' = 'ulna lower arm bone'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ureter-236",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Ureter",
+    "definition": "ureter",
+    "explanation": "The root 'Ureter' means 'ureter'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ureter' = 'ureter'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-urethr-237",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Urethr",
+    "definition": "urethra",
+    "explanation": "The root 'Urethr' means 'urethra'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Urethr' = 'urethra'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ur-238",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Ur",
+    "definition": "urine",
+    "explanation": "The root 'Ur' means 'urine'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ur' = 'urine'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-uter-239",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Uter",
+    "definition": "uterus",
+    "explanation": "The root 'Uter' means 'uterus'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Uter' = 'uterus'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-vagin-240",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Vagin",
+    "definition": "vagina",
+    "explanation": "The root 'Vagin' means 'vagina'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Vagin' = 'vagina'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-valv-241",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Valv",
+    "definition": "valve",
+    "explanation": "The root 'Valv' means 'valve'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Valv' = 'valve'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-vas-242",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Vas",
+    "definition": "vas deferens",
+    "explanation": "The root 'Vas' means 'vas deferens'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Vas' = 'vas deferens'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ven-243",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Ven",
+    "definition": "vein",
+    "explanation": "The root 'Ven' means 'vein'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ven' = 'vein'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-vesic-244",
+    "system": "Urinary",
+    "category": "root_word",
+    "term": "Vesic",
+    "definition": "bladder",
+    "explanation": "The root 'Vesic' means 'bladder'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Vesic' = 'bladder'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-vesicul-245",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Vesicul",
+    "definition": "seminal vesicle",
+    "explanation": "The root 'Vesicul' means 'seminal vesicle'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Vesicul' = 'seminal vesicle'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-vestibul-246",
+    "system": "Ear & Eye",
+    "category": "root_word",
+    "term": "Vestibul",
+    "definition": "vestibule",
+    "explanation": "The root 'Vestibul' means 'vestibule'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Vestibul' = 'vestibule'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-ventricu-247",
+    "system": "Cardiovascular",
+    "category": "root_word",
+    "term": "Ventricu",
+    "definition": "ventricle of heart or brain",
+    "explanation": "The root 'Ventricu' means 'ventricle of heart or brain'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Ventricu' = 'ventricle of heart or brain'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "root_words-vulv-248",
+    "system": "Reproductive",
+    "category": "root_word",
+    "term": "Vulv",
+    "definition": "vulva",
+    "explanation": "The root 'Vulv' means 'vulva'. Recognizing medical root words is fundamental for CPC coders to interpret clinical documentation accurately and assign the correct diagnosis and procedure codes.",
+    "example": "Example: 'Vulv' = 'vulva'. CPC coders use this root to interpret clinical documentation and select the appropriate ICD-10-CM diagnosis code or CPT procedure code for accurate billing and reimbursement.",
+    "difficulty": "basic"
+  }
+]
